@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+{{ partial "head" . }}
+<body>
+
+  <div id="bg">
+    <div id="MainAlign">
+      {{ partial "header" . }}
+      {{ partial "nav" . }}
+
+      {{ block "main" . }}
+
+      {{ end }}
+
+      {{ partial "footer" . }}
+    </div>
+  </div>
+</body>
+</html>
