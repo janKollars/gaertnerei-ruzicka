@@ -159,3 +159,18 @@
 .nav-link:hover img:last-child {
   display: inline;
 }
+
+.produkt-liste {
+  list-style: none;
+  padding-left: 0;
+}
+.produkt-liste > li {
+  margin-bottom: 2em;
+}
+.produkt-liste h2 {
+  margin-bottom: 0;
+  color: #330;
+}
+.produkt-liste p {
+  margin-top: 0;
+}
