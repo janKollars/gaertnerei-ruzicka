@@ -20,7 +20,7 @@ body {
   margin-right: 0px;
   margin-top: 0px;
   text-align: center; /* Zentrierung für IE*/
-  background-image: url(/img/background.png);
+  background-image: url(/img/background.jpg);
   background-size: 1024px;
   background-repeat: repeat-x;
 }
@@ -117,7 +117,7 @@ small {
 #impressum {
   clear: both;
   float: none;
-  background-image: url(/img/grasbg.png);
+  background-image: url(/img/grasbg.jpg);
   text-align: center;
   width: 1024px;
   height: 115px;
