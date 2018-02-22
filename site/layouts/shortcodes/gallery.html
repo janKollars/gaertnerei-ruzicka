@@ -1,0 +1,10 @@
+{{ $folder:= .Get 0 }}
+{{ $path :=  (print "./static/img/gallery/" (.Get 0) "/") }}
+
+<div class="gallery">
+  {{ range (readDir $path) }}
+  <figure>
+    <img src="{{ print `/img/gallery/` $folder `/` .Name }}" alt="{{ substr .Name 0 (sub (len .Name) 4) }}">
+  </figure>
+  {{ end }}
+</div>
