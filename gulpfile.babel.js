@@ -10,6 +10,8 @@ import BrowserSync from "browser-sync";
 import watch from "gulp-watch";
 import webpack from "webpack";
 import webpackConfig from "./webpack.conf";
+import sass from "gulp-sass";
+import autoprefixer from 'gulp-autoprefixer';
 
 const browserSync = BrowserSync.create();
 
@@ -25,10 +27,14 @@ gulp.task("hugo-preview", (cb) => buildSite(cb, hugoArgsPreview));
 gulp.task("build", ["css", "js", "fonts"], (cb) => buildSite(cb, [], "production"));
 gulp.task("build-preview", ["css", "js", "fonts"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
 
-// Compile CSS with PostCSS
+// Compile CSS
 gulp.task("css", () => (
-  gulp.src("./src/css/*.css")
-    .pipe(postcss([cssImport({from: "./src/css/main.css"}), cssnext()]))
+  gulp.src(["./src/css/*.scss", "!.//src/css/_*.scss"])
+    .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+    .pipe(autoprefixer({
+      browsers: ['last 2 versions'],
+      cascade: false
+    }))
     .pipe(gulp.dest("./dist/css"))
     .pipe(browserSync.stream())
 ));
@@ -64,7 +70,7 @@ gulp.task("server", ["hugo", "css", "js", "fonts"], () => {
     }
   });
   watch("./src/js/**/*.js", () => { gulp.start(["js"]) });
-  watch("./src/css/**/*.css", () => { gulp.start(["css"]) });
+  watch("./src/css/**/*.scss", () => { gulp.start(["css"]) });
   watch("./src/fonts/**/*", () => { gulp.start(["fonts"]) });
   watch("./site/**/*", () => { gulp.start(["hugo"]) });
 });
