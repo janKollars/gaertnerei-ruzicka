@@ -77,8 +77,12 @@ small {
 }
 
 #MainAlign {
+  box-sizing: border-box;
+  position: relative;
   float: none;
   margin: 0 auto;
+  padding-bottom: 115px;
+  min-height: 100vh;
   width: 880px;
   text-align: left;
 }
@@ -122,6 +126,8 @@ small {
 }
 
 #impressum {
+  position: absolute;
+  bottom: 0;
   float: none;
   clear: both;
   background-image: url('/img/grasbg.jpg');
