@@ -3,8 +3,16 @@
 
 <div class="gallery">
   {{ range (readDir $path) }}
+  {{ $img := .Name }}
   <figure>
-    <img src="{{ print `/img/gallery/` $folder `/` .Name }}" alt="{{ substr .Name 0 (sub (len .Name) 4) }}">
+    <img src="{{ print `/img/gallery/` $folder `/` .Name }}" alt="{{ substr $img 0 (sub (len $img) 4) }}">
+    {{ range (index $.Site.Data.gallery $folder) }}
+      {{ if eq .bild $img }}
+      <figcaption>
+        {{ .desc }}
+      </figcaption>
+      {{ end }}
+    {{ end }}
   </figure>
   {{ end }}
 </div>

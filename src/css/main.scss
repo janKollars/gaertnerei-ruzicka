@@ -218,9 +218,12 @@ small {
   margin-left: -.5rem;
 
   figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     margin-top: 0;
     margin-right: 0;
-    margin-bottom: 0;
+    margin-bottom: 1rem;
     margin-left: .5rem;
     max-width: calc(50% - .5rem);
   }
