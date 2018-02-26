@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+<h1>{{ .Params.title }}</h1>
+<div class="post__info">
+  <div>Gattung: <a href="/gattung/{{ lower .Params.gattung }}/">{{ .Params.gattung }}</a></div>
+  <div>Preis: € {{ index .Site.Data.kraeuter.preiskategorien .Params.preis }}</div>
+  <div>{{ index .Site.Data.kraeuter.jahr .Params.jahr }}</div>
+  <div>{{ index .Site.Data.kraeuter.winter .Params.winter }}</div>
+  <div>{{ index .Site.Data.kraeuter.licht .Params.licht }}</div>
+  <div>{{ index .Site.Data.kraeuter.wasser .Params.wasser }} Wasser</div>
+  <div></div>
+</div>
+{{ .Content }}
+
+{{ end }}
