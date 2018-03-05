@@ -76,6 +76,15 @@ small {
   font-size: .8em;
 }
 
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+figcaption {
+  font-size: .8em;
+}
+
 .light-text {
   color: $font-color-grey;
 }
@@ -281,6 +290,10 @@ small {
   }
 }
 
+label {
+  margin-right: .5em;
+}
+
 .angebote {
   header {
     color: $brand-color;
@@ -327,6 +340,10 @@ small {
 
   img {
     max-width: 100%;
+  }
+
+  figcaption {
+    font-size: 1em;
   }
 }
 
