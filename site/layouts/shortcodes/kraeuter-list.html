@@ -1,6 +1,22 @@
-<label for="jetsSearch">Suche</label><input type="search" id="jetsSearch" style="margin-bottom: 5rem;">
-<ul id="jetsContent" style="display: none;">
-  {{ range where $.Site.Pages "Section" "=" "kraeuter"}}
-  <li><a href="{{ .URL }}">{{ .Title }}</a></li>
-  {{ end }}
-</ul>
+<label for="jetsSearch">Suche</label><input type="search" id="jetsSearch">
+<button class="btn-expand">Alle anzeigen</button>
+<table class="kraeuter-table">
+  <tbody id="jetsContent" style="display: none;">
+    {{ range .Site.Data.kraeuterDB.kraeuter }}
+    <tr>
+      <td>
+        {{ if eq .link 1 }}<a href="/kraeuter/{{ lower .Name }}">{{ .Name }}</a>{{ else }}{{ .Name }}{{ end }}
+        {{ if ne .Name2 "" }}
+          <br><small>{{ .Name2 }}</small>
+        {{ end }}
+      </td>
+
+      <td>
+        {{ if ne .Preis "" }}
+          € {{ index $.Site.Data.kraeuterMeta.preiskategorien .Preis }}
+        {{ end }}
+      </td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
