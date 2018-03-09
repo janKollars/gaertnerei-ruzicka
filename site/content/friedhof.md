@@ -2,8 +2,7 @@
 title: Friedhofsgärtnerei
 ---
 
-Am 1. April 1985 übernahm Martin Ruzicka die Friedhofsgärtnerei in Langenzersdorf von Frau Elisabeth Kotvojs. Da aufgrund von Straßenbauvorhaben die bestehenden Gebäude und Glashäuser abgetragen werden mussten, wurde bereits 1985 der erste Folientunnel aufgestellt und mit dem Bau des neuen Betriebsgebäudes begonnen.  
-Ein geräumiger Arbeitsraum mit Lagermöglichkeiten, Kühlhaus, Heizraum, Büro und Sanitärräumen wurde auf dem Pachtgrundstück des Stiftes Klosterneuburg errichtet. Die Errichtung eines zweiten Folientunnels, die Befestigung der Wege, Wasserleitungen und die Einfriedung des Grundstückes wurden in den nächsten Jahren durchgeführt
+Am 1. April 1985 übernahm Martin Ruzicka die Friedhofsgärtnerei in Langenzersdorf von Frau Elisabeth Kotvojs. Da aufgrund von Straßenbauvorhaben die bestehenden Gebäude und Glashäuser abgetragen werden mussten, wurde bereits 1985 der erste Folientunnel aufgestellt und mit dem Bau des neuen Betriebsgebäudes begonnen.  Ein geräumiger Arbeitsraum mit Lagermöglichkeiten, Kühlhaus, Heizraum, Büro und Sanitärräumen wurde auf dem Pachtgrundstück des Stiftes Klosterneuburg errichtet. Die Errichtung eines zweiten Folientunnels, die Befestigung der Wege, Wasserleitungen und die Einfriedung des Grundstückes wurden in den nächsten Jahren durchgeführt.
 
 {{< figure class="shadow" src="/img/gaertnerei_haus.jpg" alt="Gebäude Gärtnerei Ruzicka" >}}
 
