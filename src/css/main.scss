@@ -12,7 +12,7 @@ body {
   max-width: 100%;
   min-height: 100vh;
   text-align: center;
-  line-height: 1.2;
+  line-height: 1.6;
   color: #000;
   font-family: 'Merriweather', serif;
   font-size: 100%;
@@ -64,6 +64,11 @@ small {
   font-size: .8em;
 }
 
+figure {
+  display: inline-block;
+  margin: 0;
+  line-height: 0;
+}
 .float-r {
   float: right;
 }
@@ -299,8 +304,6 @@ small {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    margin-top: 0;
-    margin-right: 0;
     margin-bottom: 1rem;
     margin-left: .5rem;
     max-width: calc(50% - .5rem);
