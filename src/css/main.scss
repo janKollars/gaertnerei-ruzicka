@@ -26,7 +26,7 @@ a {
 
   &:visited {
     text-decoration: none;
-    color: #900;
+    color: #093;
   }
 
   &:hover {
@@ -312,4 +312,18 @@ figure {
   img {
     max-width: 100%;
   }
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 1;
+    border-style: hidden;
+    width: 65%;
+    tr:hover {background-color: #DCdCdC;}
+}
+
+td, th{
+    border:1px solid #000000;
+    vertical-align: top;
+    padding: 7.5px;
 }

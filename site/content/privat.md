@@ -12,13 +12,13 @@ Ende des Jahres 2001 traten meine Eltern in den wohlverdienten Ruhestand und ich
 
 Der Name **RUZICKA** ist tschechischen Ursprungs. Auf Deutsch bedeutet er so viel wie Röslein. Dies ist ein Zeichen, dass auch meine Vorfahren schon seit sehr langer Zeit Gärtner waren. Bis zur Mitte des 18. Jahrhunderts ist dies durch unseren Stammbaum belegbar. Anfang des 20. Jahrhunderts kamen meine Ahnen nach Österreich. Seit 1910 besteht unsere Gärtnerei an ihrem jetzigen Standort.
 
-Am 10. September 1989 lernte ich meine Michaela kennen. Das heißt, gekannt haben wir uns eigentlich schon länger, aber nur flüchtig. Am 27. Juli 1991 ("zufällig" war das mein 27. Geburtstag) heirateten wir in der Kirche von Langenzersdorf. Die Standesamtliche Hochzeit war am Tag davor. Für mich ist aber die kirchliche Trauung entscheidend.
+<!--Am 10. September 1989 lernte ich meine Michaela kennen. Das heißt, gekannt haben wir uns eigentlich schon länger, aber nur flüchtig. Am 27. Juli 1991 ("zufällig" war das mein 27. Geburtstag) heirateten wir in der Kirche von Langenzersdorf. Die Standesamtliche Hochzeit war am Tag davor. Für mich ist aber die kirchliche Trauung entscheidend.
 
 Unsere Tochter Martina kam am 20. September 1993 zur Welt. Sie besucht seit 2008 die Tourismusschule in der Bergheidengasse in Wien.
 
 Am 31. Juli 1995 folgte Martinas Bruder Michael. Er besucht seit 2009 die Gartenbaufachschule in Langenlois.
 
-Die Dritte im Bunde ist Manuela. Seit 26. Februar 1997 ist sie bei uns. Als kleinste muss sie des öfteren ihre Ellenbogen einsetzen, um sich durchzusetzen. Ab September 2011 möchte sie dann in der Herbststraße in Wien die Höhere Lehranstalt für künstlerische Gestaltung besuchen.
+Die Dritte im Bunde ist Manuela. Seit 26. Februar 1997 ist sie bei uns. Als kleinste muss sie des öfteren ihre Ellenbogen einsetzen, um sich durchzusetzen. Ab September 2011 möchte sie dann in der Herbststraße in Wien die Höhere Lehranstalt für künstlerische Gestaltung besuchen.-->
 
 ## Mittelalter
 
