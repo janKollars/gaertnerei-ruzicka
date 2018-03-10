@@ -1,7 +1,7 @@
 ---
 title: Saisonale Angebote
 ---
-{{< figure class="shadow" src="/img/saisonal_180309.jpg" alt="Saisonal aktuell" width="460">}}
+{{< figure class="shadow" src="/img/saisonal_20180309.jpg" alt="Topfpflanzen aktuell" width="460">}}
 
 ### Topfpflanzen
 
@@ -16,6 +16,16 @@ Schneerose     | € 7,-
 Duftveilchen   | € 8,-
 
 <!--Vergissmeinnicht € 3,- -->
+
+### Samen
+
+{{< figure class="shadow" class="float-r" src="/img/saisonal_20180310.jpg" alt="Samen aktuell" width="150" >}}
+Aktuell haben wir Samen zur Aussaat von Blumen und Gemüsepflanzen von Austrosaat anzubieten.
+
+Die angebotenen Gemüsesorten umfassen zum Beispiel Salat und Zucchini, aber auch Karotten und Erbsen. Und auch Kräutersamen sind dabei.
+
+Die Sämereien sind in verschiedenen Größen erhältlich.
+
 
 <!--<h3>Schnittblumen</h3>
 

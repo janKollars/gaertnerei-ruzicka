@@ -14,4 +14,4 @@ Der Verkauf von blühenden Pflanzen für die Grabbepflanzung oder auch für Gart
 
 Eine Spezialität sind [Heilpflanzen, Gewürz- und Küchenkräuter](/kraeuter/). Dabei finden sich immer wieder seltene Raritäten und Besonderheiten sowie ein Sortiment von mittelalterlichen Kräutern und Heilpflanzen. Die Produktion der Pflanzen erfolgt in der Gärtnerei Martin Ruzicka, Wiener Straße 112, der Detailverkauf findet in der Friedhofsgärtnerei statt.
 
-{{< gmaps src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21231.447580971566!2d16.350821437534577!3d48.304179479237135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d0f7b151d11d5%3A0xa5868db08c124111!2sMartin+Ruzicka!5e0!3m2!1sde!2sat!4v1520589377662" height="400" >}}
+{{< gmaps src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10616.150811089272!2d16.3680384!3d48.3021263!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xaeb655f3ce17cb8d!2sFriedhofsg%C3%A4rtnerei+Martin+Ruzicka!5e0!3m2!1sde!2sat!4v1520666697994" height="400" >}}

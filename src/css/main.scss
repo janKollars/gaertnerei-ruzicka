@@ -99,6 +99,10 @@ th {
   }
 }
 
+.space-between {
+  justify-content: space-between;
+}
+
 .mg-l {
   margin-left: 1rem;
   box-sizing: border-box;
@@ -299,6 +303,7 @@ th {
 }
 
 .angebote__item {
+  min-width: 200px;
   &:not(:last-child) {
     border-bottom: 1px solid #555;
   }
