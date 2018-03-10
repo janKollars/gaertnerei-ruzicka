@@ -1,0 +1,20 @@
+preiskategorien:
+  A: 3
+  B: 2
+  C: 1
+jahr:
+  1: einjährig
+  2: zweijährig
+  m: mehrjährig
+winter:
+  j: winterhart
+  n: nicht winterhart
+licht:
+  1: absonnig
+  2: lichtschattig
+  3: halbschattig
+  4: vollschattigt
+wasser:
+  1: viel
+  2: wenig
+  3: kein

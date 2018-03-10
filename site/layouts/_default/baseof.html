@@ -2,18 +2,17 @@
 <html lang="de">
 {{ partial "head" . }}
 <body>
-
   <div id="bg">
-    <div id="MainAlign">
+    <div id="MainAlign" class="clearfix">
       {{ partial "header" . }}
       {{ partial "nav" . }}
-
-      {{ block "main" . }}
-
-      {{ end }}
-
+      <div id="head"></div>
+      <main id="content">
+        {{ block "main" . }}
+        {{ end }}
+      </main>
+      <div id="footer"></div>
       {{ partial "footer" . }}
-      <div class="clear"></div>
     </div>
   </div>
   <style>

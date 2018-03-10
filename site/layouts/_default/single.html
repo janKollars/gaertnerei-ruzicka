@@ -1,8 +1,6 @@
 {{ define "main" }}
-  <div id="head"></div>
-  <div id="content">
-    <h1>{{ .Params.title }}</h1>
-    {{ .Content }}
-  </div>
-  <div id="footer"></div>
+
+<h1>{{ .Params.title }}</h1>
+{{ .Content }}
+
 {{ end }}
