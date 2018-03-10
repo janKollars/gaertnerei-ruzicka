@@ -38,7 +38,7 @@ a {
 
   &:visited {
     text-decoration: none;
-    color: #900;
+    color: #093;
   }
 
   &:hover {
@@ -77,8 +77,13 @@ small {
 }
 
 figure {
+  display: inline-block;
   margin: 0;
   padding: 0;
+
+  img {
+    line-height: 0;
+  }
 }
 
 figcaption {
@@ -87,6 +92,23 @@ figcaption {
 
 .light-text {
   color: $font-color-grey;
+}
+
+table {
+  border-style: hidden;
+  min-width: 65%;
+  border-collapse: collapse;
+}
+
+tr:hover {
+  background-color: #dcdcdc;
+}
+
+td,
+th {
+  border: 1px solid #000;
+  padding: 7.5px;
+  vertical-align: top;
 }
 
 .float-r {
@@ -99,6 +121,10 @@ figcaption {
   > * {
     align-self: flex-start;
   }
+}
+
+.space-between {
+  justify-content: space-between;
 }
 
 .mg-l {
@@ -171,7 +197,7 @@ figcaption {
   text-align: center;
 }
 
-.shadow {
+img.shadow, figure.shadow img { // line-height verursacht ansonsten einen Abstand zwischen Schatten und Bild
   box-shadow: 0 10px 6px -6px #777;
 }
 
@@ -308,6 +334,7 @@ label {
 }
 
 .angebote__item {
+  min-width: 200px;
   &:not(:last-child) {
     border-bottom: 1px solid #555;
   }
@@ -331,8 +358,6 @@ label {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    margin-top: 0;
-    margin-right: 0;
     margin-bottom: 1rem;
     margin-left: .5rem;
     max-width: calc(50% - .5rem);
@@ -359,11 +384,8 @@ label {
 }
 
 .kraeuter-table {
-  display: table;
   width: 100%;
   table-layout: fixed;
-  border-collapse: collapse;
-  border-spacing: 0;
 
   td {
     padding: .5em 0;
