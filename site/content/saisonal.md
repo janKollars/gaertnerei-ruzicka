@@ -19,7 +19,7 @@ Duftveilchen   | € 8,-
 
 ### Samen
 
-{{< figure class="shadow" class="float-r" src="/img/saisonal_20180310.jpg" alt="Samen aktuell" width="150" >}}
+{{< figure class="shadow float-r" src="/img/saisonal_20180310.jpg" alt="Samen aktuell" width="150" >}}
 Aktuell haben wir Samen zur Aussaat von Blumen und Gemüsepflanzen von Austrosaat anzubieten.
 
 Die angebotenen Gemüsesorten umfassen zum Beispiel Salat und Zucchini, aber auch Karotten und Erbsen. Und auch Kräutersamen sind dabei.

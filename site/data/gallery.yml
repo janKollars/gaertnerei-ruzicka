@@ -1,0 +1,9 @@
+trauerbinderei:
+  - bild: "kranz1.jpg"
+    desc: "großer Kranz"
+  - bild: "kranz2.jpg"
+    desc: "mittlerer Kranz"
+  - bild: "bukett1.jpg"
+    desc: "kleines Bukett"
+  - bild: "bukett2.jpg"
+    desc: "mittleres Bukett"
