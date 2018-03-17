@@ -960,7 +960,7 @@ kraeuter:
     Sorte: ""
     Winterhart: '1'
     Staude: '1'
-    Preis: D
+    Preis: E
     Karlsgarten: '0'
     jährig: '1'
   - Name: 'herbstblühende Alraune'
@@ -974,7 +974,7 @@ kraeuter:
     Sorte: ""
     Winterhart: '1'
     Staude: '1'
-    Preis: D
+    Preis: E
     Karlsgarten: '0'
     jährig: '1'
   - Name: Ambrosia
@@ -4470,7 +4470,7 @@ kraeuter:
     Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
+    Preis: E
     Karlsgarten: '0'
     jährig: ""
   - Name: Frühlings-Adonis

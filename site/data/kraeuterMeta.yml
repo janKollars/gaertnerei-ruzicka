@@ -1,7 +1,10 @@
 preiskategorien:
-  A: 3
-  B: 2
-  C: 1
+  A: 2,70
+  B: 4,20
+  C: 6,50
+  D: 9,50
+  E: 16,-
+  F: 25,-
 jahr:
   1: einjährig
   2: zweijährig
