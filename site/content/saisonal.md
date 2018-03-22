@@ -5,7 +5,7 @@ title: Saisonale Angebote
 ## Ostern
 
 <a href="https://www.gaertnerei-ruzicka.at/img/saisonal_palmkatzerl_bund.jpg" target="_blank"_>
-  <img class="shadow" src="/img/saisonal_20180317_1.jpg" alt="Palmkatzerl" width="460">
+  <img class="shadow" src="/img/saisonal_palmkatzerl_bund.jpg" alt="Palmkatzerl" width="460">
 </a>
 
 Wir haben bereits Angebote für die Osterzeit:
