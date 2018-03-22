@@ -349,6 +349,15 @@ label {
   }
 }
 
+hr {
+  border: 0;
+  clear:both;
+  display:block;
+  width: 100%;
+  background-color:#000000;
+  height: 2px;
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
