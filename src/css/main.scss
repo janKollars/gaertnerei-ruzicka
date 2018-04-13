@@ -111,6 +111,10 @@ th {
   vertical-align: top;
 }
 
+.float-l {
+  float: left;
+}
+
 .float-r {
   float: right;
 }
@@ -132,8 +136,16 @@ th {
   box-sizing: border-box;
 }
 
+.half {
+  width: 50%;
+}
+
 .w2-3rds {
   width: 66%;
+}
+
+.text-c {
+  text-align: center;
 }
 
 #MainAlign {
@@ -320,12 +332,6 @@ label {
   margin-right: .5em;
 }
 
-.angebote {
-  header {
-    color: $brand-color;
-  }
-}
-
 .angebote__list {
   margin-top: 0;
   margin-bottom: 2rem;
@@ -334,27 +340,17 @@ label {
 }
 
 .angebote__item {
+  padding-top: 1em;
+  padding-bottom: 1em;
   min-width: 200px;
   &:not(:last-child) {
     border-bottom: 1px solid #555;
   }
 }
 
-.angebote__imgs {
-  margin-left: 1rem;
-  max-width: 200px;
-
-  img {
-    max-width: 100%;
-  }
-}
-
 hr {
-  border: 0;
-  clear:both;
-  display:block;
-  width: 100%;
-  background-color:#000000;
+  border: none;
+  background-color: #000;
   height: 2px;
 }
 
