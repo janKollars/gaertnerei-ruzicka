@@ -3,9 +3,10 @@
 <table class="kraeuter-table">
   <tbody id="jetsContent" style="display: none;">
 
-    {{ $url := "static/result.csv" }}
+    {{ $url := "static/kraeuter.csv" }}
     {{ $sep := ";" }}
     {{ range $i, $r := getCSV $sep $url }}
+    {{ if ne $i 0 }}
     <tr>
       <td>
         {{ if eq (index $r 18) "1" }}<a href="/kraeuter/{{ lower (index $r 0) }}">{{ index $r 0 }}</a>{{ else }}{{ index $r 0 }}{{ end }}
@@ -19,6 +20,7 @@
         {{ end }}
       </td>
     </tr>
+    {{ end }}
     {{ end }}
     <!-- YAML Alternative
     {{ range .Site.Data.kraeuterDB.kraeuter }}
