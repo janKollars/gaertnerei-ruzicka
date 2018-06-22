@@ -6,27 +6,11 @@ In der Zeit von Frühling bis Herbst verkaufe ich in der Friedhofsgärtnerei mei
 
 Darüber hinaus haben wir wechselnde Angebote:
 
-## Frühlingspflanzen
+## Pflanzen
 
-<a href="https://www.gaertnerei-ruzicka.at/img/saisonal_fruehlingsblumen_außen_2.jpg" target="_blank"_>
-  <img class="shadow" src="/img/saisonal_fruehlingsblumen_außen_2.jpg" alt="Frühlingspflanzen" width="460">
+<a href="https://www.gaertnerei-ruzicka.at/img/saisonal_sommer20181.jpg" target="_blank"_>
+  <img class="shadow" src="/img/saisonal_sommer20181.jpg" alt="Sommer" width="460">
 </a>
-
-Pflanze           | Preis
-------------------|-------
-Stiefmütterchen   | € 1,-
-Hornveilchen      | € 1,30
-Primel            | € 2,-
-Ranunkel          | € 3,30
-Vergissmeinnicht  | € 3,-
-Pelargonie        | € 3,-
-Kalanchoe         | € 4,-
-Duftveilchen      | € 8,-
-Immergrün         | € 2,70
-Asparagus         | € 3,-
-Graptopetalum     | € 4,20
-Sempervivum klein | € 2,70
-Sempervivum groß  | € 4,20
 
 ## Samen
 
