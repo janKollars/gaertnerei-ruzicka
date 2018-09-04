@@ -3,9 +3,9 @@ title: Curryblatt
 gattung: Bergera
 preis: A
 jahr: m
-winter: n
-licht: 1
-wasser: 2
+winter: "n"
+licht: "1"
+wasser: "2"
 ---
 
 Der Currybaum (Bergera koenigii, Syn.: Murraya koenigii) ist eine Pflanzenart, die zur Familie der Rautengewächse (Rutaceae) gehört. Die Blätter dieser in Asien beheimateten Art, genannt Curryblätter, werden vor allem in der südindischen und srilankischen Küche als Gewürz verwendet. Die Bezeichnung „Curryblatt“ verweist auf die Verwendung der Blätter in Curry-Gerichten. Mit Currypulver besteht hingegen kein Zusammenhang.

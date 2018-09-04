@@ -3,9 +3,9 @@ title: Zitronen-Basilikum
 gattung: Basilikum
 preis: A
 jahr: m
-winter: n
-licht: 1
-wasser: 2
+winter: "n"
+licht: "1"
+wasser: "2"
 ---
 
 <!--Florem ipsum blossom gentian guelder rose plumed thistle. Brodiaea cowslip wormwood scarlet plume safari sunset. Lavender lily bloody crane's-bill. Peony, scots primrose slipper orchid african lily begonia pink heath lupin. Cuckooflower.

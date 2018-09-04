@@ -3,9 +3,9 @@ title: Thai-Basilikum
 gattung: Basilikum
 preis: A
 jahr: m
-winter: n
-licht: 1
-wasser: 2
+winter: "n"
+licht: "1"
+wasser: "2"
 ---
 
 Thai-Basilikum oder thailändisches Basilikum bezeichnet mindestens drei verschiedene Arten der Pflanzengattung Basilikum, die in der thailändischen Küche als Gewürz verwendet werden:

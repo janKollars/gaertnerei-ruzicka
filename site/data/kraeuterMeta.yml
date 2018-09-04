@@ -6,18 +6,18 @@ preiskategorien:
   E: 16,-
   F: 25,-
 jahr:
-  1: einjährig
-  2: zweijährig
-  m: mehrjährig
+  "1": einjährig
+  "2": zweijährig
+  "m": mehrjährig
 winter:
-  j: winterhart
-  n: nicht winterhart
+  "j": winterhart
+  "n": nicht winterhart
 licht:
-  1: absonnig
-  2: lichtschattig
-  3: halbschattig
-  4: vollschattigt
+  "1": absonnig
+  "2": lichtschattig
+  "3": halbschattig
+  "4": vollschattigt
 wasser:
-  1: viel
-  2: wenig
-  3: kein
+  "1": viel
+  "2": wenig
+  "3": kein
