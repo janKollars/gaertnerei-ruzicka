@@ -2,7 +2,7 @@
 title: Saisonale Angebote
 ---
 
-In der Zeit von Frühling bis Herbst verkaufe ich in der Friedhofsgärtnerei meine eigenen Kräuter.
+In der Zeit von Frühling bis Herbst verkaufen wir in der Friedhofsgärtnerei unsere eigenen Kräuter.
 
 Darüber hinaus haben wir wechselnde Angebote:
 
