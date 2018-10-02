@@ -13,8 +13,6 @@ Darüber hinaus haben wir wechselnde Angebote:
 | Violen           | € 1,-  |
 | Hornveilchen     | € 1,30 |
 | Topfnelken       | € 4,20 |
-| Calluna 2-färbig | € 4,20 |
-| Calluna rot      | € 3,80 |
 | Gaultheria       | € 4,20 |
 | Ajania           | € 4,20 |
 
