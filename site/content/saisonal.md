@@ -17,7 +17,6 @@ Darüber hinaus haben wir wechselnde Angebote:
 | Gaultheria          | € 4,20   |
 | Ajania              | € 4,20   |
 
-
 <!--
 ## Samen
 
