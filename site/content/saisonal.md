@@ -8,13 +8,14 @@ Darüber hinaus haben wir wechselnde Angebote:
 
 ## Herbstpflanzen
 
-| Pflanze          | Preis  |
-|------------------|--------|
-| Violen           | € 1,-  |
-| Hornveilchen     | € 1,30 |
-| Topfnelken       | € 4,20 |
-| Gaultheria       | € 4,20 |
-| Ajania           | € 4,20 |
+| Pflanze             | Preis    |
+|---------------------|----------|
+| Violen              | € 1,-    |
+| Hornveilchen        | € 1,30   |
+| Calluna verschieden | ab € 3,- |
+| Topfnelken          | € 4,20   |
+| Gaultheria          | € 4,20   |
+| Ajania              | € 4,20   |
 
 <!--
 ## Samen
