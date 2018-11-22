@@ -6,16 +6,9 @@ In der Zeit von Frühling bis Herbst verkaufen wir in der Friedhofsgärtnerei un
 
 Darüber hinaus haben wir wechselnde Angebote:
 
-## Herbstpflanzen
+## Winter
 
-| Pflanze             | Preis    |
-|---------------------|----------|
-| Violen              | € 1,-    |
-| Hornveilchen        | € 1,30   |
-| Calluna verschieden | ab € 3,- |
-| Topfnelken          | € 4,20   |
-| Gaultheria          | € 4,20   |
-| Ajania              | € 4,20   |
+Im Winter verkaufen wir einige winterharte Pflanzen und Kräuter. Darüber hinaus haben wir Kränze, Gestecke und Reisig im Angebot.
 
 
 <!--
