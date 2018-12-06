@@ -8,8 +8,11 @@ Darüber hinaus haben wir wechselnde Angebote:
 
 ## Winter
 
-Im Winter verkaufen wir einige winterharte Pflanzen und Kräuter. Darüber hinaus haben wir Kränze, Gestecke und Reisig im Angebot.
-
+Im Winter verkaufen wir einige winterharte Pflanzen, zum Beispiel <b>Hauswurz</b>, <b>Nelken</b> und <b>Calluna</b>.
+<br><br>
+Auch <b>Zyklamen</b> und <b>Weihnachtskakteen</b> haben wir zum Verkauf.
+<br><br>
+Darüber hinaus haben wir <b>Kränze</b>, <b>Gestecke</b> und <b>Reisig</b> im Angebot.
 
 <!--
 ## Samen
