@@ -14,7 +14,7 @@ Im Winter verkaufen wir einige winterharte Pflanzen, zum Beispiel <b>Hauswurz</b
 Auch winterharte Kräuter wie <b>Rosmarin</b>, <b>Thymian</b>, <b>Currykraut</b> oder <b>Bohnenkraut</b> sind um diese Jahreszeit erhältlich.
 <br>
 
-Auch <b>Zyklamen</b>, <b>Azaleen</b> und <b>Weihnachtskakteen</b> haben wir zum Verkauf.
+Auch <b>Zyklamen</b>, <b>Azaleen</b>, <b>Primel</b> und <b>Weihnachtskakteen</b> haben wir zum Verkauf.
 <br><br>
 Darüber hinaus haben wir <b>Kränze</b>, <b>Gestecke</b> und <b>Reisig</b> im Angebot.
 
