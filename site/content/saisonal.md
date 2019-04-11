@@ -11,7 +11,8 @@ Darüber hinaus haben wir wechselnde Angebote:
 Im Frühling verkaufen wir Frühlingsbotes wir <b>Primel, Ranunkeln, Hornveilchen, Duftveilchen, Stiefmütterchen, Roggerl</b> und die ersten Gemüsepflanzen wie <b>Salate, Schnittlauch, Spinat, Rucola.</b>
 <br>
 
-Bis auf die besonders empfindlichen und wärmeliebenden Kräuter wie Basilikum, Dille, Koriander, Anis etc. sind auch schon viele Kräuter und Gewürzpflanzen verkaufsbereit. <b>Vietnamesischer Koriander, Currykraut, Minzen, Oregano, Mönchspfeffer</b>und viele Andere warten auf ein gemütliches Plätzchen in Ihrem Garten.
+Bis auf die besonders empfindlichen und wärmeliebenden Kräuter wie Basilikum, Dille, Koriander, Anis etc. sind auch schon viele Kräuter und Gewürzpflanzen verkaufsbereit. <b>Vietnamesischer Koriander, Currykraut, Minzen, Oregano, Mönchspfeffer</b>und viele Andere warten auf ein gemütliches Plätzchen in Ihrem Garten.<br>
+
 <!--
 ## Samen
 
