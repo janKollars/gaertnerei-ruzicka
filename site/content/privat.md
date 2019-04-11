@@ -20,6 +20,10 @@ Am 31. Juli 1995 folgte Martinas Bruder Michael. Er besucht seit 2009 die Garten
 
 Die Dritte im Bunde ist Manuela. Seit 26. Februar 1997 ist sie bei uns. Als kleinste muss sie des öfteren ihre Ellenbogen einsetzen, um sich durchzusetzen. Ab September 2011 möchte sie dann in der Herbststraße in Wien die Höhere Lehranstalt für künstlerische Gestaltung besuchen.-->
 
+## Berufsvertretung
+
+Als kooptiertes Mitglied arbeite ich im Landesinnungsausschuß der Gärtner und Floristen mit. Für die Gärtnervereinigung Niederösterreich bin ich als Rechnungsprüfer tätig und in der Zweigvereinigung Hollabrunn - Korneuburg - Tulln bin ich als Schriftführer tätig. Beim Berufswettkampf der Gärtner sowie bei Facharbeiterprüfungen und Meisterprüfungen bin ich Prüfer.
+
 ## Mittelalter
 
 2005 habe ich zum ersten Mal die "Zeitreise ins Mittelalter" in Eggenburg erlebt. Diese Art von Veranstaltung war für mich eine ganz neue Erfahrung. Ich war fasziniert von der Stimmung, die von diesem Fest ausging. Allerdings fehlten mir die [Heilkräuter, Hexenkräuter und Gewürzpflanzen](/kraeuter/), mit denen ich beruflich doch so viel zu tun hatte. Spontan beschloss ich, mich für das nächste Jahr mit einem Verkaufsstand zu beteiligen.
@@ -35,3 +39,5 @@ In meiner Kindheit und Jugend war ich in der Katholischen Jungschar und Katholis
 Ein besonders Zeitaufwendiges Hobby ist die Freiwillige Feuerwehr. Seit 1978 bin ich mit dabei. Damals wurde gerade das neue Feuerwehrhaus gebaut. Bei dessen Einweihung zum 100. Geburtstag der Feuerwehr Langenzersdorf im Jahre 1979 war ich noch ein Mitglied der Feuerwehrjugend. Im selben Jahr wurde ich als Probefeuerwehrmann in den aktiven Dienst überstellt. 1981 erfolgte die erste Beförderung zum Feuerwehrmann, 1986 zum Oberfeuerwehrmann und 1990 zum Hauptfeuerwehrmann.
 
 Im Jahre 1991 wurde ich zum Gruppenkommandanten einer Ausbildungsgruppe ernannt. Dieser Ernennung folgte im selben Jahr die Beförderung zum Löschmeister. Seit dem Jahre 1992 arbeitete ich als Ausbilder zuerst bei den Grundlehrgängen und dann bei den verschiedenen Ausbildungsmodulen im Bezirk Korneuburg mit. 1993 wurde ich Zugskommandantstellvertreter und im Jahr 2004 Zugskommandant des 4. Zuges (technischer Zug) und des 6. Zuges (Wasserdienst Zug) des KHD (Katastrophenhilfsdienst) des Landes Niederösterreich. Seit 1996 bin ich Sachbearbeiter für den Bereich öffentlichkeitsarbeit. Bei der Florianifeier 1999 wurde ich zum Oberlöschmeister befördert. Im Jahr 2001 übernahm ich die Funktion eines Zugtruppkommandanten und 2006 die Funktion eines Zugskommandanten. Im Jahr 2007 wurde ich Zugskommandantstellvertreter des NÖ KHD Wasserdienst.
+
+Da ich aufstrebenden, jungen Kameraden nicht im Weg stehen will, habe ich mich in den letzten Jahren von vielen dieser Funktionen zurückgezogen. Ich bin aber weiterhin aktives Mitglied der Freiwilligen Feuerwehr Langenzersdorf.
