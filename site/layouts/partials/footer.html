@@ -1,13 +1,44 @@
 <footer id="impressum">
   <a class="nav-link nav-haft" href="/haftung/">
     <img src="/img/haftungsausschluss.png" alt="Haftungsausschluss">
+    <img src="/img/highlight/haftungsausschluss.png" alt="Haftungsausschluss">
   </a>
 
   <a class="nav-link nav-impr" href="/impressum/">
     <img src="/img/impressum.png" alt="Impressum">
+    <img src="/img/highlight/impressum.png" alt="Impressum">
   </a>
 
   <a class="nav-link nav-agb" href="/agb/">
     <img src="/img/agb.png" alt="AGB">
+    <img src="/img/highlight/agb.png" alt="AGB">
   </a>
 </footer>
+
+<script>
+  async function preloadImage (url) {
+    (new Image()).src = url
+  }
+  
+  const navImages = [
+    'startseite',
+    'friedhofsgaertnerei',
+    'grabpflege',
+    'trauerbinderei',
+    'saisonal',
+    'kraeuter',
+    'sortiment',
+    'privat',
+    'termine',
+    'links',
+    'haftungsausschluss',
+    'impressum',
+    'agb'
+  ]
+  
+  window.onload = function () {
+    navImages.forEach(img => {
+      preloadImage(`/img/highlight/${img}.png`)
+    })
+  }
+</script>

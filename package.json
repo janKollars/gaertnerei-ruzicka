@@ -45,6 +45,7 @@
     "@babel/preset-env": "^7.0.0",
     "@babel/register": "^7.0.0",
     "gulp-autoprefixer": "^6.0.0",
-    "gulp-sass": "^4.0.1"
+    "gulp-sass": "^4.0.1",
+    "standard": "^14.2.0"
   }
 }

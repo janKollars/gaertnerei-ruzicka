@@ -231,83 +231,18 @@ img.shadow, figure.shadow img { // line-height verursacht ansonsten einen Abstan
     content: '';
   }
 
-  &:hover {
-    img {
-      display: none;
-    }
+  &:hover > img {
+    display: none;
 
-    &::after {
-      display: inline-block;
+    &:last-child {
+      display: block;
     }
   }
-}
+  
+  > img:last-child {
+    display: none;
+  }
 
-.nav-start::after {
-  background-image: url('/img/highlight/startseite.png');
-  height: 70px;
-}
-
-.nav-fried::after {
-  background-image: url('/img/highlight/friedhofsgaertnerei.png');
-  height: 50px;
-}
-
-.nav-grab::after {
-  background-image: url('/img/highlight/grabpflege.png');
-  height: 33px;
-}
-
-.nav-trau::after {
-  background-image: url('/img/highlight/trauerbinderei.png');
-  height: 34px;
-}
-
-.nav-sais::after {
-  background-image: url('/img/highlight/saisonal.png');
-  height: 34px;
-}
-
-.nav-krae::after {
-  background-image: url('/img/highlight/kraeuter.png');
-  height: 41px;
-}
-
-.nav-sort::after {
-  background-image: url('/img/highlight/sortiment.png');
-  height: 37px;
-}
-
-.nav-priv::after {
-  background-image: url('/img/highlight/privat.png');
-  height: 42px;
-}
-
-.nav-term::after {
-  background-image: url('/img/highlight/termine.png');
-  height: 50px;
-}
-
-.nav-extlinks::after {
-  background-image: url('/img/highlight/links.png');
-  height: 50px;
-}
-
-.nav-haft::after {
-  background-image: url('/img/highlight/haftungsausschluss.png');
-  width: 159px;
-  height: 50px;
-}
-
-.nav-impr::after {
-  background-image: url('/img/highlight/impressum.png');
-  width: 178px;
-  height: 50px;
-}
-
-.nav-agb::after {
-  background-image: url('/img/highlight/agb.png');
-  width: 98px;
-  height: 50px;
 }
 
 .produkt-liste {
