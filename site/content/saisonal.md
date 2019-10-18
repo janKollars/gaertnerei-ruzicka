@@ -6,13 +6,18 @@ In der Zeit von Frühling bis Herbst verkaufen wir in der Friedhofsgärtnerei un
 
 Darüber hinaus haben wir wechselnde Angebote:
 
+## Herbst
+Für die Herbstbepflanzung im Garten und auf den Gräbern bieten wir jetzt Stiefmütterchen und Hornveilchen an, Erika, Heidekraut, Chrysanthemen, Herbstflor sowie diverse Reisig- und Moosgebinde. Bestellungen für Allerheiligen, auch Schnittblumen, werden gerne angenommen.
+
+
+<!--
 ## Frühling
 
 Im Frühling verkaufen wir Frühlingsbotes wir <b>Primel, Ranunkeln, Hornveilchen, Duftveilchen, Stiefmütterchen, Roggerl</b> und die ersten Gemüsepflanzen wie <b>Salate, Schnittlauch, Spinat, Rucola.</b>
 <br>
 
 Bis auf die besonders empfindlichen und wärmeliebenden Kräuter wie Basilikum, Dille, Koriander, Anis etc. sind auch schon viele Kräuter und Gewürzpflanzen verkaufsbereit. <b>Vietnamesischer Koriander, Currykraut, Minzen, Oregano, Mönchspfeffer</b> und viele andere warten auf ein gemütliches Plätzchen in Ihrem Garten.<br>
-
+-->
 <!--
 ## Samen
 
