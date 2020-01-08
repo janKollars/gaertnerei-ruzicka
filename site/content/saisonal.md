@@ -13,7 +13,7 @@ Bestellungen für Trauerbinderei oder Grabpflege werden auch im Winter gerne ent
 
 Bitte beachten Sie, dass die Gärtnerei im Winter nicht ständig besetzt ist. Eine Terminvereinbarung ist aber jederzeit möglich 
 
-<!-->
+<!--
 ## Herbst
 Für die Herbstbepflanzung im Garten und auf den Gräbern bieten wir jetzt Stiefmütterchen und Hornveilchen an, Erika, Heidekraut, Chrysanthemen, Herbstflor sowie diverse Reisig- und Moosgebinde.
 -->
