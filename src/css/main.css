@@ -1,4 +1,5 @@
-@import 'imports/reset';
+@import 'imports/_reset.css';
+
 $font-color-dark: hsl(0, 0%, 1%);
 $font-color-grey: hsl(0, 0%, 30%);
 $font-color-grey-light: hsl(0, 0%, 70%);

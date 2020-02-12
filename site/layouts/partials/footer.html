@@ -16,7 +16,7 @@
 </footer>
 
 <script>
-  async function preloadImage (url) {
+  function preloadImage (url) {
     (new Image()).src = url
   }
   
@@ -42,3 +42,7 @@
     })
   }
 </script>
+
+{{ if (and (eq (replace (relURL .Permalink) "/" "") "sortiment") (isset .Site.Data.webpack.sortiment "js")) }}
+  <script src="{{ .Site.Data.webpack.sortiment.js | relURL }}"></script>
+{{ end }}

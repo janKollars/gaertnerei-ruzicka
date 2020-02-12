@@ -6,8 +6,12 @@
 	<meta name="description" content="Gärtnerei Ruzicka - Langenzersdorf: Kräuter und vieles mehr">
 
 	<link rel="icon" type="image/x-icon" href="/favicon.ico">
-	<link rel="stylesheet" type="text/css" href="/css/main.css">
-	<title>Gärtnerei Martin Ruzicka</title>
+	<title>{{ $.Site.Title }}</title>
+
+	{{ $stylesheet := .Site.Data.webpack.main }}
+	{{ with $stylesheet.css }}
+	  <link href="{{ relURL . }}" rel="stylesheet">
+	{{ end }}
 
 	<link rel="preload" href="/img/body.png" as="image">
 </head>
