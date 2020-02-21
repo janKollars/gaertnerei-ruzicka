@@ -1,0 +1,51 @@
+backend:
+  name: git-gateway
+  branch: enable-netlifycms
+media_folder: site/static/img
+public_folder: /img
+collections:
+  - name: page
+    label: Seiten
+    folder: site/content
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: Titel, name: title, widget: string }
+      - { label: Inhalt, name: body, widget: markdown }
+
+  - name: kraeuter
+    label: Kräuter
+    folder: site/content/kraeuter
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: Titel, name: title, widget: string }
+      - { label: Gattung, name: gattung, widget: string }
+      - label: Preisklasse
+        name: preis
+        widget: select
+        options: [A, B, C, D, E, F]
+      - label: Jahr
+        name: jahr
+        widget: select
+        options:
+          - { label: einjährig, value: 1 }
+          - { label: zweijährig, value: 2 }
+          - { label: mehrjährig, value: m }
+      - { label: winterhart, name: winter, widget: boolean }
+      - label: Lichtbedarf
+        name: licht
+        widget: select
+        options:
+          - { label: absonnig, value: 1 }
+          - { label: lichtschattig, value: 2 }
+          - { label: halbschattig, value: 3 }
+          - { label: vollschattig, value: 4 }
+      - label: Wasserbedarf
+        name: wasser
+        widget: select
+        options:
+          - { label: viel, value: 1 }
+          - { label: wenig, value: 2 }
+          - { label: kein, value: 3 }
+      - { label: Beschreibung, name: body, widget: markdown }
