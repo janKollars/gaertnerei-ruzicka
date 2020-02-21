@@ -1,0 +1,97 @@
+*::selection {
+    background-color: $brand-color-light;
+    color: $brand-color-lighter;
+  }
+
+  body {
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    background-color: $background-color;
+    background-image: url('/img/background.jpg');
+    background-repeat: repeat-x;
+    background-size: 1024px;
+    width: 100vw;
+    max-width: 100%;
+    min-height: 100vh;
+    text-align: center;
+    line-height: 1.6;
+    color: $font-color-dark;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+}
+
+a {
+text-decoration: none;
+color: #093;
+
+&:visited {
+    text-decoration: none;
+    color: #093;
+}
+
+&:hover {
+    text-decoration: underline;
+}
+
+&:active {
+    text-decoration: none;
+}
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+font-weight: bold;
+}
+
+h1 {
+color: $brand-color;
+font-size: 2em;
+}
+
+h2 {
+font-size: 1.5em;
+}
+
+h3 {
+font-size: 1.2em;
+}
+
+small {
+font-size: .8em;
+}
+
+figure {
+display: inline-block;
+margin: 0;
+padding: 0;
+
+  img {
+    line-height: 0;
+  }
+}
+
+figcaption {
+font-size: .8em;
+}
+
+table {
+border-style: hidden;
+min-width: 65%;
+border-collapse: collapse;
+}
+
+tr:hover {
+background-color: #dcdcdc;
+}
+
+td,
+th {
+border: 1px solid #000;
+padding: 7.5px;
+vertical-align: top;
+}
