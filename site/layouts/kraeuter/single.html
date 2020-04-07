@@ -1,14 +1,41 @@
 {{ define "main" }}
 
-<h1>{{ .Params.title }}</h1>
+<h1>{{ .Params.name }}</h1>
+
+{{ $alternativeNames := union .Params.extraNamen .Params.synonyme }}
+{{ if gt (len $alternativeNames) 0 }}
+<em>auch:</em>
+  {{ range $i, $name := $alternativeNames }}
+  {{ $name }}{{ if ne (add $i 1) (len $alternativeNames) }}, {{end}}
+  {{ end }}
+</small>
+{{ end }}
 <div class="post__info">
+  {{ if isset .Params "gattung" }}
   <div>Gattung: <a href="/gattung/{{ lower .Params.gattung }}/">{{ .Params.gattung }}</a></div>
+  {{ end }}
+
+  {{ if isset .Params "preis" }}
   <div>Preis: € {{ index .Site.Data.kraeuterMeta.preiskategorien .Params.preis }}</div>
+  {{ end }}
+
+  {{ if isset .Params "jahr" }}
   <div>{{ index .Site.Data.kraeuterMeta.jahr .Params.jahr }}</div>
-  <div>{{ index .Site.Data.kraeuterMeta.winter .Params.winter }}</div>
+  {{ end }}
+
+  {{ if isset .Params "winter" }}
+  <div>{{ if .Params.winter }}winterhart{{ else }}nicht winterhart{{ end }}</div>
+  {{ end }}
+
+  {{ if isset .Params "licht" }}
   <div>{{ index .Site.Data.kraeuterMeta.licht .Params.licht }}</div>
+  {{ end }}
+
+  {{ if isset .Params "wasser" }}
   <div>{{ index .Site.Data.kraeuterMeta.wasser .Params.wasser }} Wasser</div>
+  {{ end }}
 </div>
+
 {{ .Content }}
 
 {{ end }}

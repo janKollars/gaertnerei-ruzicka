@@ -1,11 +1,16 @@
 ---
-title: Thai-Basilikum
-gattung: Basilikum
-preis: A
+name: Thai-Basilikum
+ordnung: Lippenblütlerartige
+ordnungLT: Lamiales
+familie: Lippenblütler
+familieLT: Lamiaceae
+gattung: Ocimum
+art: basilicum
+staude: false
+preis: B
 jahr: m
-winter: "n"
-licht: "1"
-wasser: "2"
+winter: false
+karlsgarten: false
 ---
 
 Thai-Basilikum oder thailändisches Basilikum bezeichnet mindestens drei verschiedene Arten der Pflanzengattung Basilikum, die in der thailändischen Küche als Gewürz verwendet werden:

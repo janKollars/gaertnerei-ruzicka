@@ -19,7 +19,8 @@ collections:
     create: true
     slug: '{{slug}}'
     fields:
-      - { label: Titel, name: title, widget: string }
+      - { label: Name, name: name, widget: string }
+      - { label: Name2, name: name2, widget: string }
       - { label: Gattung, name: gattung, widget: string }
       - label: Preisklasse
         name: preis
