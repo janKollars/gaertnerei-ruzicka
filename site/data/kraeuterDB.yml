@@ -7,7 +7,6 @@ kraeuter:
     Familie-lt: Valerianaceae
     Gattung: Valeriana
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: A
@@ -21,7 +20,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Artemisia
     Art: vulgaris
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -35,7 +33,6 @@ kraeuter:
     Familie-lt: Boraginaceae
     Gattung: Symphytum
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -48,7 +45,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Satureja
     Art: montana
-    Sorte: ""
     Varietät: citriodora
     Winterhart: '1'
     Staude: '0'
@@ -62,7 +58,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Artemisia
     Art: abrotanum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -75,7 +70,6 @@ kraeuter:
     Familie-lt: Malvaceae
     Gattung: Althea
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -88,7 +82,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Artemisia
     Art: dracunculus
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -101,7 +94,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Artemisia
     Art: dracunculus
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -115,7 +107,6 @@ kraeuter:
     Familie-lt: Brassicaceae
     Gattung: Armoracia
     Art: rusticana
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -128,7 +119,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Lavandula
     Art: angustifolia
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -143,7 +133,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Levisticum
     Art: officinale
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: A
@@ -156,7 +145,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Origanum
     Art: vulgare
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -169,7 +157,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Origanum
     Art: vulgare
-    Sorte: ""
     Varietät: viridulum
     Winterhart: '1'
     Staude: '0'
@@ -183,7 +170,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Origanum
     Art: syriacum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -196,7 +182,6 @@ kraeuter:
     Familie-lt: Rosaceae
     Gattung: Sanguisorba
     Art: minor
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -209,7 +194,6 @@ kraeuter:
     Familie-lt: Polygonaceae
     Gattung: Rheum
     Art: rhabarbarum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -222,7 +206,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Rosmarinus
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -235,7 +218,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Salvia
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -248,7 +230,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Salvia
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -261,7 +242,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Salvia
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -274,7 +254,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Salvia
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -287,7 +266,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Salvia
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -300,7 +278,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Salvia
     Art: rutilans
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -313,7 +290,6 @@ kraeuter:
     Familie-lt: Polygonaceae
     Gattung: Rumex
     Art: acetosa
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -326,7 +302,6 @@ kraeuter:
     Familie-lt: Alliaceae
     Gattung: Allium
     Art: schoenoprasum
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: A
@@ -339,7 +314,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Thymus
     Art: vulgaris
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -352,7 +326,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Thymus
     Art: fragrantissimus
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -365,7 +338,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Thymus
     Art: 'x citriodorus'
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -379,7 +351,6 @@ kraeuter:
     Familie-lt: Crassulaceae
     Gattung: Sedum
     Art: rupestre
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -392,7 +363,6 @@ kraeuter:
     Familie-lt: Rubiaceae
     Gattung: Galium
     Art: odoratum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: C
@@ -405,7 +375,6 @@ kraeuter:
     Familie-lt: Rutaceae
     Gattung: Ruta
     Art: graveolens
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -418,7 +387,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Artemisia
     Art: absinthium
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -431,7 +399,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Origanum
     Art: maru
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -444,7 +411,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Hyssopus
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -457,7 +423,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Melissa
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -472,7 +437,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Monarda
     Art: didyma
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: C
@@ -485,7 +449,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Nepeta
     Art: 'x faassenii'
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -499,7 +462,6 @@ kraeuter:
     Familie-lt: Verbenaceae
     Gattung: Aloysia
     Art: citriodora
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -512,12 +474,11 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: 'x rotundifolia'
-    Sorte: '''Bowles'''
+    Sorte: Bowles
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Apfelminze
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -525,12 +486,10 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: suaveolens
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Katzenminze
     Name2: Katzenmelisse
     Ordnung: Lippenblütlerartige
@@ -539,12 +498,10 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Nepeta
     Art: 'x faassenii'
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'Kölnische Minze'
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -552,12 +509,11 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: 'x piperita'
-    Sorte: '''Eau de Cologne'''
+    Sorte: Eau de Cologne
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Krauseminze
     Name2: Ährenminze
     Ordnung: Lippenblütlerartige
@@ -566,12 +522,11 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: spicata
-    Sorte: '''Crispa'''
+    Sorte: Crispa
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '1'
-    jährig: ""
   - Name: Nudelminze
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -579,12 +534,10 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: austriaca
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Orangenminze
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -592,12 +545,11 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: 'x piperita'
-    Sorte: '''Citrata'''
+    Sorte: Citrata
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'orig. engl. Minze'
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -605,12 +557,10 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: 'x piperita'
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Poleiminze
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -618,12 +568,10 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: pulegium
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '1'
-    jährig: ""
   - Name: Spearmint
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -631,12 +579,10 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: spicata
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
     Karlsgarten: '0'
-    jährig: ""
   - Name: Wasserminze
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -644,12 +590,10 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: aquatica
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
     Karlsgarten: '1'
-    jährig: ""
   - Name: Aztekensalbei
     Name2: Wahrsagersalbei
     Name3: Göttersalbei
@@ -660,7 +604,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Salvia
     Art: divinorum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: E
@@ -673,7 +616,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Pimpinella
     Art: anisum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: A
@@ -686,7 +628,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Ocimum
     Art: basilicum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: A
@@ -699,7 +640,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Ocimum
     Art: basilicum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: A
@@ -712,7 +652,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Ocimum
     Art: basilicum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -725,7 +664,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Ocimum
     Art: basilicum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -739,7 +677,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Satureja
     Art: hortensis
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: A
@@ -753,7 +690,6 @@ kraeuter:
     Familie-lt: Boraginaceae
     Gattung: Borago
     Art: officinalis
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: A
@@ -766,7 +702,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Anethum
     Art: graveolens
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -779,7 +714,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Foeniculum
     Art: vulgare
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -792,7 +726,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Anthriscus
     Art: cerefolium
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: A
@@ -805,7 +738,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Coriandrum
     Art: sativum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -818,7 +750,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Carum
     Art: carvi
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -832,7 +763,6 @@ kraeuter:
     Familie-lt: Lauraceae
     Gattung: Laurus
     Art: nobilis
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: D
@@ -845,7 +775,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Origanum
     Art: majorana
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: A
@@ -858,7 +787,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Salvia
     Art: sclarea
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -871,7 +799,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Petroselinum
     Art: crispum
-    Sorte: ""
     Varietät: neapolitanum
     Winterhart: '0'
     Staude: '0'
@@ -885,7 +812,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Petroselinum
     Art: crispum
-    Sorte: ""
     Varietät: crispum
     Winterhart: '0'
     Staude: '0'
@@ -902,7 +828,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Stevia
     Art: rebaudiana
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -915,7 +840,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Lavandula
     Art: heterophylla
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -928,7 +852,6 @@ kraeuter:
     Familie-lt: Poaceae
     Gattung: Cymbopogon
     Art: citrarus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: D
@@ -943,7 +866,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Inula
     Art: helenium
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: C
@@ -957,7 +879,6 @@ kraeuter:
     Familie-lt: Solanaceae
     Gattung: Mandragora
     Art: officinarum
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: E
@@ -971,7 +892,6 @@ kraeuter:
     Familie-lt: Solanaceae
     Gattung: Mandragora
     Art: autumnalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: E
@@ -985,7 +905,6 @@ kraeuter:
     Familie-lt: Chenopodiaceae
     Gattung: Chenopodium
     Art: botrys
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: A
@@ -998,7 +917,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Marrubium
     Art: vulgare
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -1015,7 +933,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Tanacetum
     Art: balsamita
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -1029,7 +946,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Agastache
     Art: foeniculum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -1044,7 +960,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Arnica
     Art: montana
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: C
@@ -1057,7 +972,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Arnica
     Art: chamissonis
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -1070,7 +984,6 @@ kraeuter:
     Familie-lt: Alliaceae
     Gattung: Allium
     Art: ursinum
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -1083,7 +996,7 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Ocimum
     Art: basilicum
-    Sorte: '''MARSEILLAIS'''
+    Sorte: MARSEILLAIS
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -1096,7 +1009,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Ocimum
     Art: basilicum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -1109,7 +1021,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Ocimum
     Art: tenuiflorum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -1122,7 +1033,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Ocimum
     Art: basilicum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -1137,7 +1047,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Cnicus
     Art: benedictus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -1152,7 +1061,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Monarda
     Art: fistulosa
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: C
@@ -1166,7 +1074,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Sideritis
     Art: syriaca
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: C
@@ -1178,8 +1085,6 @@ kraeuter:
     Familie: Korbblütler
     Familie-lt: Asteraceae
     Gattung: Anacyclus
-    Art: ""
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -1192,7 +1097,6 @@ kraeuter:
     Familie-lt: Polygonaceae
     Gattung: Rumex
     Art: sanguineus
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -1207,7 +1111,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Satureja
     Art: montana
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -1220,7 +1123,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Anacyclus
     Art: pyrethrum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: C
@@ -1235,7 +1137,6 @@ kraeuter:
     Familie-lt: Scrophulariaceae
     Gattung: Bacopa
     Art: monnieri
-    Sorte: ""
     Winterhart: '0'
     Staude: '1'
     Preis: B
@@ -1248,7 +1149,6 @@ kraeuter:
     Familie-lt: Brassicaceae
     Gattung: Nasturtium
     Art: officinale
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -1262,7 +1162,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Parthenium
     Art: integrifolium
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -1276,7 +1175,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Artemisia
     Art: alba
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -1290,7 +1188,6 @@ kraeuter:
     Familie-lt: Rutaceae
     Gattung: Murraya
     Art: koenigii
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: E
@@ -1304,7 +1201,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Helichrysum
     Art: italicum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -1318,7 +1214,6 @@ kraeuter:
     Familie-lt: Rutaceae
     Gattung: Dictamnus
     Art: alba
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: E
@@ -1331,7 +1226,6 @@ kraeuter:
     Familie-lt: Verbenaceae
     Gattung: Verbena
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: A
@@ -1345,7 +1239,6 @@ kraeuter:
     Familie-lt: Chenopodiaceae
     Gattung: Chenopodium
     Art: foliosum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: A
@@ -1360,7 +1253,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Bunium
     Art: bulbocastanum
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -1373,7 +1265,6 @@ kraeuter:
     Familie-lt: Cyperaceae
     Gattung: Cyperus
     Art: esculentus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -1386,7 +1277,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Artemisia
     Art: dracunculus
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -1401,7 +1291,6 @@ kraeuter:
     Familie-lt: Rubiaceae
     Gattung: Rubia
     Art: tinctorum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: C
@@ -1417,7 +1306,6 @@ kraeuter:
     Familie-lt: Brassicaceae
     Gattung: Lepidium
     Art: latifolium
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -1433,7 +1321,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Smyrnium
     Art: olusatrum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: C
@@ -1448,7 +1335,6 @@ kraeuter:
     Familie-lt: Solanaceae
     Gattung: Lycium
     Art: 'barbarum (chinense?)'
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -1461,7 +1347,6 @@ kraeuter:
     Familie-lt: Punicaceae
     Gattung: Punica
     Art: granatum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: C
@@ -1475,7 +1360,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Ajuga
     Art: reptans
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -1490,7 +1374,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Glechoma
     Art: hederacea
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -1505,7 +1388,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Hieracium
     Art: pilosella
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -1519,7 +1401,6 @@ kraeuter:
     Familie-lt: Chenopodiaceae
     Gattung: Chenopodium
     Art: bonus-henricus
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: C
@@ -1535,7 +1416,6 @@ kraeuter:
     Familie-lt: Sapindaceae
     Gattung: Cardiospermum
     Art: halicacabum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -1550,7 +1430,6 @@ kraeuter:
     Familie-lt: Cucurbitaceae
     Gattung: Gynostemma
     Art: pentaphyllum
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -1558,13 +1437,11 @@ kraeuter:
     jährig: '1'
   - Name: Johanneskraut
     Name2: Hartheu
-    Ordnung: ""
     Ordnung-lt: Theales
     Familie: Johanniskrautgewächse
     Familie-lt: Clusiaceae
     Gattung: Hypericum
     Art: perforatum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -1572,13 +1449,11 @@ kraeuter:
     jährig: '1'
   - Name: Zitronen-Johanniskraut
     Name2: 'Stinkendes Johanniskraut'
-    Ordnung: ""
     Ordnung-lt: Theales
     Familie: Johanniskrautgewächse
     Familie-lt: Clusiaceae
     Gattung: Hypricum
     Art: hircinum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -1591,7 +1466,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Matricaria
     Art: recutita
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -1604,7 +1478,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Chamaemelum
     Art: nobile
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -1617,7 +1490,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Chamaemelum
     Art: nobile
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -1630,7 +1502,6 @@ kraeuter:
     Familie-lt: Capparaceae
     Gattung: Capparis
     Art: spinosa
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -1643,7 +1514,6 @@ kraeuter:
     Familie-lt: Tropaeolaceae
     Gattung: Tropaeolum
     Art: majus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: A
@@ -1656,7 +1526,6 @@ kraeuter:
     Familie-lt: Zingiberaceae
     Gattung: Elettaria
     Art: cardamomum
-    Sorte: ""
     Winterhart: '0'
     Staude: '1'
     Preis: D
@@ -1669,7 +1538,6 @@ kraeuter:
     Familie-lt: Phytolaccaceae
     Gattung: Phytolacca
     Art: americana
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -1684,7 +1552,6 @@ kraeuter:
     Familie-lt: Basellaceae
     Gattung: Anredera
     Art: cordifolia
-    Sorte: ""
     Winterhart: '0'
     Staude: '1'
     Preis: D
@@ -1697,7 +1564,6 @@ kraeuter:
     Familie-lt: Polygonaceae
     Gattung: Persicaria
     Art: odorata
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -1723,7 +1589,6 @@ kraeuter:
     Familie-lt: Rubiaceae
     Gattung: Galium
     Art: verun
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -1736,7 +1601,6 @@ kraeuter:
     Familie-lt: Rosaceae
     Gattung: Filipendula
     Art: ulmaria
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -1749,7 +1613,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Silybum
     Art: marianum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -1764,7 +1627,6 @@ kraeuter:
     Familie-lt: Poaceae
     Gattung: Hierochloe
     Art: odorata
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: C
@@ -1778,7 +1640,6 @@ kraeuter:
     Familie-lt: Hyacinthaceae
     Gattung: Ornithogalum
     Art: longibracteatum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -1793,7 +1654,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Peucedanum
     Art: ostruthium
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: D
@@ -1806,12 +1666,10 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: species
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Bergminze
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -1819,12 +1677,10 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Calamintha
     Art: nepeta
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Ingwerminze
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -1832,12 +1688,10 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: gentilis
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Mojitominze
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -1845,12 +1699,11 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: species
-    Sorte: '''Nemorosa'''
+    Sorte: Nemorosa
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Schokominze
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -1858,12 +1711,11 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: piperita
-    Sorte: '''After Eight'''
+    Sorte: After Eight
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Zitronenminze
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -1871,12 +1723,11 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: aquatica
-    Sorte: '''Citrata'''
+    Sorte: Citrata
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Zitronenkatzenminze
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -1884,12 +1735,10 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Nepeta
     Art: cataria
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
     Karlsgarten: '1'
-    jährig: ""
   - Name: 'Marokko Minze'
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -1897,12 +1746,11 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: spicata
-    Sorte: '''Crispa'''
+    Sorte: Crispa
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'sardische Minze'
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -1910,7 +1758,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: requienii
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -1923,7 +1770,6 @@ kraeuter:
     Familie-lt: Verbenaceae
     Gattung: Lippia
     Art: polystacha
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -1936,12 +1782,10 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: 'x rotundifolia'
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Mönchspfeffer
     Name2: Keuschbaum
     Ordnung: Lippenblütlerartige
@@ -1950,7 +1794,6 @@ kraeuter:
     Familie-lt: Verbenaceae
     Gattung: Vitex
     Art: agnus-castus
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: C
@@ -1963,7 +1806,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Tanacetum
     Art: parthenium
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -1977,7 +1819,6 @@ kraeuter:
     Familie-lt: Myrtaceae
     Gattung: Myrtus
     Art: communis
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: C
@@ -1990,7 +1831,6 @@ kraeuter:
     Familie-lt: Oleaceae
     Gattung: Olea
     Art: europaea
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: C
@@ -2005,7 +1845,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Monarda
     Art: fistulosa
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: C
@@ -2018,7 +1857,6 @@ kraeuter:
     Familie-lt: Brassicaceae
     Gattung: Cardaria
     Art: draba
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -2031,7 +1869,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Tanacetum
     Art: vulgare
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -2044,12 +1881,10 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Artemisia
     Art: abrotanum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Duftreseda
     Name2: Reseda
     Ordnung: Kapernartige
@@ -2058,7 +1893,6 @@ kraeuter:
     Familie-lt: Resedaceae
     Gattung: Reseda
     Art: odorata
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -2072,7 +1906,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Calendula
     Art: officinalis
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: A
@@ -2085,7 +1918,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Rosmarinus
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: C
@@ -2112,7 +1944,6 @@ kraeuter:
     Familie-lt: Iridaceae
     Gattung: Crocus
     Art: sativus
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -2125,7 +1956,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Salvia
     Art: repens
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: C
@@ -2138,7 +1968,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Salvia
     Art: elegans
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -2151,7 +1980,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Salvia
     Art: greggii
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -2167,7 +1995,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Salvia
     Art: apiana
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: D
@@ -2180,7 +2007,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Salvia
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -2193,7 +2019,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Artemisia
     Art: canariensis
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -2206,7 +2031,6 @@ kraeuter:
     Familie-lt: Chenopodiaceae
     Gattung: Salsola
     Art: soda
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -2221,7 +2045,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Gynura
     Art: procumbens
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: C
@@ -2234,7 +2057,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Achillea
     Art: millefolium
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -2249,7 +2071,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Plectranthus
     Art: Caninus-Hybride
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -2263,7 +2084,6 @@ kraeuter:
     Familie-lt: Alliaceae
     Gattung: Allium
     Art: tuberosum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -2277,7 +2097,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Perilla
     Art: frutescens
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -2291,7 +2110,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Perilla
     Art: frutescens
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -2304,7 +2122,6 @@ kraeuter:
     Familie-lt: Caryophyllaceae
     Gattung: Saponaria
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -2317,7 +2134,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Echinacea
     Art: purpurea
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -2330,7 +2146,6 @@ kraeuter:
     Familie-lt: Asparagaceae
     Gattung: Asparagus
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -2344,7 +2159,6 @@ kraeuter:
     Familie-lt: Convolvulaceae
     Gattung: Ipomoea
     Art: batatas
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: C
@@ -2357,7 +2171,6 @@ kraeuter:
     Familie-lt: Verbenaceae
     Gattung: Lippia
     Art: dulcis
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: C
@@ -2373,7 +2186,6 @@ kraeuter:
     Familie-lt: Gentianaceae
     Gattung: Centaurium
     Art: erythraea
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: A
@@ -2386,7 +2198,6 @@ kraeuter:
     Familie-lt: Myrtaceae
     Gattung: Leptospermum
     Art: laevigatum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: D
@@ -2400,7 +2211,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Thymus
     Art: serpyllum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: A
@@ -2413,7 +2223,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Thymus
     Art: herba-barona
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -2428,7 +2237,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Thymus
     Art: longicaulis
-    Sorte: ""
     Varietät: odoratus
     Winterhart: '1'
     Staude: '0'
@@ -2443,7 +2251,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Helianthus
     Art: tuberosus
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -2456,7 +2263,6 @@ kraeuter:
     Familie-lt: Orchidaceae
     Gattung: Vanilla
     Art: fragrans
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: D
@@ -2470,7 +2276,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Scandix
     Art: pectan-veneris
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -2484,7 +2289,6 @@ kraeuter:
     Familie-lt: Alliaceae
     Gattung: Allium
     Art: fistulosum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -2498,7 +2302,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Stachys
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: C
@@ -2511,7 +2314,6 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Stachys
     Art: affinis
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: C
@@ -2525,7 +2327,6 @@ kraeuter:
     Familie-lt: Liliaceae
     Gattung: Tulbaghia
     Art: violacea
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: C
@@ -2540,7 +2341,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Sium
     Art: sisarum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -2554,7 +2354,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Anthemis
     Art: tinctoria
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -2568,7 +2367,6 @@ kraeuter:
     Familie-lt: Solanaceae
     Gattung: Physalis
     Art: alkekengi
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -2583,7 +2381,6 @@ kraeuter:
     Familie-lt: Boraginaceae
     Gattung: Pulmonaria
     Art: officinalis
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -2597,7 +2394,6 @@ kraeuter:
     Familie-lt: Brassicaceae
     Gattung: Lepidium
     Art: meyenii
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -2611,7 +2407,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Tragopogon
     Art: porrifolius
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: B
@@ -2624,7 +2419,7 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Ocimum
     Art: selloi
-    Sorte: '`Green Pepper´'
+    Sorte: 'Green Pepper'
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -2640,7 +2435,6 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Acmella
     Art: oleracea
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -2653,7 +2447,6 @@ kraeuter:
     Familie-lt: Solanaceae
     Gattung: Physalis
     Art: peruviana
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: C
@@ -2667,7 +2460,6 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Centella
     Art: asiatica
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -2683,7 +2475,6 @@ kraeuter:
     Familie-lt: Violaceae
     Gattung: Viola
     Art: odorata
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: C
@@ -2696,7 +2487,7 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Ocimum
     Art: kilimandscharicum
-    Sorte: '''AFRICAN BLUE'''
+    Sorte: AFRICAN BLUE
     Winterhart: '0'
     Staude: '0'
     Preis: B
@@ -2709,7 +2500,6 @@ kraeuter:
     Familie-lt: Acoraceae
     Gattung: Acorus
     Art: calamus
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: D
@@ -2722,12 +2512,11 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: arvensis
-    Sorte: '`Banana´'
+    Sorte: 'Banana'
     Winterhart: '1'
     Staude: '1'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Odermennig
     Ordnung: Rosenartige
     Ordnung-lt: Rosales
@@ -2735,7 +2524,6 @@ kraeuter:
     Familie-lt: Rosaceae
     Gattung: Agrimonia
     Art: eupatoria
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
     Preis: C
@@ -2749,12 +2537,10 @@ kraeuter:
     Familie-lt: Papaveraceae
     Gattung: Chelidonium
     Art: majus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: B
     Karlsgarten: '0'
-    jährig: ""
   - Name: Spitzwegerich
     Ordnung: Wegerichartige
     Ordnung-lt: Plantaginales
@@ -2762,7 +2548,6 @@ kraeuter:
     Familie-lt: Plantaginaceae
     Gattung: Plantago
     Art: lanceolata
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
     Preis: B
@@ -2777,12 +2562,9 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Trachyspermum
     Art: ammi
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Apfel
     Ordnung: Rosenartige
     Ordnung-lt: Rosales
@@ -2790,12 +2572,9 @@ kraeuter:
     Familie-lt: Rosaceae
     Gattung: Malus
     Art: domestica
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Bärwurz
     Ordnung: Doldenblütlerartige
     Ordnung-lt: Apiales
@@ -2803,12 +2582,9 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Meum
     Art: athamanticum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Bergkümmel
     Name2: Berglaserkraut
     Ordnung: Doldenblütlerartige
@@ -2817,12 +2593,9 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Laserpitium
     Art: siler
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Birne
     Ordnung: Rosenartige
     Ordnung-lt: Rosales
@@ -2830,12 +2603,9 @@ kraeuter:
     Familie-lt: Rosaceae
     Gattung: Pyrus
     Art: communis
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Erbse
     Ordnung: Schmellterlingsblütenartige
     Ordnung-lt: Fabales
@@ -2843,12 +2613,9 @@ kraeuter:
     Familie-lt: Fabaceae
     Gattung: Pisum
     Art: sativum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Esskastanie
     Ordnung: Buchenartige
     Ordnung-lt: Fagales
@@ -2856,12 +2623,9 @@ kraeuter:
     Familie-lt: Fagaceae
     Gattung: Castanea
     Art: sativa
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Feige
     Ordnung: Brennesselartige
     Ordnung-lt: Urticales
@@ -2869,12 +2633,9 @@ kraeuter:
     Familie-lt: Moraceae
     Gattung: Ficus
     Art: carica
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Flaschenkürbis
     Name2: Kalebasse
     Synonym1: 'Cucurbita lagenaria'
@@ -2884,12 +2645,9 @@ kraeuter:
     Familie-lt: Cucurbitaceae
     Gattung: Lagenaria
     Art: siceraria
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: 'Griechisch Heu'
     Ordnung: Schmellterlingsblütenartige
     Ordnung-lt: Fabales
@@ -2897,12 +2655,9 @@ kraeuter:
     Familie-lt: Fabaceae
     Gattung: Trigonella
     Art: foenum-graecum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Gurke
     Ordnung: Veilchenartige
     Ordnung-lt: Violales
@@ -2910,10 +2665,8 @@ kraeuter:
     Familie-lt: Cucurbitaceae
     Gattung: Cucumis
     Art: sativus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '1'
   - Name: Haselnuss
@@ -2923,12 +2676,9 @@ kraeuter:
     Familie-lt: Betulaceae
     Gattung: Corylus
     Art: avellana
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Hauswurz
     Name2: Dach-Hauswurz
     Ordnung: Steinbrechartige
@@ -2937,12 +2687,9 @@ kraeuter:
     Familie-lt: Crassulaceae
     Gattung: Sempervivum
     Art: tectorum
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Helmbohne
     Name2: Faselbohne
     Synonym1: 'Dolichos lablab'
@@ -2952,10 +2699,8 @@ kraeuter:
     Familie-lt: Fabaceae
     Gattung: Lablab
     Art: purpureus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '1'
   - Name: Weberkarde
@@ -2965,10 +2710,8 @@ kraeuter:
     Familie-lt: Dipsacaceae
     Gattung: Dipsacus
     Art: sativus
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '2'
   - Name: Kardone
@@ -2978,12 +2721,9 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Cynara
     Art: cardunculus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Käsepappel
     Name2: Wegmalve
     Synonym1: 'Malva neglecta'
@@ -2993,10 +2733,8 @@ kraeuter:
     Familie-lt: Malvaceae
     Gattung: Malva
     Art: neglecta
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '2'
   - Name: Kichererbse
@@ -3006,10 +2744,8 @@ kraeuter:
     Familie-lt: Fabaceae
     Gattung: Cicer
     Art: arietinum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '1'
   - Name: Sauerkirsche
@@ -3020,12 +2756,9 @@ kraeuter:
     Familie-lt: Rosaceae
     Gattung: Prunus
     Art: cerasus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Süßkirsche
     Name2: Vogelkirsche
     Ordnung: Rosenartige
@@ -3034,12 +2767,9 @@ kraeuter:
     Familie-lt: Rosaceae
     Gattung: Prunus
     Art: avium
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: 'Große Klette'
     Name2: Klette
     Ordnung: Asternartige
@@ -3048,12 +2778,9 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Arctium
     Art: lappa
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Knoblauch
     Name2: Knofel
     Ordnung: Spargelartige
@@ -3062,12 +2789,9 @@ kraeuter:
     Familie-lt: Alliaceae
     Gattung: Allium
     Art: sativum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Schlangenknöterich
     Name2: Schlangenwiesenknöterich
     Synonym1: 'Polygonum bistorta'
@@ -3077,13 +2801,10 @@ kraeuter:
     Familie-lt: Brassicaceae
     Gattung: Bistorta
     Art: officinalis
-    Sorte: ""
     Varietät: officinalis
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Kohl
     Ordnung: Kapernartige
     Ordnung-lt: Capparales
@@ -3091,12 +2812,9 @@ kraeuter:
     Familie-lt: Brassicaceae
     Gattung: Brassica
     Art: oleracea
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Kohlrabi
     Ordnung: Kapernartige
     Ordnung-lt: Capparales
@@ -3104,13 +2822,10 @@ kraeuter:
     Familie-lt: Brassicaceae
     Gattung: Brassica
     Art: oleracea
-    Sorte: ""
     Varietät: gongylodes
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Koloquinthe
     Name2: Bittermelone
     Ordnung: Veilchenartige
@@ -3119,12 +2834,9 @@ kraeuter:
     Familie-lt: Cucurbitaceae
     Gattung: Citrullus
     Art: colocynthis
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Kostuswurzel
     Ordnung: Asternartige
     Ordnung-lt: Asterales
@@ -3132,12 +2844,9 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Saussurea
     Art: costus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Kreuzkümmel
     Ordnung: Veilchenartige
     Ordnung-lt: Violales
@@ -3145,12 +2854,9 @@ kraeuter:
     Familie-lt: Cucurbitaceae
     Gattung: Cuminum
     Art: cyminum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Kuhbohne
     Name2: Spargelbohne
     Ordnung: Schmetterlingsblütenartige
@@ -3159,12 +2865,9 @@ kraeuter:
     Familie-lt: Fabaceae
     Gattung: Vigna
     Art: unguiculata
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Lattich
     Name2: Gartenlattich
     Name3: 'Grüner Salat'
@@ -3174,12 +2877,9 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Lactuca
     Art: sativa
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Giftlattich
     Ordnung: Asternartige
     Ordnung-lt: Asterales
@@ -3187,12 +2887,9 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Lactuca
     Art: virosa
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Winterlauch
     Name2: Lauch
     Name3: Breitlauch
@@ -3202,12 +2899,9 @@ kraeuter:
     Familie-lt: Alliaceae
     Gattung: Allium
     Art: porrum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Madonnenlilie
     Name2: 'Weiße Lilie'
     Ordnung: Lilienartige
@@ -3216,12 +2910,9 @@ kraeuter:
     Familie-lt: Liliaceae
     Gattung: Lilium
     Art: candidum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Mandel
     Name2: Mandelbaum
     Ordnung: Rosenartige
@@ -3230,12 +2921,9 @@ kraeuter:
     Familie-lt: Rosaceae
     Gattung: Prunus
     Art: dulcis
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Mangold
     Ordnung: Nelkenartige
     Ordnung-lt: Caryophyllales
@@ -3243,13 +2931,10 @@ kraeuter:
     Familie-lt: Chenopodiaceae
     Gattung: Beta
     Art: vulgaris
-    Sorte: ""
     Varietät: cicla
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: 'Schwarze Maulbeere'
     Name2: Maulbeere
     Ordnung: Brennesselartige
@@ -3258,12 +2943,9 @@ kraeuter:
     Familie-lt: Moraceae
     Gattung: Morus
     Art: nigra
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Meerzwiebel
     Name2: 'echte Meerzwiebel'
     Name3: 'weiße Meerzwiebel'
@@ -3274,12 +2956,9 @@ kraeuter:
     Familie-lt: Hyacinthaceae
     Gattung: Urginea
     Art: maritima
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Meier
     Ordnung: Nelkenartige
     Ordnung-lt: Caryophyllales
@@ -3287,10 +2966,8 @@ kraeuter:
     Familie-lt: Amaranthaceae
     Gattung: Amaranthus
     Art: blitum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '1'
   - Name: Gartenmelde
@@ -3301,12 +2978,9 @@ kraeuter:
     Familie-lt: Chenopodiaceae
     Gattung: Atriples
     Art: hortensis
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Rossminze
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -3314,12 +2988,9 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Mentha
     Art: longifolia
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Mispel
     Ordnung: Rosenartige
     Ordnung-lt: Rosales
@@ -3327,12 +2998,9 @@ kraeuter:
     Familie-lt: Rosaceae
     Gattung: Mespilus
     Art: germanica
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Schlafmohn
     Ordnung: Mohnartige
     Ordnung-lt: Papaverales
@@ -3340,12 +3008,9 @@ kraeuter:
     Familie-lt: Papaveraceae
     Gattung: Papaver
     Art: somniferum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Möhre
     Name2: Karotte
     Ordnung: Doldenblütlerartige
@@ -3354,12 +3019,9 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Daucus
     Art: carota
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Mutterwurz
     Ordnung: Doldenblütlerartige
     Ordnung-lt: Apiales
@@ -3367,12 +3029,9 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Ligusticum
     Art: mutellina
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Ölrauke
     Name2: Rukola
     Name3: Senfrauke
@@ -3384,12 +3043,9 @@ kraeuter:
     Familie-lt: Brassicaceae
     Gattung: Eruca
     Art: stiva
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Pastinak
     Name2: 'Echter Pastinak'
     Name3: Hammelsmöhre
@@ -3399,10 +3055,8 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Pastinaca
     Art: sativa
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '2'
   - Name: Pfirsich
@@ -3412,13 +3066,10 @@ kraeuter:
     Familie-lt: Rosaceae
     Gattung: Prunus
     Art: persica
-    Sorte: ""
     Varietät: persica
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Pflaume
     Name2: Zwetschge
     Ordnung: Rosenartige
@@ -3427,13 +3078,10 @@ kraeuter:
     Familie-lt: Rosaceae
     Gattung: Prunus
     Art: domestica
-    Sorte: ""
     Varietät: domestica
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Pinie
     Name2: Schirmkiefer
     Ordnung: Kiefernartige
@@ -3442,12 +3090,9 @@ kraeuter:
     Familie-lt: Pinaceae
     Gattung: Pinus
     Art: pinea
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Quitte
     Name2: 'Echte Quitte'
     Ordnung: Rosenartige
@@ -3456,12 +3101,9 @@ kraeuter:
     Familie-lt: Rosaceae
     Gattung: Cydonia
     Art: oblonga
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Rettich
     Name2: Radi
     Name3: Gartenrettich
@@ -3471,11 +3113,9 @@ kraeuter:
     Familie-lt: Brassicaceae
     Gattung: Raphanus
     Art: sativus
-    Sorte: ""
     Varietät: niger
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '1'
   - Name: Hundsrose
@@ -3485,12 +3125,9 @@ kraeuter:
     Familie-lt: Rosaceae
     Gattung: Rosa
     Art: canina
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Sadebaum
     Name2: Wacholder
     Name3: Stinkwacholder
@@ -3500,12 +3137,9 @@ kraeuter:
     Familie-lt: Cupressaceae
     Gattung: Juniperus
     Art: sabina
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Saubohne
     Name2: Puffbohne
     Ordnung: Schmetterlingsblütenartige
@@ -3514,11 +3148,9 @@ kraeuter:
     Familie-lt: Fabaceae
     Gattung: Vicia
     Art: faba
-    Sorte: ""
     Varietät: faba
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '1'
   - Name: Schalotte
@@ -3528,13 +3160,10 @@ kraeuter:
     Familie-lt: Alliaceae
     Gattung: Allium
     Art: cepa
-    Sorte: ""
     Varietät: 'Aggregatum Grp.'
     Winterhart: '1'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Schwarzkümmel
     Ordnung: Hahnenfußartige
     Ordnung-lt: Ranunculales
@@ -3542,10 +3171,8 @@ kraeuter:
     Familie-lt: Ranunculaceae
     Gattung: Nigella
     Art: sativa
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '1'
   - Name: 'Deutsche Schwertlilie'
@@ -3555,13 +3182,10 @@ kraeuter:
     Familie-lt: Iridaceae
     Gattung: Iris
     Art: 'x germanica'
-    Sorte: ""
     Varietät: germanica
     Winterhart: '1'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Sellerie
     Name2: Zeller
     Name3: Eppich
@@ -3571,10 +3195,8 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Apium
     Art: graveolens
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '2'
   - Name: Senf
@@ -3585,12 +3207,9 @@ kraeuter:
     Familie-lt: Brassicaceae
     Gattung: Sinapis
     Art: alba
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Siegwurz
     Name2: Saat-Siegwurz
     Ordnung: Lilienartige
@@ -3599,12 +3218,9 @@ kraeuter:
     Familie-lt: Iridaceae
     Gattung: Gladiolus
     Art: italicus
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: 'Europäische Sonnenwende'
     Ordnung: Nachtschattenartige
     Ordnung-lt: Solanales
@@ -3612,10 +3228,8 @@ kraeuter:
     Familie-lt: Boraginaceae
     Gattung: Heliotropium
     Art: europaeum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '1'
   - Name: Speierling
@@ -3625,12 +3239,9 @@ kraeuter:
     Familie-lt: Rosaceae
     Gattung: Sorbus
     Art: domestica
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Stoppelrübe
     Name2: Herbstrübe
     Name3: Wasserrübe
@@ -3641,11 +3252,9 @@ kraeuter:
     Familie-lt: Brassicaceae
     Gattung: Brassica
     Art: rapa
-    Sorte: ""
     Varietät: rapa
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '2'
   - Name: Walnuss
@@ -3655,12 +3264,9 @@ kraeuter:
     Familie-lt: Juglandaceae
     Gattung: Juglans
     Art: regia
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Wegwarte
     Ordnung: Asternartige
     Ordnung-lt: Asterales
@@ -3668,12 +3274,9 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Cichorium
     Art: intybus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: 'Kreuzblättrige Wolfsmilch'
     Ordnung: Wolfsmilchartige
     Ordnung-lt: Euphorbiales
@@ -3681,10 +3284,8 @@ kraeuter:
     Familie-lt: Euphorbiaceae
     Gattung: Euphorbia
     Art: lathyrus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '2'
   - Name: 'Weiße Zaunrübe'
@@ -3695,12 +3296,9 @@ kraeuter:
     Familie-lt: Cucurbitaceae
     Gattung: Bryonia
     Art: alba
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Zuckermelone
     Ordnung: Veilchenartige
     Ordnung-lt: Violales
@@ -3708,11 +3306,9 @@ kraeuter:
     Familie-lt: Cucurbitaceae
     Gattung: Cucumis
     Art: melo
-    Sorte: ""
     Varietät: 'Cantalupensis Grp.'
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
     jährig: '1'
   - Name: Zwiebel
@@ -3724,13 +3320,10 @@ kraeuter:
     Familie-lt: Alliaceae
     Gattung: Allium
     Art: cepa
-    Sorte: ""
     Varietät: 'Cepa Grp.'
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '1'
-    jährig: ""
   - Name: Austernpflanze
     Ordnung: Raublattartige
     Ordnung-lt: Boraginales
@@ -3738,254 +3331,112 @@ kraeuter:
     Familie-lt: Boraginaceae
     Gattung: Mertensia
     Art: maritima
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'steirisches Strauchbasilikum'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'weißes Basilikum'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'schwarzes Bilsenkraut'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Hyoscyamus
     Art: niger
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'weißes Bilsenkraut'
     Name2: 'gelbes Bilsenkraut'
     Name3: 'helles Bilsenkraut'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Hyoscyamus
     Art: albus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Blutwurz
     Name2: Tormentill
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Potentilla
     Art: erecta
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Boatzkräutl
     Name2: Bohnenkraut
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Satureja
     Art: hortensis
-    Sorte: ""
     Varietät: Boatzkräutl
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
     jährig: '1'
   - Name: Chili
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
     jährig: '1'
   - Name: Cistrose
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Cistus
     Art: incanus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
     jährig: '3'
   - Name: Speisechrysantheme
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'schmalblättrige Damiana'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Turnera
     Art: diffusa
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'großblättrige Damiana'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Turnera
     Art: ulmifolia
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Eiskraut
     Name2: 'ausdauerndes Eiskraut'
     Name3: 'Herzblättrige Mittagsblume'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Aptenia
     Art: cordifolia
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Engelwurz
     Name2: Angelika
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Angelica
     Art: archangelika
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Färberwaid
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Färberwau
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'indischer Flohsame'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'echtes Herzgespann'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Leonurus
     Art: cardiaca
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Hirschwurzel
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Weberkarde
     Name2: Karde
     Ordnung: Kardenartige
@@ -3994,12 +3445,9 @@ kraeuter:
     Familie-lt: Dipsacaceae
     Gattung: Dipsacus
     Art: sativus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Kardone
     Name2: Cardy
     Ordnung: Asternartige
@@ -4008,12 +3456,9 @@ kraeuter:
     Familie-lt: Asteraceae
     Gattung: Cynara
     Art: cardunculus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Knoblauchgamander
     Ordnung: Lippenblütlerartige
     Ordnung-lt: Lamiales
@@ -4021,207 +3466,84 @@ kraeuter:
     Familie-lt: Lamiaceae
     Gattung: Teucrium
     Art: scordium
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Bockshornklee
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Trigonella
     Art: foenum-graecum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Schabzigerklee
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Kresse
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Kroatzbeere
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Rubus
     Art: caesius
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'französischer Lavendel'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
     Sorte: GROSSO
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Lein
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Linum
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Löffelkraut
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'moldawische Melisse'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
     jährig: '1'
   - Name: Meisterwurz
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'kleine Katzenminze'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Nepeta
     Art: faassenii
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'kriechende Poleiminze'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '1'
     Staude: '1'
-    Preis: ""
     Karlsgarten: '0'
     jährig: '3'
   - Name: Nelkenwurz
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Geum
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Olivenkraut
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Santolina
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Passionsblume
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Passiflora
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'heilende Passionsblume'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Passiflora
     Art: incarnata
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Bibernelle
     Name2: 'kleine Bibernelle'
     Ordnung: Doldenblütlerartige
@@ -4230,222 +3552,88 @@ kraeuter:
     Familie-lt: Apiaceae
     Gattung: Pimpinella
     Art: saxifraga
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Pilzkraut
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Rungia
     Art: klossii
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'wilder Portulak'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Portulaca
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Queller
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Salicornia
     Art: europaea
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Rizinus
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Ricinus
     Art: communis
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'Rosmarin ARP'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
     Sorte: ARP
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'Rosmarin Veitshöchheim'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
     Sorte: Veitshöchheim
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Honigmelonensalbei
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Johannisbeersalbei
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'mexikanischer Salbei'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Lepichinia
     Art: hastata
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Pfeffersalbei
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Präriesalbei
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Silberblattsalbei
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'kleiner Sauerampfer'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Süssdolde
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Mattenthymian
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
-    Gattung: ""
-    Art: ""
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Tollkirsche
     Name2: 'schwarzfrüchtige Tollkirsche'
     Name3: 'schwarze Tollkirsche'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Atropa
     Art: belladonna
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Tüpfelfarn
     Name2: Engelsüß
     Ordnung: Tüpfelfarnartige
@@ -4454,330 +3642,169 @@ kraeuter:
     Familie-lt: Polypodiaceae
     Gattung: Polypodium
     Art: vulgare
-    Sorte: ""
     Winterhart: '1'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
     jährig: '3'
   - Name: Alraune
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Mandragora
     Art: officinarum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
     Preis: E
     Karlsgarten: '0'
-    jährig: ""
   - Name: Frühlings-Adonis
     Name2: Adonisröschen
     Name3: Frühlings-Adonisröschen
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Adonis
     Art: vernalis
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Sommer-Adonis
     Name2: Adonisröschen
     Name3: Sommer-Adonisröschen
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Adonis
     Art: aestivalis
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Herbst-Adonis
     Name2: Adonisröschen
     Name3: Herbst-Adonisröschen
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Adonis
     Art: annua
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Amarant
     Name2: Fuchsschwanz
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Amaranthus
     Art: blitum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'Canum Basilikum'
     Name2: 'Tulsi canum'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Ocimum
     Art: canum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Färberdistel
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Carthamus
     Art: tinctoris
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'europäische Goldrute'
     Name2: 'echte Goldrute'
     Name3: 'gemeine Goldrute'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Solidago
     Art: virgaurea
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Steinklee
     Name2: 'Echter Steinklee'
     Name3: 'Gelber Steinklee'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Meliotus
     Art: officinalis
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Gartenkresse
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Lepidium
     Art: sativum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Süßholz
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Glycyrrhiza
     Art: glabra
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'Schmalblättriger Sonnenhut'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Echinacea
     Art: angustifolia
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'Gelbe Tollkirsche'
     Name2: 'Gelbfrüchtige Tollkirsche'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Atropa
     Art: belladonna
-    Sorte: '`Lutea`'
+    Sorte: 'Lutea'
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'echter Haarstrang'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Peucedanum
     Art: officinale
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Faserhanf
     Name2: Nutzhanf
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Cannabis
     Art: sativa
-    Sorte: ""
     Varietät: sativa
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Huflattich
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Tussilago
     Art: farfara
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Schabenkönigskerze
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Verbascum
     Art: blattaria
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Salzmelde
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Atriplex
     Art: halimus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Virginiatabak
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Nicotiana
     Art: tabacum
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Bauerntabak
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Nicotiana
     Art: rustica
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Ehrenpreis
     Name2: 'Ähriger Ehrenpreis'
     Name3: 'Ähriger Blauweiderich'
     Synonym1: Ähren-Blauweiderich
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Veronica
     Art: spicata
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'arabisches Bergkraut'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Micromeria
     Art: fruticosa
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: Schildampfer
     Name2: 'römischer Ampfer'
-    Ordnung: ""
-    Ordnung-lt: ""
-    Familie: ""
-    Familie-lt: ""
     Gattung: Rumex
     Art: scutatus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
   - Name: 'echte Aloe'
     Ordnung: Spargelartige
     Ordnung-lt: Asparagales
@@ -4785,10 +3812,8 @@ kraeuter:
     Familie-lt: Xanthorrhoeaceae
     Gattung: Aloe
     Art: vera
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
     jährig: '3'
   - Name: Eisenhut
@@ -4802,9 +3827,6 @@ kraeuter:
     Familie-lt: Ranunlulaceae
     Gattung: Aconitum
     Art: napellus
-    Sorte: ""
     Winterhart: '0'
     Staude: '0'
-    Preis: ""
     Karlsgarten: '0'
-    jährig: ""
