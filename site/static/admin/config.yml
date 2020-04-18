@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo:  janKollars/gaertnerei-ruzicka
   branch: enable-netlifycms
 media_folder: site/static/img
 public_folder: /img

@@ -10,5 +10,48 @@
   <body>
     <!-- Include the script that builds the page and powers Netlify CMS -->
     <script src="https://unpkg.com/netlify-cms@^2.10.24/dist/netlify-cms.js"></script>
+    <script>
+      CMS.registerPreviewStyle("/main.css");
+
+      const PagePreview = createClass({
+        render: function() {
+          const entry = this.props.entry;
+          return (
+            h('div', {},
+              h('div', {id: 'head'}),
+              h('main', {id: 'content'},
+                h('h1', {}, entry.getIn(['data', 'title'])),
+                h('div', {}, this.props.widgetFor('body'))
+              ),
+              h('div', {id: 'footer'})
+            )
+          );
+        }
+      });
+
+      CMS.registerPreviewTemplate("page", PagePreview);
+
+
+      const KraeuterPreview = createClass({
+        render: function() {
+          const entry = this.props.entry;
+          const name2 = entry.getIn(['data', 'name2'])
+          return (
+            h('div', {},
+              h('div', {id: 'head'}),
+              h('main', {id: 'content'},
+                h('h1', {}, entry.getIn(['data', 'name'])),
+                name2 ? h('em', {}, `auch: ${name2}`) : null,
+                h('div', {}, this.props.widgetFor('body'))
+              ),
+              h('div', {id: 'footer'})
+            )
+          );
+        }
+      });
+
+      CMS.registerPreviewTemplate("kraeuter", KraeuterPreview);
+
+    </script>
   </body>
 </html>
