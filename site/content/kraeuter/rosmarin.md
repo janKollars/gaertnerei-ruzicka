@@ -4,8 +4,8 @@ ordnung: Lippenblütlerartige
 ordnungLT: Lamiales
 familie: Lippenblütler
 familieLT: Lamiaceae
-gattung: Rosmarinus
-art: officinalis
+gattung: Salvia
+art: rosmarinus
 staude: false
 preis: B
 jahr: '1'
