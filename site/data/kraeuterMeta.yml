@@ -1,17 +1,7 @@
-preiskategorien:
-  A: 2,90
-  B: 4,50
-  C: 7,-
-  D: 11,-
-  E: 17,-
-  F: 27,-
 jahr:
-  "1": einjährig
-  "2": zweijährig
+  "e": einjährig
+  "z": zweijährig
   "m": mehrjährig
-winter:
-  "j": winterhart
-  "n": nicht winterhart
 licht:
   "1": absonnig
   "2": lichtschattig

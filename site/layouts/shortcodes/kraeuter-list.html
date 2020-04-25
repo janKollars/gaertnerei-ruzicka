@@ -3,12 +3,12 @@
 
 <table class="kraeuter-table">
   <tbody id="jetsContent" style="display: none;">
-  {{ range $index, $el := .Site.Pages }}
-    {{ if eq $el.Type "kraeuter" }}
+  {{ range .Site.Data.kraeuterDB.kraeuter }}
+    {{ $hasPage := where $.Site.Pages "Params.name" "eq" .name }}
     <tr>
       <td>
-        <a href="{{ $el.Permalink | relURL }}">{{ $el.Params.name }}</a>
-        {{ $alternativeNames := union $el.Params.extraNamen $el.Params.synonyme }}
+        {{ if $hasPage }}<a href="{{ (index $hasPage 0).RelPermalink }}">{{ .name }}</a>{{ else }}{{ .name }}{{ end }}
+        {{ $alternativeNames := union .extraNamen .synonyme }}
         {{ if gt (len $alternativeNames) 0 }}
         <br><small><em>auch:</em>
           {{ range $i, $name := $alternativeNames }}
@@ -18,12 +18,11 @@
         {{ end }}
       </td>
       <td>
-        {{ if and (isset $el.Params "preis") (ne $el.Params.preis "") }}
-        € {{ index $.Site.Data.kraeuterMeta.preiskategorien $el.Params.preis }}
+        {{ if and (isset . "preis") (ne .preis "") }}
+        € {{ index $.Site.Data.preisklassen.preisklassen .preis }}
         {{ end }}
       </td>
     </tr>
-    {{ end }}
   {{ end }}
   </tbody>
 </table>

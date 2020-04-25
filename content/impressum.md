@@ -1,0 +1,69 @@
+---
+title: Impressum
+---
+
+<h3>Öffnungszeiten</h3>
+
+<!--
+<h3>In den Wintermonaten Jänner und Februar nach Vereinbarung.</h3>
+-->
+
+<!--
+<strong>Vor Allerheiligen 21. 10. bis 1. 11. Sonderöffnungszeiten:
+Täglich von 8:00 bis 18:00
+Auch Feiertag und Sonntag!
+</strong>
+-->
+
+
+<table>
+  <tr>
+     <td>Montag</td>
+     <td>08:00-12:00 + 14:00-16:00</td>
+   </tr>
+   <tr>
+     <td>Dienstag</td>
+		 <td>08:00-12:00 + 14:00-16:00</td>
+   </tr>
+   <tr>
+     <td>Mittwoch</td>
+		 <td>08:00-12:00 + 14:00-16:00</td>
+   </tr>
+   <tr>
+     <td>Donnerstag</td>
+		 <td>7:00 - 12:00<br>Wochenmarkt Enzoplatz<br>
+      <br>
+      14:00-16:00</td>
+   </tr>
+   <tr>
+     <td>Freitag</td>
+		 <td>08:00-12:00</td>
+   </tr>
+   <tr>
+     <td>Samstag<br>Sonntag<br>Feiertag</td>
+     <td>nach Vereinbarung</td>
+   </tr>
+ </table>
+Außerhalb der Öffnungszeiten ist eine Terminvereinbarung jederzeit möglich!
+
+
+
+<h3>Kontaktdaten</h3>
+<ul>
+	<li>Martin Ruzicka, Gärtnermeister</li>
+	<li>Friedhofstraße 67, 2103 Langenzersdorf </li>
+	<li>Tel.: +43 (0)2244 /4404</li>
+	<li>Fax.: +43 (0)2244/4001</li>
+	<li>Mobil: +43 (0)664/4412923</li>
+	<li>E-Mail: <a href="mailto:&#x72;&#x75;&#x7A;&#105;&#99;&#x6B;&#97;&#x40;&#x63;&#x63;&#99;&#46;&#x61;&#x74;">&#x72;&#x75;&#x7A;&#105;&#99;&#x6B;&#97;&#x40;&#x63;&#x63;&#99;&#46;&#x61;&#x74;</a>
+		<!-- &frasl; <a href="mailto:&#x72;&#x75;&#x7A;&#105;&#99;&#x6B;&#97;&#x40;&#x67;&#x61;&#101;&#114;&#x74;&#x6E;&#101;&#x72;&#x65;&#105;&#x2D;&#114;&#x75;&#x7A;&#105;&#x63;&#107;&#97;&#x2E;&#x61;&#116;">&#x72;&#x75;&#x7A;&#105;&#99;&#x6B;&#97;&#x40;&#x67;&#x61;&#101;&#114;&#x74;&#x6E;&#101;&#x72;&#x65;&#105;&#x2D;&#114;&#x75;&#x7A;&#105;&#x63;&#107;&#97;&#x2E;&#x61;&#116;</a></li>-->
+      <li>Mitglied der Wirtschaftskammer NÖ</li>
+	<li>Mitglied der Landwirtschaftskammer NÖ</li>
+	<li>UID: ATU18442102</li>
+</ul>
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10616.150811089272!2d16.3680384!3d48.3021263!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xaeb655f3ce17cb8d!2sFriedhofsg%C3%A4rtnerei+Martin+Ruzicka!5e0!3m2!1sde!2sat!4v1520676610826" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<br><br>
+<small>Das unerlaubte Kopieren oder Verwenden von Texten und anderen Inhalten dieser Website ist untersagt. Die Gärtnerei Martin Ruzicka behält sich alle Urheberrechte an den Texten, Bildern und sonstigen Inhalten dieser Website vor. Mit freundlicher Genehmigung werden zudem Bilder von Herrn Bernhard Michal benutzt. Die damit verbundenen Urheberrechte verbleiben bei ihm. Alle Rechte vorbehalten. Alle Angaben vorbehaltlich Änderungen und Tippfehler.</small>

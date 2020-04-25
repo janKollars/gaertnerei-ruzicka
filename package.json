@@ -6,15 +6,18 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",
+    "init": "gulp build",
     "start": "run-p start:**",
-    "start:hugo": "hugo -d ../dist -s site -vw",
+    "start:gulp": "gulp watch",
+    "start:hugo": "npm run init && hugo -d ../dist -s site -vw",
     "start:webpack": "webpack-dev-server --config webpack.dev.js --hot",
     "preview": "run-p preview:**",
+    "preview:gulp": "gulp watch",
     "preview:hugo": "npm run start:hugo -- -D -F",
     "preview:webpack": "npm run start:webpack",
     "prebuild": "rimraf dist",
-    "build": "npm run build:webpack && npm run build:hugo",
-    "build:preview": "npm run build:webpack && npm run build:hugo:preview",
+    "build": "npm run init && npm run build:webpack && npm run build:hugo",
+    "build:preview": "npm run init && npm run build:webpack && npm run build:hugo:preview",
     "build:hugo": "hugo -d ../dist -s site -v",
     "build:hugo:preview": "npm run build:hugo -- -D -F",
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
@@ -68,5 +71,10 @@
     "webpack-merge": "^4.1.4",
     "whatwg-fetch": "^3.0.0",
     "sass-lint": "^1.13.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-rename": "^2.0.0",
+    "yaml": "^1.9.2"
   }
 }

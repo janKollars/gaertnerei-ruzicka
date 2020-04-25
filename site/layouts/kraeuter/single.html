@@ -16,7 +16,7 @@
   {{ end }}
 
   {{ if isset .Params "preis" }}
-  <div>Preis: € {{ index .Site.Data.kraeuterMeta.preiskategorien .Params.preis }}</div>
+  <div>Preis: € {{ index .Site.Data.preisklassen.preisklassen .Params.preis }}</div>
   {{ end }}
 
   {{ if isset .Params "jahr" }}

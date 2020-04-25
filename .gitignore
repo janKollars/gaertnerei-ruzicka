@@ -1,6 +1,9 @@
 node_modules/
 dist/
+site/content
 site/data/webpack.json
+site/data/preisklassen.yml
+site/data/kraeuterDB.yml
 
 ### VisualStudioCode ###
 .vscode/*

@@ -7,120 +7,82 @@ public_folder: /img
 collections:
   - name: page
     label: Seiten
-    files:
-      - name: home
-        label: Homepage
-        file: site/content/_index.md
-        fields:
-          - { label: Titel, name: title, widget: string }
-          - { label: Inhalt, name: body, widget: markdown }
-      - name: agb
-        label: AGB
-        file: site/content/agb.md
-        fields:
-          - { label: Titel, name: title, widget: string }
-          - { label: Inhalt, name: body, widget: markdown }
-      - name: friedhof
-        label: Friedhofsgärtnerei
-        file: site/content/friedhof.md
-        fields:
-          - { label: Titel, name: title, widget: string }
-          - { label: Inhalt, name: body, widget: markdown }
-      - name: grabpflege
-        label: Grabpflege
-        file: site/content/grabpflege.md
-        fields:
-          - { label: Titel, name: title, widget: string }
-          - { label: Inhalt, name: body, widget: markdown }
-      - name: haftung
-        label: Haftung
-        file: site/content/haftung.md
-        fields:
-          - { label: Titel, name: title, widget: string }
-          - { label: Inhalt, name: body, widget: markdown }
-      - name: impressum
-        label: Impressum
-        file: site/content/impressum.md
-        fields:
-          - { label: Titel, name: title, widget: string }
-          - { label: Inhalt, name: body, widget: markdown }
-      - name: links
-        label: Links
-        file: site/content/links.md
-        fields:
-          - { label: Titel, name: title, widget: string }
-          - { label: Inhalt, name: body, widget: markdown }
-      - name: privat
-        label: Privat
-        file: site/content/privat.md
-        fields:
-          - { label: Titel, name: title, widget: string }
-          - { label: Inhalt, name: body, widget: markdown }
-      - name: saisonal
-        label: Saisonal
-        file: site/content/saisonal.md
-        fields:
-          - { label: Titel, name: title, widget: string }
-          - { label: Inhalt, name: body, widget: markdown }
-      - name: sortiment
-        label: Sortiment
-        file: site/content/sortiment.md
-        fields:
-          - { label: Titel, name: title, widget: string }
-          - { label: Inhalt, name: body, widget: markdown }
-      - name: termine
-        label: Termine
-        file: site/content/termine.md
-        fields:
-          - { label: Titel, name: title, widget: string }
-          - { label: Inhalt, name: body, widget: markdown }
-      - name: trauerbinderei
-        label: Trauerbinderei
-        file: site/content/trauerbinderei.md
-        fields:
-          - { label: Titel, name: title, widget: string }
-          - { label: Inhalt, name: body, widget: markdown }
-      - name: kraeuter
-        label: Kräuter
-        file: site/content/kraeuter/_index.md
-        fields:
-          - { label: Titel, name: title, widget: string }
-          - { label: Inhalt, name: body, widget: markdown }
-
-  - name: kraeuter
-    label: Kräuter
-    folder: site/content/kraeuter
+    folder: content
     create: true
     slug: '{{slug}}'
     fields:
-      - { label: Name, name: name, widget: string }
-      - { label: Name2, name: name2, widget: string }
-      - { label: Gattung, name: gattung, widget: string }
-      - label: Preisklasse
-        name: preis
-        widget: select
-        options: [A, B, C, D, E, F]
-      - label: Jahr
-        name: jahr
-        widget: select
-        options:
-          - { label: einjährig, value: 1 }
-          - { label: zweijährig, value: 2 }
-          - { label: mehrjährig, value: m }
-      - { label: winterhart, name: winter, widget: boolean }
-      - label: Lichtbedarf
-        name: licht
-        widget: select
-        options:
-          - { label: absonnig, value: 1 }
-          - { label: lichtschattig, value: 2 }
-          - { label: halbschattig, value: 3 }
-          - { label: vollschattig, value: 4 }
-      - label: Wasserbedarf
-        name: wasser
-        widget: select
-        options:
-          - { label: viel, value: 1 }
-          - { label: wenig, value: 2 }
-          - { label: kein, value: 3 }
-      - { label: Beschreibung, name: body, widget: markdown }
+      - { label: Titel, name: title, widget: string }
+      - { label: Inhalt, name: body, widget: markdown }
+
+  - name: kraeuter
+    label: Kräuter
+    files:
+    - name: preisklassen
+      label: Kräuter Preisklassen
+      file: content/kraeuter/preisklassen.yml
+      fields:
+      - label: Preisklassen
+        name: preisklassen
+        widget: object
+        fields:
+        - { label: A, name: A, widget: number }
+        - { label: B, name: B, widget: number }
+        - { label: C, name: C, widget: number }
+        - { label: D, name: D, widget: number }
+        - { label: E, name: E, widget: number }
+        - { label: F, name: F, widget: number }
+
+    - name: kraeuterDB
+      label: Kräuter Datenbank
+      file: content/kraeuter/kraeuterDB.yml
+      fields:
+      - label: Kräuter
+        name: kraeuter
+        widget: list
+        fields:
+        - { label: Name, name: name, widget: string }
+        - label: weitere Namen
+          name: extraNamen
+          widget: list
+          field: { label: Name, name: extraName, widget: string }
+        - label: Synonyme
+          name: synonyme
+          widget: list
+          field: { label: Synonym, name: synonym, widget: string }
+        - { label: Ordnung, name: ordnung, widget: string }
+        - { label: Ordnung-lt, name: ordnung-lt, widget: string }
+        - { label: Familie, name: familie, widget: string }
+        - { label: Familie-lt, name: familie-lt, widget: string }
+        - { label: Gattung, name: gattung, widget: string }
+        - { label: Art, name: art, widget: string }
+        - { label: Sorte, name: sorte, widget: string }
+        - label: Preisklasse
+          name: preis
+          widget: select
+          options: [A, B, C, D, E, F]
+        - label: Jahr
+          name: jahr
+          widget: select
+          options:
+            - { label: einjährig, value: 1 }
+            - { label: zweijährig, value: 2 }
+            - { label: mehrjährig, value: m }
+        - { label: winterhart, name: winterhart, widget: boolean }
+        - { label: ist Staude, name: staude, widget: boolean }
+        - { label: Karlsgarten, name: karlsgarten, widget: boolean }
+        - label: Lichtbedarf
+          name: licht
+          widget: select
+          options:
+            - { label: absonnig, value: 1 }
+            - { label: lichtschattig, value: 2 }
+            - { label: halbschattig, value: 3 }
+            - { label: vollschattig, value: 4 }
+        - label: Wasserbedarf
+          name: wasser
+          widget: select
+          options:
+            - { label: viel, value: 1 }
+            - { label: wenig, value: 2 }
+            - { label: kein, value: 3 }
+        - { label: Beschreibung, name: body, widget: markdown }
