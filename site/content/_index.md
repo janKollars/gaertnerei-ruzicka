@@ -2,7 +2,7 @@
 title: Herzlich Willkommen
 layout: single
 ---
-<img class="shadow" style="float: right; margin: 0px 0px 0px 5px;" src="img/martin.jpg" alt="Martin Ruzicka" width="150" height="300">
+<img class="shadow" style="float: right; margin: 0px 0px 0px 5px;" src="/img/martin.jpg" alt="Martin Ruzicka" width="150" height="300">
 
 **Es freut mich Sie auf unserer Website begrüßen zu dürfen!**
 
