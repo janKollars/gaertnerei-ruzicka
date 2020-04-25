@@ -7,12 +7,85 @@ public_folder: /img
 collections:
   - name: page
     label: Seiten
-    folder: site/content
-    create: true
-    slug: '{{slug}}'
-    fields:
-      - { label: Titel, name: title, widget: string }
-      - { label: Inhalt, name: body, widget: markdown }
+    files:
+      - name: home
+        label: Homepage
+        file: site/content/_index.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Inhalt, name: body, widget: markdown }
+      - name: agb
+        label: AGB
+        file: site/content/agb.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Inhalt, name: body, widget: markdown }
+      - name: friedhof
+        label: Friedhofsgärtnerei
+        file: site/content/friedhof.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Inhalt, name: body, widget: markdown }
+      - name: grabpflege
+        label: Grabpflege
+        file: site/content/grabpflege.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Inhalt, name: body, widget: markdown }
+      - name: haftung
+        label: Haftung
+        file: site/content/haftung.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Inhalt, name: body, widget: markdown }
+      - name: impressum
+        label: Impressum
+        file: site/content/impressum.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Inhalt, name: body, widget: markdown }
+      - name: links
+        label: Links
+        file: site/content/links.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Inhalt, name: body, widget: markdown }
+      - name: privat
+        label: Privat
+        file: site/content/privat.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Inhalt, name: body, widget: markdown }
+      - name: saisonal
+        label: Saisonal
+        file: site/content/saisonal.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Inhalt, name: body, widget: markdown }
+      - name: sortiment
+        label: Sortiment
+        file: site/content/sortiment.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Inhalt, name: body, widget: markdown }
+      - name: termine
+        label: Termine
+        file: site/content/termine.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Inhalt, name: body, widget: markdown }
+      - name: trauerbinderei
+        label: Trauerbinderei
+        file: site/content/trauerbinderei.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Inhalt, name: body, widget: markdown }
+      - name: kraeuter
+        label: Kräuter
+        file: site/content/kraeuter/_index.md
+        fields:
+          - { label: Titel, name: title, widget: string }
+          - { label: Inhalt, name: body, widget: markdown }
 
   - name: kraeuter
     label: Kräuter
