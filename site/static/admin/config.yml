@@ -16,6 +16,8 @@ collections:
 
   - name: kraeuter
     label: Kräuter
+    editor:
+        preview: false
     files:
     - name: preisklassen
       label: Kräuter Preisklassen

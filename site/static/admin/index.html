@@ -31,26 +31,6 @@
     })
 
     CMS.registerPreviewTemplate("page", PagePreview)
-
-
-    const KraeuterPreview = createClass({
-      render() {
-        const name2 = this.props.entry.getIn(['data', 'name2'])
-        return (
-          h('div', {},
-            h('div', { id: 'head' }),
-            h('main', { id: 'content' },
-              h('h1', {}, this.props.entry.getIn(['data', 'name'])),
-              name2 ? h('em', {}, `auch: ${name2}`) : null,
-              h('div', {}, this.props.widgetFor('body'))
-            ),
-            h('div', { id: 'footer' })
-          )
-        )
-      }
-    })
-
-    CMS.registerPreviewTemplate("kraeuter", KraeuterPreview)
   </script>
 </body>
 
