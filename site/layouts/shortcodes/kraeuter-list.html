@@ -19,7 +19,7 @@
       </td>
       <td>
         {{ if and (isset . "preis") (ne .preis "") }}
-        € {{ index $.Site.Data.preisklassen.preisklassen .preis }}
+        € {{ lang.NumFmt 2 (index $.Site.Data.preisklassen.preisklassen .preis) "-|,| " "|" }}
         {{ end }}
       </td>
     </tr>
