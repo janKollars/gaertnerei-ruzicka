@@ -1,0 +1,18 @@
+$direction-map: (
+  't': 'top',
+  'r': 'right',
+  'b': 'bottom',
+  'l': 'left'
+);
+
+@each $short, $full in $direction-map {
+  @for $i from 1 through 2 {
+    .p#{$short}-#{$i} {
+      padding-#{$full}: $i * $spacer;
+    }
+
+    .p#{$short}-n#{$i} {
+      padding-#{$full}: -$i * $spacer;
+    }
+  }
+}

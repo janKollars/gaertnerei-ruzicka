@@ -2,19 +2,18 @@
 <html lang="de">
 {{ partial "head" . }}
 <body>
-  <div id="bg">
-    <div id="MainAlign" class="clearfix">
-      {{ partial "header" . }}
-      {{ partial "nav" . }}
-      <div id="head"></div>
-      <main id="content">
-        {{ block "main" . }}
-        {{ end }}
-      </main>
-      <div id="footer"></div>
-      {{ partial "footer" . }}
-    </div>
+  <header class="header">
+    <img src="/img/title.png" class="header__image" width="618" height="164" alt=""/>
+    <h1 class="sr-only">Gärtnerei Martin Ruzicka</h1>
+  </header>
+  <div class="row justify-evenly pt-2">
+    {{ partial "nav" . }}
+    <main class="content-area">
+      {{ block "main" . }}
+      {{ end }}
+    </main>
   </div>
+  {{ partial "footer" . }}
   <style>
     @import url('https://fonts.googleapis.com/css?family=Merriweather');
   </style>

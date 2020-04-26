@@ -1,0 +1,19 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@mixin cols($breakpoint) {
+  @for $i from 1 through 12 {
+    .col-#{$breakpoint}#{$i} {
+      width: #{$i / .12}#{'%'};
+    }
+  }
+}
+
+[class^='col-'], [class*=' col-'] {
+  width: 100%;
+}
+
+@include cols('');
+

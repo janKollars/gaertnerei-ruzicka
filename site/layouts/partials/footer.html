@@ -1,4 +1,4 @@
-<footer id="impressum">
+<footer class="footer row justify-center">
   <a class="nav-link nav-haft" href="/haftung/">
     <img src="/img/haftungsausschluss.png" alt="Haftungsausschluss">
     <img src="/img/highlight/haftungsausschluss.png" alt="Haftungsausschluss">
@@ -19,7 +19,7 @@
   function preloadImage (url) {
     (new Image()).src = url
   }
-  
+
   const navImages = [
     'startseite',
     'friedhofsgaertnerei',
@@ -35,7 +35,7 @@
     'impressum',
     'agb'
   ]
-  
+
   window.onload = function () {
     navImages.forEach(img => {
       preloadImage(`/img/highlight/${img}.png`)

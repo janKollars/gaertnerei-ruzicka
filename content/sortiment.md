@@ -6,7 +6,7 @@ title: Unser Sortiment
   {{< kraeuter-list >}}
 </section>
 
-<section class="categories">
+<!-- <section class="categories">
   <h2>Basilikum</h2>
   <figure>
     <a href="/gattung/basilikum/">
@@ -14,4 +14,4 @@ title: Unser Sortiment
     </a>
     <figcaption class="small light-text">Foto von <a href="https://www.flickr.com/photos/manoftaste-de/">Christian Schnettelker</a></figcaption>
   </figure>
-</section>
+</section> -->

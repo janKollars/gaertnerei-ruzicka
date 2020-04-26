@@ -3,21 +3,22 @@
     color: $brand-color-lighter;
   }
 
-  body {
-    margin-top: 0;
-    margin-right: 0;
-    margin-left: 0;
-    background-color: $background-color;
-    background-image: url('/img/background.jpg');
-    background-repeat: repeat-x;
-    background-size: 1024px;
-    width: 100vw;
-    max-width: 100%;
-    min-height: 100vh;
-    line-height: 1.6;
-    color: $font-color-dark;
-    font-family: 'Merriweather', serif;
-    font-size: 100%;
+body {
+  margin-top: 0;
+  margin-right: 0;
+  margin-left: 0;
+  background-color: $background-color;
+  background-image: url('/img/background.jpg');
+  background-repeat: repeat-x;
+  background-size: 1024px;
+  width: 100vw;
+  max-width: 100%;
+  min-height: 100vh;
+  line-height: 1.6;
+  color: $font-color-dark;
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+  overflow-x: hidden;
 }
 
 a {
@@ -65,13 +66,15 @@ font-size: .8em;
 }
 
 figure {
-display: inline-block;
-margin: 0;
-padding: 0;
+  margin: 0;
+  padding: 0;
+}
 
-  img {
-    line-height: 0;
-  }
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  line-height: 0;
 }
 
 figcaption {
@@ -79,13 +82,12 @@ font-size: .8em;
 }
 
 table {
-border-style: hidden;
-min-width: 65%;
-border-collapse: collapse;
+  border-style: hidden;
+  border-collapse: collapse;
 }
 
 tr:hover {
-background-color: #dcdcdc;
+  background-color: #dcdcdc;
 }
 
 td,
@@ -93,4 +95,202 @@ th {
 border: 1px solid #000;
 padding: 7.5px;
 vertical-align: top;
+}
+
+.sr-only:not(:focus):not(:active) {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-evenly {
+  justify-content: space-evenly;
+}
+
+.light-text {
+  color: $font-color-grey;
+}
+
+.float-l {
+  float: left;
+}
+
+.float-r {
+  float: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.header {
+  margin-left: -30px;
+  margin-right: -20px;
+  text-align: center;
+
+  &__image {
+    display: inline-block;
+  }
+}
+
+.global-nav {
+  width: 259px;
+  z-index: 1;
+
+  .nav-link {
+    display: block;
+    line-height: 0;
+  }
+}
+
+.content-area {
+  $bg-offset: 80px;
+
+  position: relative;
+  margin-top: 87px;
+  margin-bottom: 88px;
+  background-image: url('/img/body.png');
+  background-repeat: repeat-y;
+  margin-left: calc(-#{$bg-offset} + #{$spacer});
+  margin-right: calc(-#{$bg-offset} + #{$spacer});
+  padding-left: $bg-offset;
+  padding-right: $bg-offset;
+  max-width: 618px;
+
+  &::before, &::after {
+    display: block;
+    position: absolute;
+    left: 0;
+    content: '';
+    background-repeat: no-repeat;
+    width: 100%;
+  }
+
+  &::before {
+    top: 0;
+    height: 87px;
+    transform: translateY(-100%);
+    background-image: url('/img/top.png');
+  }
+
+  &::after {
+    bottom: 0;
+    height: 88px;
+    transform: translateY(100%);
+    background-image: url('/img/bottom.png');
+  }
+}
+
+.footer {
+  background-image: url('/img/grasbg.jpg');
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  margin: 0 auto;
+  max-width: 1024px;
+  min-height: 115px;
+}
+
+img.shadow, figure.shadow img { // line-height verursacht ansonsten einen Abstand zwischen Schatten und Bild
+  box-shadow: 0 10px 6px -6px #777;
+}
+
+.clearfix {
+  &::after {
+    display: table;
+    clear: both;
+    content: '';
+  }
+}
+
+.nav-link {
+  display: block;
+
+  &:hover > img {
+    display: none;
+
+    &:last-child {
+      display: block;
+    }
+  }
+
+  > img:last-child {
+    display: none;
+  }
+}
+
+.produkt-liste {
+  padding-left: 0;
+  list-style: none;
+
+  & > li {
+    margin-bottom: 2em;
+  }
+
+  h2 {
+    margin-bottom: 0;
+    color: $brand-color;
+  }
+
+  p {
+    margin-top: 0;
+  }
+}
+
+label {
+  margin-right: .5em;
+}
+
+.angebote__list {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  padding-left: 0;
+  list-style: none;
+}
+
+.angebote__item {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  min-width: 200px;
+  &:not(:last-child) {
+    border-bottom: 1px solid #555;
+  }
+}
+
+hr {
+  border: none;
+  background-color: #000;
+  height: 2px;
+}
+
+.post__info {
+  column-count: 2;
+  margin-bottom: 2rem;
+  color: $font-color-grey;
+
+  a {
+    text-decoration: underline;
+    color: $font-color-grey;
+  }
+}
+
+.kraeuter-table {
+  width: 100%;
+  table-layout: fixed;
+
+  td {
+    padding: .5em 0;
+    vertical-align: bottom;
+
+    &:last-child {
+      text-align: right;
+    }
+  }
 }
