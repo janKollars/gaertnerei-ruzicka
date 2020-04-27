@@ -2,7 +2,6 @@
 title: Termine
 ---
 
-
 Momentan sind keine Termine geplant.
 
 Im Frühling starten wir wieder mit Kräuterwanderungen, Tag der offenen Tür, Pflanzenmarkt etc.

@@ -4,14 +4,12 @@
   }
 
 body {
-  margin-top: 0;
-  margin-right: 0;
-  margin-left: 0;
+  display: flex;
+  flex-direction: column;
   background-color: $background-color;
   background-image: url('/img/background.jpg');
   background-repeat: repeat-x;
   background-size: 1024px;
-  width: 100vw;
   max-width: 100%;
   min-height: 100vh;
   line-height: 1.6;
@@ -139,10 +137,12 @@ vertical-align: top;
 
 .main-wrapper {
   margin-right: -50px;
+  flex-grow: 1;
 }
 
 .global-nav {
   margin-right: 50px;
+  padding-bottom: $spacer * 4;
   width: 259px;
   z-index: 1;
 
@@ -157,7 +157,7 @@ vertical-align: top;
 
   position: relative;
   margin-top: 87px;
-  margin-bottom: 88px;
+  margin-bottom: calc(88px + #{$spacer * 4});
   background-image: url('/img/body.png');
   background-repeat: repeat-y;
   margin-left: calc(-#{$bg-offset} + #{$spacer});
@@ -194,8 +194,6 @@ vertical-align: top;
   background-image: url('/img/grasbg.jpg');
   background-repeat: no-repeat;
   background-position: center bottom;
-  margin: 0 auto;
-  max-width: 1024px;
   min-height: 115px;
 }
 
