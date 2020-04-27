@@ -18,13 +18,11 @@
     const PagePreview = createClass({
       render() {
         return (
-          h('div', {},
-            h('div', { id: 'head' }),
-            h('main', { id: 'content' },
+          h('div', { className: 'main-wrapper row justify-center' },
+            h('main', { className: 'content-area' },
               h('h1', {}, this.props.entry.getIn(['data', 'title'])),
               h('div', {}, this.props.widgetFor('body'))
-            ),
-            h('div', { id: 'footer' })
+            )
           )
         )
       }

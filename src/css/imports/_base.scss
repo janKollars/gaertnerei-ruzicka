@@ -111,10 +111,6 @@ vertical-align: top;
   justify-content: center;
 }
 
-.justify-evenly {
-  justify-content: space-evenly;
-}
-
 .light-text {
   color: $font-color-grey;
 }
@@ -141,7 +137,12 @@ vertical-align: top;
   }
 }
 
+.main-wrapper {
+  margin-right: -50px;
+}
+
 .global-nav {
+  margin-right: 50px;
   width: 259px;
   z-index: 1;
 
@@ -160,7 +161,7 @@ vertical-align: top;
   background-image: url('/img/body.png');
   background-repeat: repeat-y;
   margin-left: calc(-#{$bg-offset} + #{$spacer});
-  margin-right: calc(-#{$bg-offset} + #{$spacer});
+  margin-right: calc(-#{$bg-offset - 50px} + #{$spacer});
   padding-left: $bg-offset;
   padding-right: $bg-offset;
   max-width: 618px;

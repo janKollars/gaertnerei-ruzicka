@@ -11,8 +11,12 @@ $direction-map: (
       padding-#{$full}: $i * $spacer;
     }
 
-    .p#{$short}-n#{$i} {
-      padding-#{$full}: -$i * $spacer;
+    .m#{$short}-#{$i} {
+      margin-#{$full}: $i * $spacer;
+    }
+
+    .m#{$short}-n#{$i} {
+      margin-#{$full}: -$i * $spacer;
     }
   }
 }
