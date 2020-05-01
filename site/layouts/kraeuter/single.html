@@ -1,8 +1,14 @@
 {{ define "main" }}
 
 <h1>{{ .Params.name }}</h1>
-
-{{ $alternativeNames := union .Params.extraNamen .Params.synonyme }}
+{{ $alternativeNames := slice }}
+{{ if and (isset .Params "extraNamen") (isset .Params "synonyme") }}
+  {{ $alternativeNames := union .Params.extraNamen .Params.synonyme }}
+{{ else if isset .Params "extraNamen" }}
+  {{ $alternativeNames := .Params.extraNamen }}
+{{ else if isset .Params "synonyme" }}
+  {{ $alternativeNames := .Params.synonyme }}
+{{ end }}
 {{ if gt (len $alternativeNames) 0 }}
 <em>auch:</em>
   {{ range $i, $name := $alternativeNames }}

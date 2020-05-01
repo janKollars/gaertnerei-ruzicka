@@ -1,4966 +1,4966 @@
 kraeuter:
-  - name: Baldrian
+  - winterhart: true
     ordnung: Kardenartige
-    ordnung-lt: Dipsacales
-    familie: Baldriangewächse
-    familie-lt: Valerianaceae
-    gattung: Valeriana
-    art: officinalis
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: A
-    karlsgarten: false
     jahr: e
+    art: officinalis
+    familie-lt: Valerianaceae
+    sorte: ""
+    karlsgarten: false
+    name: Baldrian
+    preis: A
+    familie: Baldriangewächse
     extraNamen:
       - Echter Arznei Baldrian
-  - name: Beifuß
+    gattung: Valeriana
+    ordnung-lt: Dipsacales
+    staude: true
+  - winterhart: true
     ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Artemisia
-    art: vulgaris
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: A
-    karlsgarten: false
     jahr: e
+    art: vulgaris
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: Beifuß
+    preis: A
+    familie: Korbblütler
     extraNamen:
       - Gewöhnlicher Beifuß
-  - name: Beinwell
+    gattung: Artemisia
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: true
     ordnung: Nachtschattenartige
-    ordnung-lt: Solanales
-    familie: Rauhblattgewächse
-    familie-lt: Boraginaceae
-    gattung: Symphytum
-    art: officinalis
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: B
-    karlsgarten: false
     jahr: e
+    art: officinalis
+    familie-lt: Boraginaceae
+    sorte: ""
+    karlsgarten: false
     synonyme:
       - Comfrey
-  - name: Zitronenbohnenkraut
+    name: Beinwell
+    preis: B
+    familie: Rauhblattgewächse
+    gattung: Symphytum
+    ordnung-lt: Solanales
+    staude: true
+  - winterhart: true
     ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Satureja
-    art: montana
-    sorte: ""
+    jahr: e
     Varietät: citriodora
-    winterhart: true
-    staude: false
-    preis: B
+    art: montana
+    familie-lt: Lamiaceae
+    sorte: ""
     karlsgarten: false
-    jahr: e
-  - name: Eberraute
+    name: Zitronenbohnenkraut
+    preis: B
+    familie: Lippenblütler
+    gattung: Satureja
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
     ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Artemisia
+    jahr: e
     art: abrotanum
+    familie-lt: Asteraceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: true
-    jahr: e
-  - name: Eibisch
+    name: Eberraute
+    preis: B
+    familie: Korbblütler
+    gattung: Artemisia
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: true
     ordnung: Malvenartige
-    ordnung-lt: Malvales
-    familie: Malvengewächse
-    familie-lt: Malvaceae
-    gattung: Althea
+    jahr: e
     art: officinalis
+    familie-lt: Malvaceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: true
-    jahr: e
-  - name: französischer Estragon
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Artemisia
-    art: dracunculus
-    sorte: ""
-    winterhart: true
-    staude: false
+    name: Eibisch
     preis: B
+    familie: Malvengewächse
+    gattung: Althea
+    ordnung-lt: Malvales
+    staude: false
+  - winterhart: true
+    ordnung: Asternartige
+    jahr: e
+    art: dracunculus
+    familie-lt: Asteraceae
+    sorte: ""
     karlsgarten: false
-    jahr: e
-  - name: russischer Estragon
-    ordnung: Asternartige
-    ordnung-lt: Asterales
+    name: französischer Estragon
+    preis: B
     familie: Korbblütler
-    familie-lt: Asteraceae
     gattung: Artemisia
-    art: dracunculus
-    sorte: ""
-    winterhart: true
+    ordnung-lt: Asterales
     staude: false
-    preis: A
-    karlsgarten: true
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
-  - name: Kren
+    art: dracunculus
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: true
+    name: russischer Estragon
+    preis: A
+    familie: Korbblütler
+    gattung: Artemisia
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: true
     ordnung: Kapernartige
-    ordnung-lt: Capparales
-    familie: Kreuzblütengewächse
-    familie-lt: Brassicaceae
-    gattung: Armoracia
-    art: rusticana
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: A
-    karlsgarten: false
     jahr: e
+    art: rusticana
+    familie-lt: Brassicaceae
+    sorte: ""
+    karlsgarten: false
+    name: Kren
+    preis: A
+    familie: Kreuzblütengewächse
     extraNamen:
       - Meerrettich
-  - name: Lavendel
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Lavandula
-    art: angustifolia
-    sorte: ""
-    winterhart: true
+    gattung: Armoracia
+    ordnung-lt: Capparales
     staude: false
-    preis: B
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: e
-  - name: Liebstock
-    Name3: Maggikraut
-    ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Levisticum
-    art: officinale
+    art: angustifolia
+    familie-lt: Lamiaceae
     sorte: ""
-    winterhart: true
-    staude: true
-    preis: A
-    karlsgarten: true
+    karlsgarten: false
+    name: Lavendel
+    preis: B
+    familie: Lippenblütler
+    gattung: Lavandula
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Doldenblütlerartige
     jahr: e
+    art: officinale
+    familie-lt: Apiaceae
+    sorte: ""
+    karlsgarten: true
+    Name3: Maggikraut
+    name: Liebstock
+    preis: A
+    familie: Doldengewächse
     extraNamen:
       - Liebstöckel
-  - name: Oregano
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Origanum
-    art: vulgare
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: A
-    karlsgarten: false
-    jahr: e
-  - name: griechischer Oregano
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Origanum
-    art: vulgare
-    sorte: ""
-    Varietät: viridulum
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: syrischer Oregano
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Origanum
-    art: syriacum
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Pimpinelle
-    ordnung: Rosenartige
-    ordnung-lt: Rosales
-    familie: Rosengewächse
-    familie-lt: Rosaceae
-    gattung: Sanguisorba
-    art: minor
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: A
-    karlsgarten: false
-    jahr: e
-  - name: Rhabarber
-    ordnung: Knöterichartige
-    ordnung-lt: Polygonales
-    familie: Knöterichgewächse
-    familie-lt: Polygonaceae
-    gattung: Rheum
-    art: rhabarbarum
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Rosmarin
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Salvia
-    art: rosmarinus
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: true
-    jahr: e
-  - name: Salbei Standard
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Salvia
-    art: officinalis
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: A
-    karlsgarten: true
-    jahr: e
-  - name: Salbei breitblättrig
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Salvia
-    art: officinalis
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Salbei gelblaubig
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Salvia
-    art: officinalis
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Salbei rotlaubig
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Salvia
-    art: officinalis
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Salbei dreifärbig
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Salvia
-    art: officinalis
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Ananassalbei
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Salvia
-    art: rutilans
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: "3"
-  - name: Sauerampfer
-    ordnung: Knöterichartige
-    ordnung-lt: Polygonales
-    familie: Knöterichgewächse
-    familie-lt: Polygonaceae
-    gattung: Rumex
-    art: acetosa
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: A
-    karlsgarten: false
-    jahr: e
-  - name: Schnittlauch
-    ordnung: Spargelartige
-    ordnung-lt: Asparagales
-    familie: Lauchgewächse
-    familie-lt: Alliaceae
-    gattung: Allium
-    art: schoenoprasum
-    sorte: ""
-    winterhart: true
+    gattung: Levisticum
+    ordnung-lt: Apiales
     staude: true
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: vulgare
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Oregano
     preis: A
+    familie: Lippenblütler
+    gattung: Origanum
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
+    Varietät: viridulum
+    art: vulgare
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: griechischer Oregano
+    preis: B
+    familie: Lippenblütler
+    gattung: Origanum
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: syriacum
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: syrischer Oregano
+    preis: B
+    familie: Lippenblütler
+    gattung: Origanum
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Rosenartige
+    jahr: e
+    art: minor
+    familie-lt: Rosaceae
+    sorte: ""
+    karlsgarten: false
+    name: Pimpinelle
+    preis: A
+    familie: Rosengewächse
+    gattung: Sanguisorba
+    ordnung-lt: Rosales
+    staude: false
+  - winterhart: true
+    ordnung: Knöterichartige
+    jahr: e
+    art: rhabarbarum
+    familie-lt: Polygonaceae
+    sorte: ""
+    karlsgarten: false
+    name: Rhabarber
+    preis: B
+    familie: Knöterichgewächse
+    gattung: Rheum
+    ordnung-lt: Polygonales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: rosmarinus
+    familie-lt: Lamiaceae
+    sorte: ""
     karlsgarten: true
-    jahr: e
-  - name: Thymian
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
+    name: Rosmarin
+    preis: B
     familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Thymus
-    art: vulgaris
-    sorte: ""
-    winterhart: true
+    gattung: Salvia
+    ordnung-lt: Lamiales
     staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: officinalis
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: true
+    name: Salbei Standard
     preis: A
-    karlsgarten: false
-    jahr: e
-  - name: Orangenthymian
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
     familie: Lippenblütler
+    gattung: Salvia
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: officinalis
     familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Salbei breitblättrig
+    preis: B
+    familie: Lippenblütler
+    gattung: Salvia
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: officinalis
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Salbei gelblaubig
+    preis: B
+    familie: Lippenblütler
+    gattung: Salvia
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: officinalis
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Salbei rotlaubig
+    preis: B
+    familie: Lippenblütler
+    gattung: Salvia
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: officinalis
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Salbei dreifärbig
+    preis: B
+    familie: Lippenblütler
+    gattung: Salvia
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: "3"
+    art: rutilans
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Ananassalbei
+    preis: B
+    familie: Lippenblütler
+    gattung: Salvia
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Knöterichartige
+    jahr: e
+    art: acetosa
+    familie-lt: Polygonaceae
+    sorte: ""
+    karlsgarten: false
+    name: Sauerampfer
+    preis: A
+    familie: Knöterichgewächse
+    gattung: Rumex
+    ordnung-lt: Polygonales
+    staude: false
+  - winterhart: true
+    ordnung: Spargelartige
+    jahr: e
+    art: schoenoprasum
+    familie-lt: Alliaceae
+    sorte: ""
+    karlsgarten: true
+    name: Schnittlauch
+    preis: A
+    familie: Lauchgewächse
+    gattung: Allium
+    ordnung-lt: Asparagales
+    staude: true
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: vulgaris
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Thymian
+    preis: A
+    familie: Lippenblütler
     gattung: Thymus
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
     art: fragrantissimus
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Zitronenthymian
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
     familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Orangenthymian
+    preis: B
+    familie: Lippenblütler
     gattung: Thymus
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
     art: x citriodorus
+    familie-lt: Lamiaceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: false
-    jahr: e
-  - name: Tripmadam
+    name: Zitronenthymian
+    preis: B
+    familie: Lippenblütler
+    gattung: Thymus
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
     ordnung: Steinbrechartige
-    ordnung-lt: Saxifragales
-    familie: Dickblattgewächse
-    familie-lt: Crassulaceae
-    gattung: Sedum
-    art: rupestre
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
     jahr: e
+    art: rupestre
+    familie-lt: Crassulaceae
+    sorte: ""
+    karlsgarten: false
+    name: Tripmadam
+    preis: B
+    familie: Dickblattgewächse
     extraNamen:
       - Felsen-Fetthenne
-  - name: Waldmeister
+    gattung: Sedum
+    ordnung-lt: Saxifragales
+    staude: false
+  - winterhart: true
     ordnung: Röteartige
-    ordnung-lt: Rubiales
-    familie: Rötegewächse
-    familie-lt: Rubiaceae
-    gattung: Galium
+    jahr: e
     art: odoratum
+    familie-lt: Rubiaceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: C
     karlsgarten: false
-    jahr: e
-  - name: Weinraute
+    name: Waldmeister
+    preis: C
+    familie: Rötegewächse
+    gattung: Galium
+    ordnung-lt: Rubiales
+    staude: false
+  - winterhart: true
     ordnung: Seifenbaumartige
-    ordnung-lt: Sapindales
-    familie: Rautengewächse
-    familie-lt: Rutaceae
-    gattung: Ruta
+    jahr: e
     art: graveolens
+    familie-lt: Rutaceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: true
-    jahr: e
-  - name: Wermut
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Artemisia
-    art: absinthium
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: A
-    karlsgarten: false
-    jahr: e
-  - name: Wintermajoran
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Origanum
-    art: maru
-    sorte: ""
-    winterhart: true
-    staude: false
+    name: Weinraute
     preis: B
-    karlsgarten: false
+    familie: Rautengewächse
+    gattung: Ruta
+    ordnung-lt: Sapindales
+    staude: false
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
-  - name: Ysop
+    art: absinthium
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: Wermut
+    preis: A
+    familie: Korbblütler
+    gattung: Artemisia
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: true
     ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
+    jahr: e
+    art: maru
     familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Wintermajoran
+    preis: B
+    familie: Lippenblütler
+    gattung: Origanum
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: officinalis
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Ysop
+    preis: A
+    familie: Lippenblütler
     gattung: Hyssopus
-    art: officinalis
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: A
-    karlsgarten: false
-    jahr: e
-  - name: Zitronenmelisse
-    ordnung: Lippenblütlerartige
     ordnung-lt: Lamiales
-    familie: Lippenblütler
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: officinalis
     familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Zitronenmelisse
+    preis: A
+    familie: Lippenblütler
     gattung: Melissa
-    art: officinalis
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: A
-    karlsgarten: false
-    jahr: e
-  - name: Goldmelisse
-    Name3: Scharlach-Indianernessel
-    ordnung: Lippenblütlerartige
     ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Monarda
-    art: didyma
-    sorte: ""
-    winterhart: true
     staude: false
-    preis: C
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: e
+    art: didyma
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Scharlach-Indianernessel
+    name: Goldmelisse
+    preis: C
+    familie: Lippenblütler
     extraNamen:
       - Indianernessel
-  - name: Katzenmelisse
-    ordnung: Lippenblütlerartige
+    gattung: Monarda
     ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Nepeta
-    art: x faassenii
-    sorte: ""
-    winterhart: true
     staude: false
-    preis: A
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: e
-  - name: Zitronenverbene
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Eisenkrautgewächse
-    familie-lt: Verbenaceae
-    gattung: Aloysia
-    art: citriodora
+    art: x faassenii
+    familie-lt: Lamiaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
     karlsgarten: false
+    name: Katzenmelisse
+    preis: A
+    familie: Lippenblütler
+    gattung: Nepeta
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
     jahr: "3"
+    art: citriodora
+    familie-lt: Verbenaceae
+    sorte: ""
+    karlsgarten: false
+    name: Zitronenverbene
+    preis: B
+    familie: Eisenkrautgewächse
     extraNamen:
       - Zitronenstrauch
-  - name: Ananasminze
-    ordnung: Lippenblütlerartige
+    gattung: Aloysia
     ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Mentha
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
     art: x rotundifolia
+    familie-lt: Lamiaceae
     sorte: "'Bowles'"
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: false
-    jahr: ""
-  - name: Apfelminze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
+    name: Ananasminze
+    preis: B
     familie: Lippenblütler
-    familie-lt: Lamiaceae
     gattung: Mentha
-    art: suaveolens
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: ""
-  - name: Katzenminze
-    ordnung: Lippenblütlerartige
     ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Nepeta
-    art: x faassenii
-    sorte: ""
-    winterhart: true
     staude: false
-    preis: A
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: ""
+    art: suaveolens
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Apfelminze
+    preis: B
+    familie: Lippenblütler
+    gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
+    art: x faassenii
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Katzenminze
+    preis: A
+    familie: Lippenblütler
     extraNamen:
       - Katzenmelisse
-  - name: Kölnische Minze
-    ordnung: Lippenblütlerartige
+    gattung: Nepeta
     ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Mentha
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
     art: x piperita
-    sorte: "'Eau de Cologne'"
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: ""
-  - name: Krauseminze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
     familie-lt: Lamiaceae
-    gattung: Mentha
-    art: spicata
-    sorte: "'Crispa'"
-    winterhart: true
-    staude: false
+    sorte: "'Eau de Cologne'"
+    karlsgarten: false
+    name: Kölnische Minze
     preis: B
-    karlsgarten: true
+    familie: Lippenblütler
+    gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: ""
+    art: spicata
+    familie-lt: Lamiaceae
+    sorte: "'Crispa'"
+    karlsgarten: true
+    name: Krauseminze
+    preis: B
+    familie: Lippenblütler
     extraNamen:
       - Ährenminze
-  - name: Nudelminze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
     gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
     art: austriaca
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: ""
-  - name: Orangenminze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
     familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Nudelminze
+    preis: B
+    familie: Lippenblütler
     gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
     art: x piperita
+    familie-lt: Lamiaceae
     sorte: "'Citrata'"
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: false
-    jahr: ""
-  - name: orig. engl. Minze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
+    name: Orangenminze
+    preis: B
     familie: Lippenblütler
-    familie-lt: Lamiaceae
     gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
     art: x piperita
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: ""
-  - name: Poleiminze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
     familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: orig. engl. Minze
+    preis: B
+    familie: Lippenblütler
     gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
     art: pulegium
+    familie-lt: Lamiaceae
     sorte: ""
-    winterhart: true
-    staude: false
+    karlsgarten: true
+    name: Poleiminze
     preis: B
-    karlsgarten: true
-    jahr: ""
-  - name: Spearmint
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
     familie: Lippenblütler
-    familie-lt: Lamiaceae
     gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
     art: spicata
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: A
-    karlsgarten: false
-    jahr: ""
-  - name: Wasserminze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
     familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Spearmint
+    preis: A
+    familie: Lippenblütler
     gattung: Mentha
-    art: aquatica
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: A
-    karlsgarten: true
-    jahr: ""
-  - name: Aztekensalbei
-    Name3: Göttersalbei
-    ordnung: Lippenblütlerartige
     ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Salvia
-    art: divinorum
-    sorte: ""
-    winterhart: false
     staude: false
-    preis: E
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
+    art: aquatica
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: true
+    name: Wasserminze
+    preis: A
+    familie: Lippenblütler
+    gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
     jahr: "3"
-    extraNamen:
-      - Wahrsagersalbei
+    art: divinorum
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Göttersalbei
     synonyme:
       - Zaubersalbei
-  - name: Anis
+    name: Aztekensalbei
+    preis: E
+    familie: Lippenblütler
+    extraNamen:
+      - Wahrsagersalbei
+    gattung: Salvia
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
     ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Pimpinella
+    jahr: e
     art: anisum
+    familie-lt: Apiaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: A
     karlsgarten: true
-    jahr: e
-  - name: Basilikum
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Ocimum
-    art: basilicum
-    sorte: ""
-    winterhart: false
-    staude: false
+    name: Anis
     preis: A
-    karlsgarten: false
-    jahr: e
-  - name: kleinblättriges Basilikum
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Ocimum
-    art: basilicum
-    sorte: ""
-    winterhart: false
+    familie: Doldengewächse
+    gattung: Pimpinella
+    ordnung-lt: Apiales
     staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: basilicum
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Basilikum
     preis: A
-    karlsgarten: false
-    jahr: e
-  - name: rotlaubiges Basilikum
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
     familie: Lippenblütler
-    familie-lt: Lamiaceae
     gattung: Ocimum
-    art: basilicum
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Zimtbasilikum
-    ordnung: Lippenblütlerartige
     ordnung-lt: Lamiales
-    familie: Lippenblütler
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: basilicum
     familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: kleinblättriges Basilikum
+    preis: A
+    familie: Lippenblütler
     gattung: Ocimum
-    art: basilicum
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Bohnenkraut
-    ordnung: Lippenblütlerartige
     ordnung-lt: Lamiales
-    familie: Lippenblütler
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: basilicum
     familie-lt: Lamiaceae
-    gattung: Satureja
+    sorte: ""
+    karlsgarten: false
+    name: rotlaubiges Basilikum
+    preis: B
+    familie: Lippenblütler
+    gattung: Ocimum
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: basilicum
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Zimtbasilikum
+    preis: B
+    familie: Lippenblütler
+    gattung: Ocimum
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: e
     art: hortensis
+    familie-lt: Lamiaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: A
     karlsgarten: true
-    jahr: e
+    name: Bohnenkraut
+    preis: A
+    familie: Lippenblütler
     extraNamen:
       - Sommerbohnenkraut
-  - name: Borretsch
-    ordnung: Nachtschattenartige
-    ordnung-lt: Solanales
-    familie: Rauhblattgewächse
-    familie-lt: Boraginaceae
-    gattung: Borago
-    art: officinalis
-    sorte: ""
-    winterhart: false
+    gattung: Satureja
+    ordnung-lt: Lamiales
     staude: false
-    preis: A
-    karlsgarten: false
+  - winterhart: false
+    ordnung: Nachtschattenartige
     jahr: e
+    art: officinalis
+    familie-lt: Boraginaceae
+    sorte: ""
+    karlsgarten: false
+    name: Borretsch
+    preis: A
+    familie: Rauhblattgewächse
     extraNamen:
       - Gurkenkraut
-  - name: Dille
+    gattung: Borago
+    ordnung-lt: Solanales
+    staude: false
+  - winterhart: false
     ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Anethum
+    jahr: e
     art: graveolens
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: true
-    jahr: e
-  - name: Fenchel
-    ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
     familie-lt: Apiaceae
-    gattung: Foeniculum
+    sorte: ""
+    karlsgarten: true
+    name: Dille
+    preis: B
+    familie: Doldengewächse
+    gattung: Anethum
+    ordnung-lt: Apiales
+    staude: false
+  - winterhart: false
+    ordnung: Doldenblütlerartige
+    jahr: z
     art: vulgare
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: true
-    jahr: z
-  - name: Kerbel
-    ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
     familie-lt: Apiaceae
-    gattung: Anthriscus
+    sorte: ""
+    karlsgarten: true
+    name: Fenchel
+    preis: B
+    familie: Doldengewächse
+    gattung: Foeniculum
+    ordnung-lt: Apiales
+    staude: false
+  - winterhart: false
+    ordnung: Doldenblütlerartige
+    jahr: e
     art: cerefolium
+    familie-lt: Apiaceae
     sorte: ""
-    winterhart: false
-    staude: false
+    karlsgarten: true
+    name: Kerbel
     preis: A
-    karlsgarten: true
-    jahr: e
-  - name: Koriander
-    ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
     familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Coriandrum
+    gattung: Anthriscus
+    ordnung-lt: Apiales
+    staude: false
+  - winterhart: false
+    ordnung: Doldenblütlerartige
+    jahr: e
     art: sativum
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: true
-    jahr: e
-  - name: Kümmel
-    ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
     familie-lt: Apiaceae
-    gattung: Carum
-    art: carvi
     sorte: ""
-    winterhart: false
-    staude: false
+    karlsgarten: true
+    name: Koriander
     preis: B
-    karlsgarten: true
-    jahr: z
-  - name: Lorbeer
-    ordnung: Lorbeerartige
-    ordnung-lt: Laurales
-    familie: Lorbeergewächse
-    familie-lt: Lauraceae
-    gattung: Laurus
-    art: nobilis
-    sorte: ""
-    winterhart: false
+    familie: Doldengewächse
+    gattung: Coriandrum
+    ordnung-lt: Apiales
     staude: false
-    preis: D
+  - winterhart: false
+    ordnung: Doldenblütlerartige
+    jahr: z
+    art: carvi
+    familie-lt: Apiaceae
+    sorte: ""
     karlsgarten: true
+    name: Kümmel
+    preis: B
+    familie: Doldengewächse
+    gattung: Carum
+    ordnung-lt: Apiales
+    staude: false
+  - winterhart: false
+    ordnung: Lorbeerartige
     jahr: "3"
+    art: nobilis
+    familie-lt: Lauraceae
+    sorte: ""
+    karlsgarten: true
+    name: Lorbeer
+    preis: D
+    familie: Lorbeergewächse
     extraNamen:
       - Lorbeerbaum
-  - name: Majoran
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Origanum
-    art: majorana
-    sorte: ""
-    winterhart: false
+    gattung: Laurus
+    ordnung-lt: Laurales
     staude: false
-    preis: A
-    karlsgarten: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
     jahr: e
-  - name: Muskatellersalbei
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
+    art: majorana
     familie-lt: Lamiaceae
-    gattung: Salvia
+    sorte: ""
+    karlsgarten: false
+    name: Majoran
+    preis: A
+    familie: Lippenblütler
+    gattung: Origanum
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: z
     art: sclarea
+    familie-lt: Lamiaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
     karlsgarten: true
-    jahr: z
-  - name: Petersilie glatt
+    name: Muskatellersalbei
+    preis: B
+    familie: Lippenblütler
+    gattung: Salvia
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
     ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Petroselinum
-    art: crispum
-    sorte: ""
+    jahr: z
     Varietät: neapolitanum
-    winterhart: false
-    staude: false
-    preis: A
-    karlsgarten: true
-    jahr: z
-  - name: Petersilie kraus
-    ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Petroselinum
     art: crispum
+    familie-lt: Apiaceae
     sorte: ""
-    Varietät: crispum
-    winterhart: false
-    staude: false
+    karlsgarten: true
+    name: Petersilie glatt
     preis: A
-    karlsgarten: false
-    jahr: z
-  - name: Süßkraut
-    Name3: Zuckerblatt
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Stevia
-    art: rebaudiana
-    sorte: ""
-    winterhart: false
+    familie: Doldengewächse
+    gattung: Petroselinum
+    ordnung-lt: Apiales
     staude: false
-    preis: B
+  - winterhart: false
+    ordnung: Doldenblütlerartige
+    jahr: z
+    Varietät: crispum
+    art: crispum
+    familie-lt: Apiaceae
+    sorte: ""
     karlsgarten: false
+    name: Petersilie kraus
+    preis: A
+    familie: Doldengewächse
+    gattung: Petroselinum
+    ordnung-lt: Apiales
+    staude: false
+  - winterhart: false
+    ordnung: Asternartige
     jahr: "3"
-    extraNamen:
-      - Paraguaystevie
+    art: rebaudiana
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Zuckerblatt
     synonyme:
       - Honigblatt
-  - name: Zimmerlavendel
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Lavandula
-    art: heterophylla
-    sorte: ""
-    winterhart: false
-    staude: false
+    name: Süßkraut
     preis: B
-    karlsgarten: false
-    jahr: "3"
-  - name: Zitronengras
-    ordnung: Süßgrasartige
-    ordnung-lt: Poales
-    familie: Süßgräser
-    familie-lt: Poaceae
-    gattung: Cymbopogon
-    art: citrarus
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: D
-    karlsgarten: false
-    jahr: "3"
-  - name: Alant
-    Name3: Helenenkraut
-    ordnung: Asternartige
-    ordnung-lt: Asterales
     familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Inula
-    art: helenium
+    extraNamen:
+      - Paraguaystevie
+    gattung: Stevia
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: "3"
+    art: heterophylla
+    familie-lt: Lamiaceae
     sorte: ""
-    winterhart: true
-    staude: true
-    preis: C
     karlsgarten: false
+    name: Zimmerlavendel
+    preis: B
+    familie: Lippenblütler
+    gattung: Lavandula
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Süßgrasartige
+    jahr: "3"
+    art: citrarus
+    familie-lt: Poaceae
+    sorte: ""
+    karlsgarten: false
+    name: Zitronengras
+    preis: D
+    familie: Süßgräser
+    gattung: Cymbopogon
+    ordnung-lt: Poales
+    staude: false
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
+    art: helenium
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Helenenkraut
+    name: Alant
+    preis: C
+    familie: Korbblütler
     extraNamen:
       - Echter Alant
-  - name: frühlingsblühende Alraune
+    gattung: Inula
+    ordnung-lt: Asterales
+    staude: true
+  - winterhart: true
     ordnung: Nachtschattenartige
-    ordnung-lt: Solanales
-    familie: Nachtschattengewächse
-    familie-lt: Solanaceae
-    gattung: Mandragora
+    jahr: e
     art: officinarum
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: E
-    karlsgarten: false
-    jahr: e
-    extraNamen:
-      - Alraunwurzel
-  - name: herbstblühende Alraune
-    ordnung: Nachtschattenartige
-    ordnung-lt: Solanales
-    familie: Nachtschattengewächse
     familie-lt: Solanaceae
-    gattung: Mandragora
-    art: autumnalis
     sorte: ""
-    winterhart: true
-    staude: true
-    preis: E
     karlsgarten: false
-    jahr: e
+    name: frühlingsblühende Alraune
+    preis: E
+    familie: Nachtschattengewächse
     extraNamen:
       - Alraunwurzel
-  - name: Ambrosia
-    ordnung: Nelkenartige
-    ordnung-lt: Caryophyllales
-    familie: Gänsefußgewächse
-    familie-lt: Chenopodiaceae
-    gattung: Chenopodium
-    art: botrys
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: A
-    karlsgarten: false
+    gattung: Mandragora
+    ordnung-lt: Solanales
+    staude: true
+  - winterhart: true
+    ordnung: Nachtschattenartige
     jahr: e
+    art: autumnalis
+    familie-lt: Solanaceae
+    sorte: ""
+    karlsgarten: false
+    name: herbstblühende Alraune
+    preis: E
+    familie: Nachtschattengewächse
+    extraNamen:
+      - Alraunwurzel
+    gattung: Mandragora
+    ordnung-lt: Solanales
+    staude: true
+  - winterhart: false
+    ordnung: Nelkenartige
+    jahr: e
+    art: botrys
+    familie-lt: Chenopodiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Ambrosia
+    preis: A
+    familie: Gänsefußgewächse
     extraNamen:
       - klebriger Gänsefuß
-  - name: Andorn
+    gattung: Chenopodium
+    ordnung-lt: Caryophyllales
+    staude: false
+  - winterhart: true
     ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Marrubium
+    jahr: e
     art: vulgare
+    familie-lt: Lamiaceae
     sorte: ""
-    winterhart: true
-    staude: true
-    preis: B
     karlsgarten: false
-    jahr: e
-  - name: Balsamkraut
-    Name3: Marienblatt
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Tanacetum
-    art: balsamita
-    sorte: ""
-    winterhart: true
-    staude: true
+    name: Andorn
     preis: B
-    karlsgarten: true
+    familie: Lippenblütler
+    gattung: Marrubium
+    ordnung-lt: Lamiales
+    staude: true
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
-    extraNamen:
-      - Frauensalbei
+    art: balsamita
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: true
+    Name3: Marienblatt
     synonyme:
       - Frauenminze
       - Echtes Balsamkraut
-  - name: Anisysop
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Agastache
-    art: foeniculum
-    sorte: ""
-    winterhart: true
-    staude: false
+    name: Balsamkraut
     preis: B
-    karlsgarten: false
+    familie: Korbblütler
+    extraNamen:
+      - Frauensalbei
+    gattung: Tanacetum
+    ordnung-lt: Asterales
+    staude: true
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: e
+    art: foeniculum
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Anisysop
+    preis: B
+    familie: Lippenblütler
     extraNamen:
       - Duftnessel
-  - name: Bergarnika
-    Name3: Berg Wohlverleih
+    gattung: Agastache
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
     ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Arnica
-    art: montana
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: C
-    karlsgarten: false
     jahr: e
+    art: montana
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Berg Wohlverleih
+    name: Bergarnika
+    preis: C
+    familie: Korbblütler
     extraNamen:
       - Echte Arnika
-  - name: Wiesenarnika
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
     gattung: Arnica
-    art: chamissonis
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Bärlauch
-    ordnung: Spargelartige
-    ordnung-lt: Asparagales
-    familie: Lauchgewächse
-    familie-lt: Alliaceae
-    gattung: Allium
-    art: ursinum
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: B
-    karlsgarten: true
-    jahr: e
-  - name: Strauchbasilikum
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Ocimum
-    art: basilicum
-    sorte: "'MARSEILLAIS'"
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: "3"
-  - name: Thai-Basilikum
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Ocimum
-    art: basilicum
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: "3"
-  - name: Tulsi Basilikum
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Ocimum
-    art: tenuiflorum
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: "3"
-  - name: Zitronenbasilikum
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Ocimum
-    art: basilicum
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Benediktendistel
-    Name3: Bitterdistel
-    ordnung: Asternartige
     ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Cnicus
-    art: benedictus
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
+    staude: true
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
+    art: chamissonis
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: Wiesenarnika
+    preis: B
+    familie: Korbblütler
+    gattung: Arnica
+    ordnung-lt: Asterales
+    staude: true
+  - winterhart: true
+    ordnung: Spargelartige
+    jahr: e
+    art: ursinum
+    familie-lt: Alliaceae
+    sorte: ""
+    karlsgarten: true
+    name: Bärlauch
+    preis: B
+    familie: Lauchgewächse
+    gattung: Allium
+    ordnung-lt: Asparagales
+    staude: true
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: "3"
+    art: basilicum
+    familie-lt: Lamiaceae
+    sorte: "'MARSEILLAIS'"
+    karlsgarten: false
+    name: Strauchbasilikum
+    preis: B
+    familie: Lippenblütler
+    gattung: Ocimum
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: "3"
+    art: basilicum
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Thai-Basilikum
+    preis: B
+    familie: Lippenblütler
+    gattung: Ocimum
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: "3"
+    art: tenuiflorum
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Tulsi Basilikum
+    preis: B
+    familie: Lippenblütler
+    gattung: Ocimum
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: basilicum
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Zitronenbasilikum
+    preis: B
+    familie: Lippenblütler
+    gattung: Ocimum
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Asternartige
+    jahr: e
+    art: benedictus
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Bitterdistel
+    name: Benediktendistel
+    preis: B
+    familie: Korbblütler
     extraNamen:
       - Benediktenkraut
-  - name: Bergamott
-    Name3: wildes Bergamott
+    gattung: Cnicus
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: true
     ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Monarda
-    art: fistulosa
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: C
-    karlsgarten: false
     jahr: e
+    art: fistulosa
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: wildes Bergamott
+    name: Bergamott
+    preis: C
+    familie: Lippenblütler
     extraNamen:
       - Späte Indianernessel
-  - name: griechischer Bergtee
-    ordnung: Lippenblütlerartige
+    gattung: Monarda
     ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Sideritis
-    art: syriaca
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: C
-    karlsgarten: false
+    staude: true
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: e
+    art: syriaca
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: griechischer Bergtee
+    preis: C
+    familie: Lippenblütler
     extraNamen:
       - Syrisches Gliedkraut
-  - name: grüner Bertram
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Anacyclus
-    art: ""
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Blutampfer
-    ordnung: Knöterichartige
-    ordnung-lt: Polygonales
-    familie: Knöterichgewächse
-    familie-lt: Polygonaceae
-    gattung: Rumex
-    art: sanguineus
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Bergbohnenkraut
-    Name3: Pfefferkraut
-    ordnung: Lippenblütlerartige
+    gattung: Sideritis
     ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Satureja
-    art: montana
-    sorte: ""
-    winterhart: true
     staude: false
-    preis: A
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
+    art: ""
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: grüner Bertram
+    preis: B
+    familie: Korbblütler
+    gattung: Anacyclus
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: true
+    ordnung: Knöterichartige
+    jahr: e
+    art: sanguineus
+    familie-lt: Polygonaceae
+    sorte: ""
+    karlsgarten: false
+    name: Blutampfer
+    preis: B
+    familie: Knöterichgewächse
+    gattung: Rumex
+    ordnung-lt: Polygonales
+    staude: true
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: montana
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Pfefferkraut
+    name: Bergbohnenkraut
+    preis: A
+    familie: Lippenblütler
     extraNamen:
       - Winterbohnenkraut
-  - name: römischer Bertram
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Anacyclus
-    art: pyrethrum
-    sorte: ""
-    winterhart: true
+    gattung: Satureja
+    ordnung-lt: Lamiales
     staude: false
-    preis: C
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
-  - name: Brahmi
-    Name3: Wasserysop
-    ordnung: Braunwurzartige
-    ordnung-lt: Scrophulariales
-    familie: Braunwurzgewächse
-    familie-lt: Scrophulariaceae
-    gattung: Bacopa
-    art: monnieri
+    art: pyrethrum
+    familie-lt: Asteraceae
     sorte: ""
-    winterhart: false
-    staude: true
-    preis: B
     karlsgarten: false
+    name: römischer Bertram
+    preis: C
+    familie: Korbblütler
+    gattung: Anacyclus
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: false
+    ordnung: Braunwurzartige
     jahr: "3"
+    art: monnieri
+    familie-lt: Scrophulariaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Wasserysop
+    name: Brahmi
+    preis: B
+    familie: Braunwurzgewächse
     extraNamen:
       - kleines Fettblatt
-  - name: Brunnenkresse
+    gattung: Bacopa
+    ordnung-lt: Scrophulariales
+    staude: true
+  - winterhart: true
     ordnung: Kapernartige
-    ordnung-lt: Capparales
-    familie: Kreuzblütengewächse
-    familie-lt: Brassicaceae
-    gattung: Nasturtium
+    jahr: e
     art: officinale
+    familie-lt: Brassicaceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: A
     karlsgarten: true
-    jahr: e
-  - name: wildes Chinin
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Parthenium
-    art: integrifolium
-    sorte: ""
-    winterhart: true
+    name: Brunnenkresse
+    preis: A
+    familie: Kreuzblütengewächse
+    gattung: Nasturtium
+    ordnung-lt: Capparales
     staude: false
-    preis: B
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
+    art: integrifolium
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: wildes Chinin
+    preis: B
+    familie: Korbblütler
     extraNamen:
       - Prärieampfer
-  - name: Colastrauch
-    ordnung: Asternartige
+    gattung: Parthenium
     ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Artemisia
-    art: alba
-    sorte: ""
-    winterhart: true
     staude: false
-    preis: B
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
+    art: alba
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: Colastrauch
+    preis: B
+    familie: Korbblütler
     extraNamen:
       - Kampfer Wermut
-  - name: Curryblatt
-    ordnung: Seifenbaumartige
-    ordnung-lt: Sapindales
-    familie: Rautengewächse
-    familie-lt: Rutaceae
-    gattung: Murraya
-    art: koenigii
-    sorte: ""
-    winterhart: false
+    gattung: Artemisia
+    ordnung-lt: Asterales
     staude: false
-    preis: E
-    karlsgarten: false
+  - winterhart: false
+    ordnung: Seifenbaumartige
     jahr: "3"
+    art: koenigii
+    familie-lt: Rutaceae
+    sorte: ""
+    karlsgarten: false
+    name: Curryblatt
+    preis: E
+    familie: Rautengewächse
     extraNamen:
       - Orangenraute
-  - name: Currykraut
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Helichrysum
-    art: italicum
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Diptam
-    ordnung: Seifenbaumartige
+    gattung: Murraya
     ordnung-lt: Sapindales
-    familie: Rautengewächse
-    familie-lt: Rutaceae
-    gattung: Dictamnus
-    art: alba
-    sorte: ""
-    winterhart: true
     staude: false
-    preis: E
-    karlsgarten: true
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
+    art: italicum
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: Currykraut
+    preis: B
+    familie: Korbblütler
+    gattung: Helichrysum
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: true
+    ordnung: Seifenbaumartige
+    jahr: e
+    art: alba
+    familie-lt: Rutaceae
+    sorte: ""
+    karlsgarten: true
+    name: Diptam
+    preis: E
+    familie: Rautengewächse
     extraNamen:
       - Gewöhnlicher Diptam
-  - name: Eisenkraut
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Eisenkrautgewächse
-    familie-lt: Verbenaceae
-    gattung: Verbena
-    art: officinalis
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: A
-    karlsgarten: false
-    jahr: e
-  - name: Erdbeerspinat
-    ordnung: Nelkenartige
-    ordnung-lt: Caryophyllales
-    familie: Gänsefußgewächse
-    familie-lt: Chenopodiaceae
-    gattung: Chenopodium
-    art: foliosum
-    sorte: ""
-    winterhart: false
+    gattung: Dictamnus
+    ordnung-lt: Sapindales
     staude: false
-    preis: A
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: e
+    art: officinalis
+    familie-lt: Verbenaceae
+    sorte: ""
+    karlsgarten: false
+    name: Eisenkraut
+    preis: A
+    familie: Eisenkrautgewächse
+    gattung: Verbena
+    ordnung-lt: Lamiales
+    staude: true
+  - winterhart: false
+    ordnung: Nelkenartige
+    jahr: e
+    art: foliosum
+    familie-lt: Chenopodiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Erdbeerspinat
+    preis: A
+    familie: Gänsefußgewächse
     extraNamen:
       - durchblätterter Gänsefuß
-  - name: Erdkastanie
-    Name3: Knollenkümmel
+    gattung: Chenopodium
+    ordnung-lt: Caryophyllales
+    staude: false
+  - winterhart: true
     ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Bunium
-    art: bulbocastanum
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: B
-    karlsgarten: false
     jahr: e
+    art: bulbocastanum
+    familie-lt: Apiaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Knollenkümmel
+    name: Erdkastanie
+    preis: B
+    familie: Doldengewächse
     extraNamen:
       - gewöhnlicher Knollenkümmel
-  - name: Erdmandel
+    gattung: Bunium
+    ordnung-lt: Apiales
+    staude: true
+  - winterhart: false
     ordnung: Riedgrasartige
-    ordnung-lt: Cyperales
-    familie: Riedgräser
-    familie-lt: Cyperaceae
-    gattung: Cyperus
+    jahr: e
     art: esculentus
+    familie-lt: Cyperaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
     karlsgarten: false
-    jahr: e
-  - name: böhmischer Estragon
+    name: Erdmandel
+    preis: B
+    familie: Riedgräser
+    gattung: Cyperus
+    ordnung-lt: Cyperales
+    staude: false
+  - winterhart: true
     ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Artemisia
+    jahr: e
     art: dracunculus
+    familie-lt: Asteraceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: false
-    jahr: e
-  - name: Färberkrapp
-    Name3: Krapp
-    ordnung: Röteartige
-    ordnung-lt: Rubiales
-    familie: Rötegewächse
-    familie-lt: Rubiaceae
-    gattung: Rubia
-    art: tinctorum
-    sorte: ""
-    winterhart: true
+    name: böhmischer Estragon
+    preis: B
+    familie: Korbblütler
+    gattung: Artemisia
+    ordnung-lt: Asterales
     staude: false
-    preis: C
-    karlsgarten: true
+  - winterhart: true
+    ordnung: Röteartige
     jahr: e
+    art: tinctorum
+    familie-lt: Rubiaceae
+    sorte: ""
+    karlsgarten: true
+    Name3: Krapp
+    name: Färberkrapp
+    preis: C
+    familie: Rötegewächse
     extraNamen:
       - echte Färberröte
-  - name: ausdauernde Gartenkresse
-    Name3: Strandkresse
-    ordnung: Kapernartige
-    ordnung-lt: Capparales
-    familie: Kreuzblütengewächse
-    familie-lt: Brassicaceae
-    gattung: Lepidium
-    art: latifolium
-    sorte: ""
-    winterhart: false
+    gattung: Rubia
+    ordnung-lt: Rubiales
     staude: false
-    preis: B
-    karlsgarten: false
+  - winterhart: false
+    ordnung: Kapernartige
     jahr: e
+    art: latifolium
+    familie-lt: Brassicaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Strandkresse
+    synonyme:
+      - Pfefferkraut
+    name: ausdauernde Gartenkresse
+    preis: B
+    familie: Kreuzblütengewächse
     extraNamen:
       - Breitblättrige Kresse
-    synonyme:
-      - Pfefferkraut
-  - name: Gelbdolde
-    Name3: schwarzer Liebstöckel
-    ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Smyrnium
-    art: olusatrum
-    sorte: ""
-    winterhart: true
+    gattung: Lepidium
+    ordnung-lt: Capparales
     staude: false
-    preis: C
-    karlsgarten: true
+  - winterhart: true
+    ordnung: Doldenblütlerartige
     jahr: e
-    extraNamen:
-      - schwarze Gelbdolde
+    art: olusatrum
+    familie-lt: Apiaceae
+    sorte: ""
+    karlsgarten: true
+    Name3: schwarzer Liebstöckel
     synonyme:
       - Pferdeeppich
-  - name: Goji-Beere
-    Name3: Teufelszwirn
-    ordnung: Nachtschattenartige
-    ordnung-lt: Solanales
-    familie: Nachtschattengewächse
-    familie-lt: Solanaceae
-    gattung: Lycium
-    art: barbarum (chinense?)
-    sorte: ""
-    winterhart: true
+    name: Gelbdolde
+    preis: C
+    familie: Doldengewächse
+    extraNamen:
+      - schwarze Gelbdolde
+    gattung: Smyrnium
+    ordnung-lt: Apiales
     staude: false
-    preis: B
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Nachtschattenartige
     jahr: e
+    art: barbarum (chinense?)
+    familie-lt: Solanaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Teufelszwirn
+    name: Goji-Beere
+    preis: B
+    familie: Nachtschattengewächse
     extraNamen:
       - Bocksdorn
-  - name: Granatapfel
+    gattung: Lycium
+    ordnung-lt: Solanales
+    staude: false
+  - winterhart: true
     ordnung: Myrtenartige
-    ordnung-lt: Myrtales
-    familie: Granatapfelgewächse
-    familie-lt: Punicaceae
-    gattung: Punica
+    jahr: e
     art: granatum
+    familie-lt: Punicaceae
     sorte: ""
-    winterhart: true
-    staude: false
+    karlsgarten: false
+    name: Granatapfel
     preis: C
-    karlsgarten: false
-    jahr: e
-  - name: Günsel
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Ajuga
-    art: reptans
-    sorte: ""
-    winterhart: true
+    familie: Granatapfelgewächse
+    gattung: Punica
+    ordnung-lt: Myrtales
     staude: false
-    preis: B
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: e
+    art: reptans
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Günsel
+    preis: B
+    familie: Lippenblütler
     extraNamen:
       - kriechender Günsel
-  - name: Gundelrebe
-    Name3: Erdefeu
-    ordnung: Lippenblütlerartige
+    gattung: Ajuga
     ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Glechoma
-    art: hederacea
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: B
-    karlsgarten: false
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: e
+    art: hederacea
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Erdefeu
+    name: Gundelrebe
+    preis: B
+    familie: Lippenblütler
     extraNamen:
       - Gundermann
-  - name: Habichtskraut
-    Name3: Mäuseohr
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Hieracium
-    art: pilosella
-    sorte: ""
-    winterhart: true
+    gattung: Glechoma
+    ordnung-lt: Lamiales
     staude: true
-    preis: B
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
+    art: pilosella
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Mäuseohr
+    name: Habichtskraut
+    preis: B
+    familie: Korbblütler
     extraNamen:
       - kleines Habichtskraut
-  - name: guter Heinrich
+    gattung: Hieracium
+    ordnung-lt: Asterales
+    staude: true
+  - winterhart: true
     ordnung: Nelkenartige
-    ordnung-lt: Caryophyllales
-    familie: Gänsefußgewächse
-    familie-lt: Chenopodiaceae
-    gattung: Chenopodium
-    art: bonus-henricus
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: C
-    karlsgarten: false
     jahr: e
+    art: bonus-henricus
+    familie-lt: Chenopodiaceae
+    sorte: ""
+    karlsgarten: false
+    name: guter Heinrich
+    preis: C
+    familie: Gänsefußgewächse
     extraNamen:
       - wilder Mehlspinat
-  - name: Herzsame
-    Name3: Ballonrebe
-    ordnung: Seifenbaumartige
-    ordnung-lt: Sapindales
-    familie: Seifenbaumgewächse
-    familie-lt: Sapindaceae
-    gattung: Cardiospermum
-    art: halicacabum
-    sorte: ""
-    winterhart: false
+    gattung: Chenopodium
+    ordnung-lt: Caryophyllales
     staude: false
-    preis: B
-    karlsgarten: false
+  - winterhart: false
+    ordnung: Seifenbaumartige
     jahr: e
-    extraNamen:
-      - Ballonwein
+    art: halicacabum
+    familie-lt: Sapindaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Ballonrebe
     synonyme:
       - Blasen-Herzsame
-  - name: Jiaogulan
-    Name3: Pflanze des ewigen Lebens
-    ordnung: Veilchenartige
-    ordnung-lt: Violales
-    familie: Kürbisgewächse
-    familie-lt: Cucurbitaceae
-    gattung: Gynostemma
-    art: pentaphyllum
-    sorte: ""
-    winterhart: true
-    staude: true
+    name: Herzsame
     preis: B
-    karlsgarten: false
+    familie: Seifenbaumgewächse
+    extraNamen:
+      - Ballonwein
+    gattung: Cardiospermum
+    ordnung-lt: Sapindales
+    staude: false
+  - winterhart: true
+    ordnung: Veilchenartige
     jahr: e
+    art: pentaphyllum
+    familie-lt: Cucurbitaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Pflanze des ewigen Lebens
+    name: Jiaogulan
+    preis: B
+    familie: Kürbisgewächse
     extraNamen:
       - Kraut der Unsterblicheit
-  - name: Johanneskraut
+    gattung: Gynostemma
+    ordnung-lt: Violales
+    staude: true
+  - winterhart: true
     ordnung: ""
-    ordnung-lt: Theales
-    familie: Johanniskrautgewächse
-    familie-lt: Clusiaceae
-    gattung: Hypericum
-    art: perforatum
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
     jahr: e
+    art: perforatum
+    familie-lt: Clusiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Johanneskraut
+    preis: B
+    familie: Johanniskrautgewächse
     extraNamen:
       - Hartheu
-  - name: Zitronen-Johanniskraut
-    ordnung: ""
+    gattung: Hypericum
     ordnung-lt: Theales
-    familie: Johanniskrautgewächse
-    familie-lt: Clusiaceae
-    gattung: Hypricum
-    art: hircinum
-    sorte: ""
-    winterhart: true
     staude: false
-    preis: A
-    karlsgarten: false
+  - winterhart: true
+    ordnung: ""
     jahr: e
+    art: hircinum
+    familie-lt: Clusiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Zitronen-Johanniskraut
+    preis: A
+    familie: Johanniskrautgewächse
     extraNamen:
       - Stinkendes Johanniskraut
-  - name: echte Kamille
+    gattung: Hypricum
+    ordnung-lt: Theales
+    staude: false
+  - winterhart: false
     ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Matricaria
+    jahr: e
     art: recutita
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: römische Rasenkamille
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
     familie-lt: Asteraceae
-    gattung: Chamaemelum
-    art: nobile
     sorte: ""
-    winterhart: true
+    karlsgarten: false
+    name: echte Kamille
+    preis: B
+    familie: Korbblütler
+    gattung: Matricaria
+    ordnung-lt: Asterales
     staude: false
+  - winterhart: true
+    ordnung: Asternartige
+    jahr: e
+    art: nobile
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: römische Rasenkamille
     preis: A
-    karlsgarten: false
-    jahr: e
-  - name: römische Kamille
-    ordnung: Asternartige
-    ordnung-lt: Asterales
     familie: Korbblütler
-    familie-lt: Asteraceae
     gattung: Chamaemelum
-    art: nobile
-    sorte: ""
-    winterhart: true
+    ordnung-lt: Asterales
     staude: false
-    preis: B
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
-  - name: Kapernstrauch
+    art: nobile
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: römische Kamille
+    preis: B
+    familie: Korbblütler
+    gattung: Chamaemelum
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: false
     ordnung: Kapernartige
-    ordnung-lt: Capparales
-    familie: Kaperngewächse
-    familie-lt: Capparaceae
-    gattung: Capparis
+    jahr: e
     art: spinosa
+    familie-lt: Capparaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
     karlsgarten: false
-    jahr: e
-  - name: Kapuzinerkresse
+    name: Kapernstrauch
+    preis: B
+    familie: Kaperngewächse
+    gattung: Capparis
+    ordnung-lt: Capparales
+    staude: false
+  - winterhart: false
     ordnung: Storchschnabelartige
-    ordnung-lt: Geraniales
-    familie: Kapuzinerkressengewächse
-    familie-lt: Tropaeolaceae
-    gattung: Tropaeolum
+    jahr: e
     art: majus
+    familie-lt: Tropaeolaceae
     sorte: ""
-    winterhart: false
-    staude: false
+    karlsgarten: false
+    name: Kapuzinerkresse
     preis: A
-    karlsgarten: false
-    jahr: e
-  - name: Kardamom
+    familie: Kapuzinerkressengewächse
+    gattung: Tropaeolum
+    ordnung-lt: Geraniales
+    staude: false
+  - winterhart: false
     ordnung: Ingwerartige
-    ordnung-lt: Zingiberales
-    familie: Ingwergewächse
-    familie-lt: Zingiberaceae
-    gattung: Elettaria
+    jahr: e
     art: cardamomum
+    familie-lt: Zingiberaceae
     sorte: ""
-    winterhart: false
-    staude: true
-    preis: D
     karlsgarten: false
-    jahr: e
-  - name: Kermesbeere
+    name: Kardamom
+    preis: D
+    familie: Ingwergewächse
+    gattung: Elettaria
+    ordnung-lt: Zingiberales
+    staude: true
+  - winterhart: true
     ordnung: Nelkenartige
-    ordnung-lt: Caryophyllales
-    familie: Kermesbeerengewächse
-    familie-lt: Phytolaccaceae
-    gattung: Phytolacca
+    jahr: e
     art: americana
+    familie-lt: Phytolaccaceae
     sorte: ""
-    winterhart: true
-    staude: true
+    karlsgarten: false
+    name: Kermesbeere
     preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Klettersalat
-    Name3: Madeira Wein
-    ordnung: Nelkenartige
+    familie: Kermesbeerengewächse
+    gattung: Phytolacca
     ordnung-lt: Caryophyllales
-    familie: Basellagewächse
-    familie-lt: Basellaceae
-    gattung: Anredera
-    art: cordifolia
-    sorte: ""
-    winterhart: false
     staude: true
-    preis: D
-    karlsgarten: false
+  - winterhart: false
+    ordnung: Nelkenartige
     jahr: e
+    art: cordifolia
+    familie-lt: Basellaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Madeira Wein
+    name: Klettersalat
+    preis: D
+    familie: Basellagewächse
     extraNamen:
       - Peru Portulak
-  - name: vietnamesischer Koriander
+    gattung: Anredera
+    ordnung-lt: Caryophyllales
+    staude: true
+  - winterhart: false
     ordnung: Knöterichartige
-    ordnung-lt: Polygonales
-    familie: Knöterichgewächse
+    jahr: e
+    art: odorata
     familie-lt: Polygonaceae
+    sorte: ""
+    karlsgarten: false
+    name: vietnamesischer Koriander
+    preis: B
+    familie: Knöterichgewächse
     gattung: Persicaria
-    art: odorata
-    sorte: ""
-    winterhart: false
+    ordnung-lt: Polygonales
     staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Kretamelisse
+  - winterhart: true
     ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Melissa
+    jahr: e
     art: officinalis
+    familie-lt: Lamiaceae
     sorte: var. altissima
-    winterhart: true
-    staude: true
-    preis: B
     karlsgarten: false
-    jahr: e
-  - name: Labkraut
+    name: Kretamelisse
+    preis: B
+    familie: Lippenblütler
+    gattung: Melissa
+    ordnung-lt: Lamiales
+    staude: true
+  - winterhart: true
     ordnung: Röteartige
-    ordnung-lt: Rubiales
-    familie: Rötegewächse
-    familie-lt: Rubiaceae
-    gattung: Galium
+    jahr: e
     art: verun
+    familie-lt: Rubiaceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: false
-    jahr: e
-  - name: Mädesüß
+    name: Labkraut
+    preis: B
+    familie: Rötegewächse
+    gattung: Galium
+    ordnung-lt: Rubiales
+    staude: false
+  - winterhart: true
     ordnung: Rosenartige
-    ordnung-lt: Rosales
-    familie: Rosengewächse
-    familie-lt: Rosaceae
-    gattung: Filipendula
+    jahr: e
     art: ulmaria
+    familie-lt: Rosaceae
     sorte: ""
-    winterhart: true
+    karlsgarten: false
+    name: Mädesüß
+    preis: B
+    familie: Rosengewächse
+    gattung: Filipendula
+    ordnung-lt: Rosales
     staude: true
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Mariendistel
+  - winterhart: true
     ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Silybum
+    jahr: e
     art: marianum
+    familie-lt: Asteraceae
     sorte: ""
-    winterhart: true
-    staude: false
+    karlsgarten: false
+    name: Mariendistel
     preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Süßgras
-    ordnung: Süßgrasartige
-    ordnung-lt: Poales
-    familie: Süßgräser
-    familie-lt: Poaceae
-    gattung: Hierochloe
-    art: odorata
-    sorte: ""
-    winterhart: true
+    familie: Korbblütler
+    gattung: Silybum
+    ordnung-lt: Asterales
     staude: false
-    preis: C
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Süßgrasartige
     jahr: e
-    extraNamen:
-      - Mariengras
+    art: odorata
+    familie-lt: Poaceae
+    sorte: ""
+    karlsgarten: false
     synonyme:
       - Sweet Grass
-  - name: Meerzwiebel
-    ordnung: Spargelartige
-    ordnung-lt: Asparagales
-    familie: Hyazinthengewächse
-    familie-lt: Hyacinthaceae
-    gattung: Ornithogalum
-    art: longibracteatum
-    sorte: ""
-    winterhart: false
+    name: Süßgras
+    preis: C
+    familie: Süßgräser
+    extraNamen:
+      - Mariengras
+    gattung: Hierochloe
+    ordnung-lt: Poales
     staude: false
-    preis: B
-    karlsgarten: false
+  - winterhart: false
+    ordnung: Spargelartige
     jahr: e
+    art: longibracteatum
+    familie-lt: Hyacinthaceae
+    sorte: ""
+    karlsgarten: false
+    name: Meerzwiebel
+    preis: B
+    familie: Hyazinthengewächse
     extraNamen:
       - falsche Meerzwiebel
-  - name: Meisterwurz
-    Name3: Hirschwurz
+    gattung: Ornithogalum
+    ordnung-lt: Asparagales
+    staude: false
+  - winterhart: true
     ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Peucedanum
-    art: ostruthium
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: D
-    karlsgarten: false
     jahr: e
+    art: ostruthium
+    familie-lt: Apiaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Hirschwurz
+    name: Meisterwurz
+    preis: D
+    familie: Doldengewächse
     extraNamen:
       - Haarstrang
-  - name: Erdbeerminze
+    gattung: Peucedanum
+    ordnung-lt: Apiales
+    staude: true
+  - winterhart: true
     ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Mentha
-    art: species
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
     jahr: ""
-  - name: Bergminze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
+    art: species
     familie-lt: Lamiaceae
-    gattung: Calamintha
+    sorte: ""
+    karlsgarten: false
+    name: Erdbeerminze
+    preis: B
+    familie: Lippenblütler
+    gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
     art: nepeta
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: ""
-  - name: Ingwerminze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
     familie-lt: Lamiaceae
-    gattung: Mentha
+    sorte: ""
+    karlsgarten: false
+    name: Bergminze
+    preis: B
+    familie: Lippenblütler
+    gattung: Calamintha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
     art: gentilis
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: ""
-  - name: Mojitominze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
     familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Ingwerminze
+    preis: B
+    familie: Lippenblütler
     gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
     art: species
+    familie-lt: Lamiaceae
     sorte: "'Nemorosa'"
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: false
-    jahr: ""
-  - name: Schokominze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
+    name: Mojitominze
+    preis: B
     familie: Lippenblütler
-    familie-lt: Lamiaceae
     gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
     art: piperita
+    familie-lt: Lamiaceae
     sorte: "'After Eight'"
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: false
-    jahr: ""
-  - name: Zitronenminze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
+    name: Schokominze
+    preis: B
     familie: Lippenblütler
-    familie-lt: Lamiaceae
     gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
     art: aquatica
+    familie-lt: Lamiaceae
     sorte: "'Citrata'"
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: false
-    jahr: ""
-  - name: Zitronenkatzenminze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
+    name: Zitronenminze
+    preis: B
     familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Nepeta
+    gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
     art: cataria
+    familie-lt: Lamiaceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: A
     karlsgarten: true
-    jahr: ""
-  - name: Marokko Minze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
+    name: Zitronenkatzenminze
+    preis: A
     familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Mentha
+    gattung: Nepeta
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
     art: spicata
+    familie-lt: Lamiaceae
     sorte: "'Crispa'"
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: false
-    jahr: ""
-  - name: sardische Minze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
+    name: Marokko Minze
+    preis: B
     familie: Lippenblütler
-    familie-lt: Lamiaceae
     gattung: Mentha
-    art: requienii
-    sorte: ""
-    winterhart: false
+    ordnung-lt: Lamiales
     staude: false
-    preis: B
-    karlsgarten: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
     jahr: "3"
-  - name: argentinischer Minzstrauch
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Eisenkrautgewächse
-    familie-lt: Verbenaceae
-    gattung: Lippia
-    art: polystacha
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: bunte Ananasminze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
+    art: requienii
     familie-lt: Lamiaceae
-    gattung: Mentha
-    art: x rotundifolia
     sorte: ""
-    winterhart: true
-    staude: false
+    karlsgarten: false
+    name: sardische Minze
     preis: B
-    karlsgarten: false
-    jahr: ""
-  - name: Mönchspfeffer
-    ordnung: Lippenblütlerartige
+    familie: Lippenblütler
+    gattung: Mentha
     ordnung-lt: Lamiales
-    familie: Eisenkrautgewächse
-    familie-lt: Verbenaceae
-    gattung: Vitex
-    art: agnus-castus
-    sorte: ""
-    winterhart: true
     staude: false
-    preis: C
-    karlsgarten: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
     jahr: e
+    art: polystacha
+    familie-lt: Verbenaceae
+    sorte: ""
+    karlsgarten: false
+    name: argentinischer Minzstrauch
+    preis: B
+    familie: Eisenkrautgewächse
+    gattung: Lippia
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: ""
+    art: x rotundifolia
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: bunte Ananasminze
+    preis: B
+    familie: Lippenblütler
+    gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: agnus-castus
+    familie-lt: Verbenaceae
+    sorte: ""
+    karlsgarten: false
+    name: Mönchspfeffer
+    preis: C
+    familie: Eisenkrautgewächse
     extraNamen:
       - Keuschbaum
-  - name: Mutterkraut
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Tanacetum
-    art: parthenium
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: B
-    karlsgarten: true
-    jahr: e
-  - name: Myrte
-    ordnung: Myrtenartige
-    ordnung-lt: Myrtales
-    familie: Myrtengewächse
-    familie-lt: Myrtaceae
-    gattung: Myrtus
-    art: communis
-    sorte: ""
-    winterhart: false
+    gattung: Vitex
+    ordnung-lt: Lamiales
     staude: false
-    preis: C
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
+    art: parthenium
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: true
+    name: Mutterkraut
+    preis: B
+    familie: Korbblütler
+    gattung: Tanacetum
+    ordnung-lt: Asterales
+    staude: true
+  - winterhart: false
+    ordnung: Myrtenartige
+    jahr: e
+    art: communis
+    familie-lt: Myrtaceae
+    sorte: ""
+    karlsgarten: false
+    name: Myrte
+    preis: C
+    familie: Myrtengewächse
     extraNamen:
       - Brautmyrte
-  - name: Olive
-    ordnung: Braunwurzartige
-    ordnung-lt: Scrophulariales
-    familie: Ölbaumgewächse
-    familie-lt: Oleaceae
-    gattung: Olea
-    art: europaea
-    sorte: ""
-    winterhart: false
+    gattung: Myrtus
+    ordnung-lt: Myrtales
     staude: false
-    preis: C
-    karlsgarten: false
+  - winterhart: false
+    ordnung: Braunwurzartige
     jahr: "3"
-  - name: Oswegokraut
-    Name3: späte Indianernessel
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Monarda
-    art: fistulosa
+    art: europaea
+    familie-lt: Oleaceae
     sorte: ""
-    winterhart: true
-    staude: true
-    preis: C
     karlsgarten: false
+    name: Olive
+    preis: C
+    familie: Ölbaumgewächse
+    gattung: Olea
+    ordnung-lt: Scrophulariales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: e
+    art: fistulosa
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: späte Indianernessel
+    name: Oswegokraut
+    preis: C
+    familie: Lippenblütler
     extraNamen:
       - Pfefferkraut
-  - name: Pfeilkresse
+    gattung: Monarda
+    ordnung-lt: Lamiales
+    staude: true
+  - winterhart: true
     ordnung: Kapernartige
-    ordnung-lt: Capparales
-    familie: Kreuzblütengewächse
-    familie-lt: Brassicaceae
-    gattung: Cardaria
+    jahr: e
     art: draba
+    familie-lt: Brassicaceae
     sorte: ""
-    winterhart: true
-    staude: true
-    preis: B
     karlsgarten: false
-    jahr: e
-  - name: Rainfarn
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Tanacetum
-    art: vulgare
-    sorte: ""
-    winterhart: true
-    staude: true
+    name: Pfeilkresse
     preis: B
-    karlsgarten: true
-    jahr: e
-  - name: fenchelblättrige Raute
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Artemisia
-    art: abrotanum
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: ""
-  - name: Duftreseda
-    ordnung: Kapernartige
+    familie: Kreuzblütengewächse
+    gattung: Cardaria
     ordnung-lt: Capparales
-    familie: Resedagewächse
-    familie-lt: Resedaceae
-    gattung: Reseda
-    art: odorata
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
+    staude: true
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
+    art: vulgare
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: true
+    name: Rainfarn
+    preis: B
+    familie: Korbblütler
+    gattung: Tanacetum
+    ordnung-lt: Asterales
+    staude: true
+  - winterhart: true
+    ordnung: Asternartige
+    jahr: ""
+    art: abrotanum
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: fenchelblättrige Raute
+    preis: B
+    familie: Korbblütler
+    gattung: Artemisia
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: false
+    ordnung: Kapernartige
+    jahr: e
+    art: odorata
+    familie-lt: Resedaceae
+    sorte: ""
+    karlsgarten: false
+    name: Duftreseda
+    preis: B
+    familie: Resedagewächse
     extraNamen:
       - Reseda
-  - name: Ringelblume
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Calendula
-    art: officinalis
-    sorte: ""
-    winterhart: false
+    gattung: Reseda
+    ordnung-lt: Capparales
     staude: false
-    preis: A
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Asternartige
     jahr: e
+    art: officinalis
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: true
+    name: Ringelblume
+    preis: A
+    familie: Korbblütler
     extraNamen:
       - Gartenringelblume
-  - name: hängender Rosmarin
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Rosmarinus
-    art: officinalis
-    sorte: ""
-    winterhart: true
+    gattung: Calendula
+    ordnung-lt: Asterales
     staude: false
-    preis: C
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: e
-  - name: Fichtennadel Rosmarin
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Rosmarinus
     art: officinalis
-    sorte: Fichtennadel
-    winterhart: false
-    staude: false
-    preis: B
+    familie-lt: Lamiaceae
+    sorte: ""
     karlsgarten: false
+    name: hängender Rosmarin
+    preis: C
+    familie: Lippenblütler
+    gattung: Rosmarinus
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
     jahr: "3"
+    art: officinalis
+    familie-lt: Lamiaceae
+    sorte: Fichtennadel
+    karlsgarten: false
+    name: Fichtennadel Rosmarin
+    preis: B
+    familie: Lippenblütler
     extraNamen:
       - Pinien Rosmarin
-  - name: Safran
+    gattung: Rosmarinus
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
     ordnung: Lilienartige
-    ordnung-lt: Liliales
-    familie: Schwertliliengewächse
-    familie-lt: Iridaceae
-    gattung: Crocus
+    jahr: e
     art: sativus
+    familie-lt: Iridaceae
     sorte: ""
-    winterhart: true
+    karlsgarten: false
+    name: Safran
+    preis: B
+    familie: Schwertliliengewächse
+    gattung: Crocus
+    ordnung-lt: Liliales
     staude: true
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: afrikanischer Räuchersalbei
+  - winterhart: true
     ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Salvia
+    jahr: e
     art: repens
+    familie-lt: Lamiaceae
     sorte: ""
-    winterhart: true
-    staude: false
+    karlsgarten: false
+    name: afrikanischer Räuchersalbei
     preis: C
-    karlsgarten: false
-    jahr: e
-  - name: Mandarinensalbei
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
     familie: Lippenblütler
-    familie-lt: Lamiaceae
     gattung: Salvia
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: "3"
     art: elegans
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: "3"
-  - name: Pfirsichsalbei
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
     familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Mandarinensalbei
+    preis: B
+    familie: Lippenblütler
     gattung: Salvia
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: "3"
     art: greggii
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: "3"
-  - name: weißer Räuchersalbei
-    Name3: weißer Salbei
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
     familie-lt: Lamiaceae
-    gattung: Salvia
-    art: apiana
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: D
     karlsgarten: false
+    name: Pfirsichsalbei
+    preis: B
+    familie: Lippenblütler
+    gattung: Salvia
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
     jahr: "3"
-    extraNamen:
-      - indianischer Räuchersalbei
+    art: apiana
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: weißer Salbei
     synonyme:
       - white Sage
-  - name: Samtsalbei
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
+    name: weißer Räuchersalbei
+    preis: D
     familie: Lippenblütler
-    familie-lt: Lamiaceae
+    extraNamen:
+      - indianischer Räuchersalbei
     gattung: Salvia
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
     art: officinalis
+    familie-lt: Lamiaceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: false
-    jahr: e
-  - name: indianischer Salbeistrauch
+    name: Samtsalbei
+    preis: B
+    familie: Lippenblütler
+    gattung: Salvia
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
     ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Artemisia
+    jahr: e
     art: canariensis
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Salzkraut
-    ordnung: Nelkenartige
-    ordnung-lt: Caryophyllales
-    familie: Gänsefußgewächse
-    familie-lt: Chenopodiaceae
-    gattung: Salsola
-    art: soda
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Sambung Nyawa
-    Name3: Pflanze gegen 100 Krankheiten
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
     familie-lt: Asteraceae
-    gattung: Gynura
-    art: procumbens
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: C
     karlsgarten: false
+    name: indianischer Salbeistrauch
+    preis: B
+    familie: Korbblütler
+    gattung: Artemisia
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: false
+    ordnung: Nelkenartige
+    jahr: e
+    art: soda
+    familie-lt: Chenopodiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Salzkraut
+    preis: B
+    familie: Gänsefußgewächse
+    gattung: Salsola
+    ordnung-lt: Caryophyllales
+    staude: false
+  - winterhart: false
+    ordnung: Asternartige
     jahr: "3"
+    art: procumbens
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Pflanze gegen 100 Krankheiten
+    name: Sambung Nyawa
+    preis: C
+    familie: Korbblütler
     extraNamen:
       - Blätter des Lebens
-  - name: Schafgarbe
-    ordnung: Asternartige
+    gattung: Gynura
     ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Achillea
+    staude: false
+  - winterhart: true
+    ordnung: Asternartige
+    jahr: e
     art: millefolium
+    familie-lt: Asteraceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: false
-    jahr: e
-  - name: Schnauzenschreck
-    Name3: Schnauzenschreck
+    name: Schafgarbe
+    preis: B
+    familie: Korbblütler
+    gattung: Achillea
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: false
     ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Plectranthus
-    art: Caninus-Hybride
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
     jahr: e
+    art: Caninus-Hybride
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Schnauzenschreck
+    name: Schnauzenschreck
+    preis: B
+    familie: Lippenblütler
     extraNamen:
       - Verpiß dich
-  - name: Schnittknoblauch
-    ordnung: Spargelartige
-    ordnung-lt: Asparagales
-    familie: Lauchgewächse
-    familie-lt: Alliaceae
-    gattung: Allium
-    art: tuberosum
-    sorte: ""
-    winterhart: true
+    gattung: Plectranthus
+    ordnung-lt: Lamiales
     staude: false
-    preis: B
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Spargelartige
     jahr: e
+    art: tuberosum
+    familie-lt: Alliaceae
+    sorte: ""
+    karlsgarten: false
+    name: Schnittknoblauch
+    preis: B
+    familie: Lauchgewächse
     extraNamen:
       - Schnittknofel
-  - name: grüne Schwarznessel
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Perilla
-    art: frutescens
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-    extraNamen:
-      - Perilla
-  - name: rote Schwarznessel
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Perilla
-    art: frutescens
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-    extraNamen:
-      - Perilla
-  - name: Seifenkraut
-    ordnung: Nelkenartige
-    ordnung-lt: Caryophyllales
-    familie: Nelkengewächse
-    familie-lt: Caryophyllaceae
-    gattung: Saponaria
-    art: officinalis
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: roter Sonnenhut
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Echinacea
-    art: purpurea
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Spargel
-    ordnung: Spargelartige
+    gattung: Allium
     ordnung-lt: Asparagales
-    familie: Spargelgewächse
-    familie-lt: Asparagaceae
-    gattung: Asparagus
-    art: officinalis
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Süßkartoffel
-    ordnung: Nachtschattenartige
-    ordnung-lt: Solanales
-    familie: Windengewächse
-    familie-lt: Convolvulaceae
-    gattung: Ipomoea
-    art: batatas
-    sorte: ""
-    winterhart: false
     staude: false
-    preis: C
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: frutescens
+    familie-lt: Lamiaceae
+    sorte: ""
     karlsgarten: false
+    name: grüne Schwarznessel
+    preis: B
+    familie: Lippenblütler
+    extraNamen:
+      - Perilla
+    gattung: Perilla
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: e
+    art: frutescens
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: rote Schwarznessel
+    preis: B
+    familie: Lippenblütler
+    extraNamen:
+      - Perilla
+    gattung: Perilla
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Nelkenartige
+    jahr: e
+    art: officinalis
+    familie-lt: Caryophyllaceae
+    sorte: ""
+    karlsgarten: false
+    name: Seifenkraut
+    preis: B
+    familie: Nelkengewächse
+    gattung: Saponaria
+    ordnung-lt: Caryophyllales
+    staude: true
+  - winterhart: true
+    ordnung: Asternartige
+    jahr: e
+    art: purpurea
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: roter Sonnenhut
+    preis: B
+    familie: Korbblütler
+    gattung: Echinacea
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: true
+    ordnung: Spargelartige
+    jahr: e
+    art: officinalis
+    familie-lt: Asparagaceae
+    sorte: ""
+    karlsgarten: false
+    name: Spargel
+    preis: B
+    familie: Spargelgewächse
+    gattung: Asparagus
+    ordnung-lt: Asparagales
+    staude: true
+  - winterhart: false
+    ordnung: Nachtschattenartige
     jahr: "3"
+    art: batatas
+    familie-lt: Convolvulaceae
+    sorte: ""
+    karlsgarten: false
+    name: Süßkartoffel
+    preis: C
+    familie: Windengewächse
     extraNamen:
       - Batate
-  - name: aztekisches Süßkraut
+    gattung: Ipomoea
+    ordnung-lt: Solanales
+    staude: false
+  - winterhart: false
     ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Eisenkrautgewächse
-    familie-lt: Verbenaceae
-    gattung: Lippia
-    art: dulcis
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: C
-    karlsgarten: false
     jahr: "3"
-  - name: Tausendguldenkraut
-    Name3: Echtes Tausendguldenkraut
-    ordnung: Enzianartige
-    ordnung-lt: Gentianales
-    familie: Enziangewächse
-    familie-lt: Gentianaceae
-    gattung: Centaurium
-    art: erythraea
+    art: dulcis
+    familie-lt: Verbenaceae
     sorte: ""
-    winterhart: false
+    karlsgarten: false
+    name: aztekisches Süßkraut
+    preis: C
+    familie: Eisenkrautgewächse
+    gattung: Lippia
+    ordnung-lt: Lamiales
     staude: false
-    preis: A
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Enzianartige
     jahr: e
-    extraNamen:
-      - Tausendgüldenkraut
+    art: erythraea
+    familie-lt: Gentianaceae
+    sorte: ""
+    karlsgarten: true
+    Name3: Echtes Tausendguldenkraut
     synonyme:
       - Kopfiges Tausendguldenkraut
-  - name: Teebaum
-    ordnung: Myrtenartige
-    ordnung-lt: Myrtales
-    familie: Myrtengewächse
-    familie-lt: Myrtaceae
-    gattung: Leptospermum
-    art: laevigatum
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: D
-    karlsgarten: false
-    jahr: "3"
-  - name: Feldthymian
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Thymus
-    art: serpyllum
-    sorte: ""
-    winterhart: true
-    staude: false
+    name: Tausendguldenkraut
     preis: A
+    familie: Enziangewächse
+    extraNamen:
+      - Tausendgüldenkraut
+    gattung: Centaurium
+    ordnung-lt: Gentianales
+    staude: false
+  - winterhart: false
+    ordnung: Myrtenartige
+    jahr: "3"
+    art: laevigatum
+    familie-lt: Myrtaceae
+    sorte: ""
     karlsgarten: false
+    name: Teebaum
+    preis: D
+    familie: Myrtengewächse
+    gattung: Leptospermum
+    ordnung-lt: Myrtales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: e
+    art: serpyllum
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Feldthymian
+    preis: A
+    familie: Lippenblütler
     extraNamen:
       - Quendel
-  - name: Kümmelthymian
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
     gattung: Thymus
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
+    jahr: e
     art: herba-barona
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: e
-  - name: Steinpilzthymian
-    Name3: Kaskadenthymian
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
     familie-lt: Lamiaceae
-    gattung: Thymus
-    art: longicaulis
     sorte: ""
-    Varietät: odoratus
-    winterhart: true
-    staude: false
-    preis: B
     karlsgarten: false
+    name: Kümmelthymian
+    preis: B
+    familie: Lippenblütler
+    gattung: Thymus
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: e
+    Varietät: odoratus
+    art: longicaulis
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Kaskadenthymian
+    name: Steinpilzthymian
+    preis: B
+    familie: Lippenblütler
     extraNamen:
       - langstängeliger Thymian
-  - name: Topinambur
+    gattung: Thymus
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
     ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Helianthus
-    art: tuberosus
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: B
-    karlsgarten: false
     jahr: e
+    art: tuberosus
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: Topinambur
+    preis: B
+    familie: Korbblütler
     extraNamen:
       - Erdschocke
-  - name: Vanille
+    gattung: Helianthus
+    ordnung-lt: Asterales
+    staude: true
+  - winterhart: false
     ordnung: Spargelartige
-    ordnung-lt: Asparagales
-    familie: Orchideen
-    familie-lt: Orchidaceae
-    gattung: Vanilla
-    art: fragrans
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: D
-    karlsgarten: false
     jahr: "3"
-  - name: Venuskamm
-    ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Scandix
-    art: pectan-veneris
+    art: fragrans
+    familie-lt: Orchidaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
     karlsgarten: false
+    name: Vanille
+    preis: D
+    familie: Orchideen
+    gattung: Vanilla
+    ordnung-lt: Asparagales
+    staude: false
+  - winterhart: false
+    ordnung: Doldenblütlerartige
     jahr: e
+    art: pectan-veneris
+    familie-lt: Apiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Venuskamm
+    preis: B
+    familie: Doldengewächse
     extraNamen:
       - Nadelkerbel
-  - name: Winterheckezwiebel
-    ordnung: Spargelartige
-    ordnung-lt: Asparagales
-    familie: Lauchgewächse
-    familie-lt: Alliaceae
-    gattung: Allium
-    art: fistulosum
-    sorte: ""
-    winterhart: true
+    gattung: Scandix
+    ordnung-lt: Apiales
     staude: false
-    preis: B
-    karlsgarten: true
+  - winterhart: true
+    ordnung: Spargelartige
     jahr: e
+    art: fistulosum
+    familie-lt: Alliaceae
+    sorte: ""
+    karlsgarten: true
+    name: Winterheckezwiebel
+    preis: B
+    familie: Lauchgewächse
     extraNamen:
       - Winter-Zwiebel
-  - name: Heilziest
+    gattung: Allium
+    ordnung-lt: Asparagales
+    staude: false
+  - winterhart: true
     ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Stachys
-    art: officinalis
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: C
-    karlsgarten: false
     jahr: e
+    art: officinalis
+    familie-lt: Lamiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Heilziest
+    preis: C
+    familie: Lippenblütler
     extraNamen:
       - Echter Ziest
-  - name: Knollenziest
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
     gattung: Stachys
-    art: affinis
-    sorte: ""
-    winterhart: true
+    ordnung-lt: Lamiales
     staude: true
-    preis: C
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: e
-  - name: Zimmerknofel
-    ordnung: Lilienartige
-    ordnung-lt: Liliales
-    familie: Liliengewächse
-    familie-lt: Liliaceae
-    gattung: Tulbaghia
-    art: violacea
+    art: affinis
+    familie-lt: Lamiaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: C
     karlsgarten: false
+    name: Knollenziest
+    preis: C
+    familie: Lippenblütler
+    gattung: Stachys
+    ordnung-lt: Lamiales
+    staude: true
+  - winterhart: false
+    ordnung: Lilienartige
     jahr: "3"
+    art: violacea
+    familie-lt: Liliaceae
+    sorte: ""
+    karlsgarten: false
+    name: Zimmerknofel
+    preis: C
+    familie: Liliengewächse
     extraNamen:
       - Knoblauchs-Kaplilie
-  - name: Zuckerwurzel
-    Name3: Zucker-Merk
-    ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Sium
-    art: sisarum
-    sorte: ""
-    winterhart: true
+    gattung: Tulbaghia
+    ordnung-lt: Liliales
     staude: false
-    preis: B
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Doldenblütlerartige
     jahr: e
+    art: sisarum
+    familie-lt: Apiaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Zucker-Merk
+    name: Zuckerwurzel
+    preis: B
+    familie: Doldengewächse
     extraNamen:
       - Süßwurzel
-  - name: Färberkamille
+    gattung: Sium
+    ordnung-lt: Apiales
+    staude: false
+  - winterhart: true
     ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Anthemis
-    art: tinctoria
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: B
-    karlsgarten: false
     jahr: e
+    art: tinctoria
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: Färberkamille
+    preis: B
+    familie: Korbblütler
     extraNamen:
       - Färberhundskamille
-  - name: Zwerglampionblume
-    ordnung: Nachtschattenartige
-    ordnung-lt: Solanales
-    familie: Nachtschattengewächse
-    familie-lt: Solanaceae
-    gattung: Physalis
-    art: alkekengi
-    sorte: ""
-    winterhart: true
+    gattung: Anthemis
+    ordnung-lt: Asterales
     staude: true
-    preis: B
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Nachtschattenartige
     jahr: e
+    art: alkekengi
+    familie-lt: Solanaceae
+    sorte: ""
+    karlsgarten: false
+    name: Zwerglampionblume
+    preis: B
+    familie: Nachtschattengewächse
     extraNamen:
       - Blasenkirsche
-  - name: Lungenkraut
-    Name3: Kleingeflecktes Lungenkraut
-    ordnung: Nachtschattenartige
+    gattung: Physalis
     ordnung-lt: Solanales
-    familie: Rauhblattgewächse
-    familie-lt: Boraginaceae
-    gattung: Pulmonaria
-    art: officinalis
-    sorte: ""
-    winterhart: true
     staude: true
-    preis: B
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Nachtschattenartige
     jahr: e
+    art: officinalis
+    familie-lt: Boraginaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Kleingeflecktes Lungenkraut
+    name: Lungenkraut
+    preis: B
+    familie: Rauhblattgewächse
     extraNamen:
       - echtes Lungenkraut
-  - name: Maca
-    ordnung: Kapernartige
-    ordnung-lt: Capparales
-    familie: Kreuzblütengewächse
-    familie-lt: Brassicaceae
-    gattung: Lepidium
-    art: meyenii
-    sorte: ""
-    winterhart: true
+    gattung: Pulmonaria
+    ordnung-lt: Solanales
     staude: true
-    preis: B
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Kapernartige
     jahr: e
+    art: meyenii
+    familie-lt: Brassicaceae
+    sorte: ""
+    karlsgarten: false
+    name: Maca
+    preis: B
+    familie: Kreuzblütengewächse
     extraNamen:
       - peruanischer Ginseng
-  - name: Haferwurz
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Tragopogon
-    art: porrifolius
-    sorte: ""
-    winterhart: true
+    gattung: Lepidium
+    ordnung-lt: Capparales
     staude: true
-    preis: B
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Asternartige
     jahr: e
+    art: porrifolius
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: Haferwurz
+    preis: B
+    familie: Korbblütler
     extraNamen:
       - Haferwurzel
-  - name: Pfefferbasilikum
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Ocimum
-    art: selloi
-    sorte: "`Green Pepper´"
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: "3"
-  - name: Andenchili
-    Name3: Prickelköpfchen
-    ordnung: Asternartige
+    gattung: Tragopogon
     ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Acmella
-    art: oleracea
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
+    staude: true
+  - winterhart: false
+    ordnung: Lippenblütlerartige
     jahr: "3"
-    extraNamen:
-      - Parakresse
+    art: selloi
+    familie-lt: Lamiaceae
+    sorte: "`Green Pepper´"
+    karlsgarten: false
+    name: Pfefferbasilikum
+    preis: B
+    familie: Lippenblütler
+    gattung: Ocimum
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
+    ordnung: Asternartige
+    jahr: "3"
+    art: oleracea
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Prickelköpfchen
     synonyme:
       - Zahnwehpflanze
-  - name: Andenbeere
-    ordnung: Nachtschattenartige
-    ordnung-lt: Solanales
-    familie: Nachtschattengewächse
-    familie-lt: Solanaceae
-    gattung: Physalis
-    art: peruviana
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: C
-    karlsgarten: false
-    jahr: "3"
-  - name: Gotu Kola
-    ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Centella
-    art: asiatica
-    sorte: ""
-    winterhart: false
-    staude: false
+    name: Andenchili
     preis: B
+    familie: Korbblütler
+    extraNamen:
+      - Parakresse
+    gattung: Acmella
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: false
+    ordnung: Nachtschattenartige
+    jahr: "3"
+    art: peruviana
+    familie-lt: Solanaceae
+    sorte: ""
     karlsgarten: false
+    name: Andenbeere
+    preis: C
+    familie: Nachtschattengewächse
+    gattung: Physalis
+    ordnung-lt: Solanales
+    staude: false
+  - winterhart: false
+    ordnung: Doldenblütlerartige
     jahr: e
+    art: asiatica
+    familie-lt: Apiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Gotu Kola
+    preis: B
+    familie: Doldengewächse
     extraNamen:
       - Asiatisches Sumpfpfennigkraut
-  - name: Veilchen
-    Name3: Märzveilchen
-    ordnung: Veilchenartige
-    ordnung-lt: Violales
-    familie: Veilchengewächse
-    familie-lt: Violaceae
-    gattung: Viola
-    art: odorata
-    sorte: ""
-    winterhart: true
+    gattung: Centella
+    ordnung-lt: Apiales
     staude: false
-    preis: C
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Veilchenartige
     jahr: e
-    extraNamen:
-      - Duftveilchen
+    art: odorata
+    familie-lt: Violaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Märzveilchen
     synonyme:
       - Wohlriechendes Veilchen
-  - name: Basilienkraut
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Ocimum
-    art: kilimandscharicum
-    sorte: "'AFRICAN BLUE'"
-    winterhart: false
-    staude: false
-    preis: B
-    karlsgarten: false
-    jahr: "3"
-  - name: Kalmus
-    ordnung: Kalmusartige
-    ordnung-lt: Acorales
-    familie: Kalmusgewächse
-    familie-lt: Acoraceae
-    gattung: Acorus
-    art: calamus
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: D
-    karlsgarten: false
-    jahr: e
-  - name: Bananenminze
-    ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Mentha
-    art: arvensis
-    sorte: "`Banana´"
-    winterhart: true
-    staude: true
-    preis: B
-    karlsgarten: false
-    jahr: ""
-  - name: Odermennig
-    ordnung: Rosenartige
-    ordnung-lt: Rosales
-    familie: Rosengewächse
-    familie-lt: Rosaceae
-    gattung: Agrimonia
-    art: eupatoria
-    sorte: ""
-    winterhart: true
-    staude: true
+    name: Veilchen
     preis: C
-    karlsgarten: false
-    jahr: "3"
-  - name: Schöllkraut
-    ordnung: Mohnartige
-    ordnung-lt: Papaverales
-    familie: Mohngewächse
-    familie-lt: Papaveraceae
-    gattung: Chelidonium
-    art: majus
-    sorte: ""
-    winterhart: false
+    familie: Veilchengewächse
+    extraNamen:
+      - Duftveilchen
+    gattung: Viola
+    ordnung-lt: Violales
     staude: false
-    preis: B
+  - winterhart: false
+    ordnung: Lippenblütlerartige
+    jahr: "3"
+    art: kilimandscharicum
+    familie-lt: Lamiaceae
+    sorte: "'AFRICAN BLUE'"
     karlsgarten: false
+    name: Basilienkraut
+    preis: B
+    familie: Lippenblütler
+    gattung: Ocimum
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: true
+    ordnung: Kalmusartige
+    jahr: e
+    art: calamus
+    familie-lt: Acoraceae
+    sorte: ""
+    karlsgarten: false
+    name: Kalmus
+    preis: D
+    familie: Kalmusgewächse
+    gattung: Acorus
+    ordnung-lt: Acorales
+    staude: true
+  - winterhart: true
+    ordnung: Lippenblütlerartige
     jahr: ""
+    art: arvensis
+    familie-lt: Lamiaceae
+    sorte: "`Banana´"
+    karlsgarten: false
+    name: Bananenminze
+    preis: B
+    familie: Lippenblütler
+    gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: true
+  - winterhart: true
+    ordnung: Rosenartige
+    jahr: "3"
+    art: eupatoria
+    familie-lt: Rosaceae
+    sorte: ""
+    karlsgarten: false
+    name: Odermennig
+    preis: C
+    familie: Rosengewächse
+    gattung: Agrimonia
+    ordnung-lt: Rosales
+    staude: true
+  - winterhart: false
+    ordnung: Mohnartige
+    jahr: ""
+    art: majus
+    familie-lt: Papaveraceae
+    sorte: ""
+    karlsgarten: false
+    name: Schöllkraut
+    preis: B
+    familie: Mohngewächse
     extraNamen:
       - Warzenkraut
-  - name: Spitzwegerich
+    gattung: Chelidonium
+    ordnung-lt: Papaverales
+    staude: false
+  - winterhart: true
     ordnung: Wegerichartige
-    ordnung-lt: Plantaginales
-    familie: Wegerichgewächse
-    familie-lt: Plantaginaceae
-    gattung: Plantago
-    art: lanceolata
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: B
-    karlsgarten: false
     jahr: "3"
-  - name: Ammei
-    ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Trachyspermum
-    art: ammi
+    art: lanceolata
+    familie-lt: Plantaginaceae
     sorte: ""
-    winterhart: false
+    karlsgarten: false
+    name: Spitzwegerich
+    preis: B
+    familie: Wegerichgewächse
+    gattung: Plantago
+    ordnung-lt: Plantaginales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Doldenblütlerartige
     jahr: ""
+    art: ammi
+    familie-lt: Apiaceae
+    sorte: ""
+    karlsgarten: true
     synonyme:
       - Trachyspermum copticum
       - Ammi copticus
-  - name: Apfel
+    name: Ammei
+    preis: ""
+    familie: Doldengewächse
+    gattung: Trachyspermum
+    ordnung-lt: Apiales
+    staude: false
+  - winterhart: false
     ordnung: Rosenartige
-    ordnung-lt: Rosales
-    familie: Rosengewächse
-    familie-lt: Rosaceae
-    gattung: Malus
+    jahr: ""
     art: domestica
+    familie-lt: Rosaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Bärwurz
+    name: Apfel
+    preis: ""
+    familie: Rosengewächse
+    gattung: Malus
+    ordnung-lt: Rosales
+    staude: false
+  - winterhart: false
     ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Meum
+    jahr: ""
     art: athamanticum
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
-    jahr: ""
-  - name: Bergkümmel
-    ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
     familie-lt: Apiaceae
-    gattung: Laserpitium
-    art: siler
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
+    name: Bärwurz
+    preis: ""
+    familie: Doldengewächse
+    gattung: Meum
+    ordnung-lt: Apiales
+    staude: false
+  - winterhart: false
+    ordnung: Doldenblütlerartige
     jahr: ""
+    art: siler
+    familie-lt: Apiaceae
+    sorte: ""
+    karlsgarten: true
+    name: Bergkümmel
+    preis: ""
+    familie: Doldengewächse
     extraNamen:
       - Berglaserkraut
-  - name: Birne
+    gattung: Laserpitium
+    ordnung-lt: Apiales
+    staude: false
+  - winterhart: false
     ordnung: Rosenartige
-    ordnung-lt: Rosales
-    familie: Rosengewächse
-    familie-lt: Rosaceae
-    gattung: Pyrus
+    jahr: ""
     art: communis
+    familie-lt: Rosaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Erbse
+    name: Birne
+    preis: ""
+    familie: Rosengewächse
+    gattung: Pyrus
+    ordnung-lt: Rosales
+    staude: false
+  - winterhart: false
     ordnung: Schmellterlingsblütenartige
-    ordnung-lt: Fabales
-    familie: Hülsenfrüchtler
-    familie-lt: Fabaceae
-    gattung: Pisum
+    jahr: ""
     art: sativum
+    familie-lt: Fabaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Esskastanie
+    name: Erbse
+    preis: ""
+    familie: Hülsenfrüchtler
+    gattung: Pisum
+    ordnung-lt: Fabales
+    staude: false
+  - winterhart: false
     ordnung: Buchenartige
-    ordnung-lt: Fagales
-    familie: Buchengewächse
-    familie-lt: Fagaceae
-    gattung: Castanea
+    jahr: ""
     art: sativa
+    familie-lt: Fagaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Feige
+    name: Esskastanie
+    preis: ""
+    familie: Buchengewächse
+    gattung: Castanea
+    ordnung-lt: Fagales
+    staude: false
+  - winterhart: false
     ordnung: Brennesselartige
-    ordnung-lt: Urticales
-    familie: Maulbeergewächse
-    familie-lt: Moraceae
-    gattung: Ficus
+    jahr: ""
     art: carica
+    familie-lt: Moraceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Flaschenkürbis
+    name: Feige
+    preis: ""
+    familie: Maulbeergewächse
+    gattung: Ficus
+    ordnung-lt: Urticales
+    staude: false
+  - winterhart: false
     ordnung: Veilchenartige
-    ordnung-lt: Violales
-    familie: Kürbisgewächse
-    familie-lt: Cucurbitaceae
-    gattung: Lagenaria
-    art: siceraria
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
     jahr: ""
-    extraNamen:
-      - Kalebasse
+    art: siceraria
+    familie-lt: Cucurbitaceae
+    sorte: ""
+    karlsgarten: true
     synonyme:
       - Cucurbita lagenaria
-  - name: Griechisch Heu
-    ordnung: Schmellterlingsblütenartige
-    ordnung-lt: Fabales
-    familie: Hülsenfrüchtler
-    familie-lt: Fabaceae
-    gattung: Trigonella
-    art: foenum-graecum
-    sorte: ""
-    winterhart: false
-    staude: false
+    name: Flaschenkürbis
     preis: ""
-    karlsgarten: true
-    jahr: ""
-  - name: Gurke
-    ordnung: Veilchenartige
-    ordnung-lt: Violales
     familie: Kürbisgewächse
-    familie-lt: Cucurbitaceae
-    gattung: Cucumis
-    art: sativus
-    sorte: ""
-    winterhart: false
+    extraNamen:
+      - Kalebasse
+    gattung: Lagenaria
+    ordnung-lt: Violales
     staude: false
-    preis: ""
+  - winterhart: false
+    ordnung: Schmellterlingsblütenartige
+    jahr: ""
+    art: foenum-graecum
+    familie-lt: Fabaceae
+    sorte: ""
     karlsgarten: true
+    name: Griechisch Heu
+    preis: ""
+    familie: Hülsenfrüchtler
+    gattung: Trigonella
+    ordnung-lt: Fabales
+    staude: false
+  - winterhart: false
+    ordnung: Veilchenartige
     jahr: e
-  - name: Haselnuss
+    art: sativus
+    familie-lt: Cucurbitaceae
+    sorte: ""
+    karlsgarten: true
+    name: Gurke
+    preis: ""
+    familie: Kürbisgewächse
+    gattung: Cucumis
+    ordnung-lt: Violales
+    staude: false
+  - winterhart: true
     ordnung: Buchenartige
-    ordnung-lt: Fagales
-    familie: Birkengewächse
-    familie-lt: Betulaceae
-    gattung: Corylus
+    jahr: ""
     art: avellana
+    familie-lt: Betulaceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Hauswurz
+    name: Haselnuss
+    preis: ""
+    familie: Birkengewächse
+    gattung: Corylus
+    ordnung-lt: Fagales
+    staude: false
+  - winterhart: true
     ordnung: Steinbrechartige
-    ordnung-lt: Saxifragales
-    familie: Dickblattgewächse
-    familie-lt: Crassulaceae
-    gattung: Sempervivum
-    art: tectorum
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: ""
-    karlsgarten: true
     jahr: ""
+    art: tectorum
+    familie-lt: Crassulaceae
+    sorte: ""
+    karlsgarten: true
+    name: Hauswurz
+    preis: ""
+    familie: Dickblattgewächse
     extraNamen:
       - Dach-Hauswurz
-  - name: Helmbohne
-    ordnung: Schmellterlingsblütenartige
-    ordnung-lt: Fabales
-    familie: Hülsenfrüchtler
-    familie-lt: Fabaceae
-    gattung: Lablab
-    art: purpureus
-    sorte: ""
-    winterhart: false
+    gattung: Sempervivum
+    ordnung-lt: Saxifragales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Schmellterlingsblütenartige
     jahr: e
-    extraNamen:
-      - Faselbohne
+    art: purpureus
+    familie-lt: Fabaceae
+    sorte: ""
+    karlsgarten: true
     synonyme:
       - Dolichos lablab
-  - name: Weberkarde
-    ordnung: Kardenartige
-    ordnung-lt: Dipsacales
-    familie: Kardengewächse
-    familie-lt: Dipsacaceae
-    gattung: Dipsacus
-    art: sativus
-    sorte: ""
-    winterhart: true
-    staude: false
+    name: Helmbohne
     preis: ""
-    karlsgarten: true
-    jahr: z
-  - name: Kardone
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Cynara
-    art: cardunculus
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
-    jahr: ""
-  - name: Käsepappel
-    ordnung: Malvenartige
-    ordnung-lt: Malvales
-    familie: Malvengewächse
-    familie-lt: Malvaceae
-    gattung: Malva
-    art: neglecta
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
-    jahr: z
+    familie: Hülsenfrüchtler
     extraNamen:
-      - Wegmalve
+      - Faselbohne
+    gattung: Lablab
+    ordnung-lt: Fabales
+    staude: false
+  - winterhart: true
+    ordnung: Kardenartige
+    jahr: z
+    art: sativus
+    familie-lt: Dipsacaceae
+    sorte: ""
+    karlsgarten: true
+    name: Weberkarde
+    preis: ""
+    familie: Kardengewächse
+    gattung: Dipsacus
+    ordnung-lt: Dipsacales
+    staude: false
+  - winterhart: false
+    ordnung: Asternartige
+    jahr: ""
+    art: cardunculus
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: true
+    name: Kardone
+    preis: ""
+    familie: Korbblütler
+    gattung: Cynara
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: false
+    ordnung: Malvenartige
+    jahr: z
+    art: neglecta
+    familie-lt: Malvaceae
+    sorte: ""
+    karlsgarten: true
     synonyme:
       - Malva neglecta
-  - name: Kichererbse
+    name: Käsepappel
+    preis: ""
+    familie: Malvengewächse
+    extraNamen:
+      - Wegmalve
+    gattung: Malva
+    ordnung-lt: Malvales
+    staude: false
+  - winterhart: false
     ordnung: Schmetterlingsblütenartige
-    ordnung-lt: Fabales
-    familie: Hülsenfrüchtler
-    familie-lt: Fabaceae
-    gattung: Cicer
-    art: arietinum
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
     jahr: e
-  - name: Sauerkirsche
-    ordnung: Rosenartige
-    ordnung-lt: Rosales
-    familie: Rosengewächse
-    familie-lt: Rosaceae
-    gattung: Prunus
-    art: cerasus
+    art: arietinum
+    familie-lt: Fabaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
+    name: Kichererbse
+    preis: ""
+    familie: Hülsenfrüchtler
+    gattung: Cicer
+    ordnung-lt: Fabales
+    staude: false
+  - winterhart: false
+    ordnung: Rosenartige
     jahr: ""
+    art: cerasus
+    familie-lt: Rosaceae
+    sorte: ""
+    karlsgarten: true
+    name: Sauerkirsche
+    preis: ""
+    familie: Rosengewächse
     extraNamen:
       - Weichsel
-  - name: Süßkirsche
-    ordnung: Rosenartige
-    ordnung-lt: Rosales
-    familie: Rosengewächse
-    familie-lt: Rosaceae
     gattung: Prunus
-    art: avium
-    sorte: ""
-    winterhart: false
+    ordnung-lt: Rosales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Rosenartige
     jahr: ""
+    art: avium
+    familie-lt: Rosaceae
+    sorte: ""
+    karlsgarten: true
+    name: Süßkirsche
+    preis: ""
+    familie: Rosengewächse
     extraNamen:
       - Vogelkirsche
-  - name: Große Klette
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Arctium
-    art: lappa
-    sorte: ""
-    winterhart: false
+    gattung: Prunus
+    ordnung-lt: Rosales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Asternartige
     jahr: ""
+    art: lappa
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: true
+    name: Große Klette
+    preis: ""
+    familie: Korbblütler
     extraNamen:
       - Klette
-  - name: Knoblauch
-    ordnung: Spargelartige
-    ordnung-lt: Asparagales
-    familie: Lauchgewächse
-    familie-lt: Alliaceae
-    gattung: Allium
-    art: sativum
-    sorte: ""
-    winterhart: false
+    gattung: Arctium
+    ordnung-lt: Asterales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Spargelartige
     jahr: ""
+    art: sativum
+    familie-lt: Alliaceae
+    sorte: ""
+    karlsgarten: true
+    name: Knoblauch
+    preis: ""
+    familie: Lauchgewächse
     extraNamen:
       - Knofel
-  - name: Schlangenknöterich
-    ordnung: Kapernartige
-    ordnung-lt: Capparales
-    familie: Kreuzblütengewächse
-    familie-lt: Brassicaceae
-    gattung: Bistorta
-    art: officinalis
-    sorte: ""
-    Varietät: officinalis
-    winterhart: false
+    gattung: Allium
+    ordnung-lt: Asparagales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Kapernartige
     jahr: ""
-    extraNamen:
-      - Schlangenwiesenknöterich
+    Varietät: officinalis
+    art: officinalis
+    familie-lt: Brassicaceae
+    sorte: ""
+    karlsgarten: true
     synonyme:
       - Polygonum bistorta
-  - name: Kohl
-    ordnung: Kapernartige
-    ordnung-lt: Capparales
-    familie: Kreuzblütengewächse
-    familie-lt: Brassicaceae
-    gattung: Brassica
-    art: oleracea
-    sorte: ""
-    winterhart: false
-    staude: false
+    name: Schlangenknöterich
     preis: ""
-    karlsgarten: true
-    jahr: ""
-  - name: Kohlrabi
-    ordnung: Kapernartige
-    ordnung-lt: Capparales
     familie: Kreuzblütengewächse
-    familie-lt: Brassicaceae
-    gattung: Brassica
+    extraNamen:
+      - Schlangenwiesenknöterich
+    gattung: Bistorta
+    ordnung-lt: Capparales
+    staude: false
+  - winterhart: false
+    ordnung: Kapernartige
+    jahr: ""
     art: oleracea
+    familie-lt: Brassicaceae
     sorte: ""
+    karlsgarten: true
+    name: Kohl
+    preis: ""
+    familie: Kreuzblütengewächse
+    gattung: Brassica
+    ordnung-lt: Capparales
+    staude: false
+  - winterhart: false
+    ordnung: Kapernartige
+    jahr: ""
     Varietät: gongylodes
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
-    jahr: ""
-  - name: Koloquinthe
-    ordnung: Veilchenartige
-    ordnung-lt: Violales
-    familie: Kürbisgewächse
-    familie-lt: Cucurbitaceae
-    gattung: Citrullus
-    art: colocynthis
+    art: oleracea
+    familie-lt: Brassicaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
+    name: Kohlrabi
+    preis: ""
+    familie: Kreuzblütengewächse
+    gattung: Brassica
+    ordnung-lt: Capparales
+    staude: false
+  - winterhart: false
+    ordnung: Veilchenartige
     jahr: ""
+    art: colocynthis
+    familie-lt: Cucurbitaceae
+    sorte: ""
+    karlsgarten: true
+    name: Koloquinthe
+    preis: ""
+    familie: Kürbisgewächse
     extraNamen:
       - Bittermelone
-  - name: Kostuswurzel
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Saussurea
-    art: costus
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
-    jahr: ""
-  - name: Kreuzkümmel
-    ordnung: Veilchenartige
+    gattung: Citrullus
     ordnung-lt: Violales
-    familie: Kürbisgewächse
-    familie-lt: Cucurbitaceae
-    gattung: Cuminum
+    staude: false
+  - winterhart: false
+    ordnung: Asternartige
+    jahr: ""
+    art: costus
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: true
+    name: Kostuswurzel
+    preis: ""
+    familie: Korbblütler
+    gattung: Saussurea
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: false
+    ordnung: Veilchenartige
+    jahr: ""
     art: cyminum
+    familie-lt: Cucurbitaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Kuhbohne
+    name: Kreuzkümmel
+    preis: ""
+    familie: Kürbisgewächse
+    gattung: Cuminum
+    ordnung-lt: Violales
+    staude: false
+  - winterhart: false
     ordnung: Schmetterlingsblütenartige
-    ordnung-lt: Fabales
-    familie: Hülsenfrüchtler
-    familie-lt: Fabaceae
-    gattung: Vigna
-    art: unguiculata
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
     jahr: ""
+    art: unguiculata
+    familie-lt: Fabaceae
+    sorte: ""
+    karlsgarten: true
+    name: Kuhbohne
+    preis: ""
+    familie: Hülsenfrüchtler
     extraNamen:
       - Spargelbohne
-  - name: Lattich
-    Name3: Grüner Salat
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Lactuca
-    art: sativa
-    sorte: ""
-    winterhart: false
+    gattung: Vigna
+    ordnung-lt: Fabales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Asternartige
     jahr: ""
+    art: sativa
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: true
+    Name3: Grüner Salat
+    name: Lattich
+    preis: ""
+    familie: Korbblütler
     extraNamen:
       - Gartenlattich
-  - name: Giftlattich
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
     gattung: Lactuca
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: false
+    ordnung: Asternartige
+    jahr: ""
     art: virosa
+    familie-lt: Asteraceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Winterlauch
-    Name3: Breitlauch
+    name: Giftlattich
+    preis: ""
+    familie: Korbblütler
+    gattung: Lactuca
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: false
     ordnung: Spargelartige
-    ordnung-lt: Asparagales
-    familie: Lauchgewächse
-    familie-lt: Alliaceae
-    gattung: Allium
-    art: porrum
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
     jahr: ""
+    art: porrum
+    familie-lt: Alliaceae
+    sorte: ""
+    karlsgarten: true
+    Name3: Breitlauch
+    name: Winterlauch
+    preis: ""
+    familie: Lauchgewächse
     extraNamen:
       - Lauch
-  - name: Madonnenlilie
-    ordnung: Lilienartige
-    ordnung-lt: Liliales
-    familie: Liliengewächse
-    familie-lt: Liliaceae
-    gattung: Lilium
-    art: candidum
-    sorte: ""
-    winterhart: false
+    gattung: Allium
+    ordnung-lt: Asparagales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Lilienartige
     jahr: ""
+    art: candidum
+    familie-lt: Liliaceae
+    sorte: ""
+    karlsgarten: true
+    name: Madonnenlilie
+    preis: ""
+    familie: Liliengewächse
     extraNamen:
       - Weiße Lilie
-  - name: Mandel
-    ordnung: Rosenartige
-    ordnung-lt: Rosales
-    familie: Rosengewächse
-    familie-lt: Rosaceae
-    gattung: Prunus
-    art: dulcis
-    sorte: ""
-    winterhart: false
+    gattung: Lilium
+    ordnung-lt: Liliales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Rosenartige
     jahr: ""
+    art: dulcis
+    familie-lt: Rosaceae
+    sorte: ""
+    karlsgarten: true
+    name: Mandel
+    preis: ""
+    familie: Rosengewächse
     extraNamen:
       - Mandelbaum
-  - name: Mangold
+    gattung: Prunus
+    ordnung-lt: Rosales
+    staude: false
+  - winterhart: false
     ordnung: Nelkenartige
-    ordnung-lt: Caryophyllales
-    familie: Gänsefußgewächse
-    familie-lt: Chenopodiaceae
-    gattung: Beta
-    art: vulgaris
-    sorte: ""
+    jahr: ""
     Varietät: cicla
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
-    jahr: ""
-  - name: Schwarze Maulbeere
-    ordnung: Brennesselartige
-    ordnung-lt: Urticales
-    familie: Maulbeergewächse
-    familie-lt: Moraceae
-    gattung: Morus
-    art: nigra
+    art: vulgaris
+    familie-lt: Chenopodiaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
+    name: Mangold
+    preis: ""
+    familie: Gänsefußgewächse
+    gattung: Beta
+    ordnung-lt: Caryophyllales
+    staude: false
+  - winterhart: false
+    ordnung: Brennesselartige
     jahr: ""
+    art: nigra
+    familie-lt: Moraceae
+    sorte: ""
+    karlsgarten: true
+    name: Schwarze Maulbeere
+    preis: ""
+    familie: Maulbeergewächse
     extraNamen:
       - Maulbeere
-  - name: Meerzwiebel
-    Name3: weiße Meerzwiebel
-    ordnung: Spargelartige
-    ordnung-lt: Asparagales
-    familie: Hyazinthengewächse
-    familie-lt: Hyacinthaceae
-    gattung: Urginea
-    art: maritima
-    sorte: ""
-    winterhart: false
+    gattung: Morus
+    ordnung-lt: Urticales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Spargelartige
     jahr: ""
-    extraNamen:
-      - echte Meerzwiebel
+    art: maritima
+    familie-lt: Hyacinthaceae
+    sorte: ""
+    karlsgarten: true
+    Name3: weiße Meerzwiebel
     synonyme:
       - Scilla
-  - name: Meier
-    ordnung: Nelkenartige
-    ordnung-lt: Caryophyllales
-    familie: Fuchsschwanzgewächse
-    familie-lt: Amaranthaceae
-    gattung: Amaranthus
-    art: blitum
-    sorte: ""
-    winterhart: false
-    staude: false
+    name: Meerzwiebel
     preis: ""
-    karlsgarten: true
+    familie: Hyazinthengewächse
+    extraNamen:
+      - echte Meerzwiebel
+    gattung: Urginea
+    ordnung-lt: Asparagales
+    staude: false
+  - winterhart: false
+    ordnung: Nelkenartige
     jahr: e
-  - name: Gartenmelde
-    ordnung: Nelkenartige
-    ordnung-lt: Caryophyllales
-    familie: Gänsefußgewächse
-    familie-lt: Chenopodiaceae
-    gattung: Atriples
-    art: hortensis
+    art: blitum
+    familie-lt: Amaranthaceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: ""
     karlsgarten: true
+    name: Meier
+    preis: ""
+    familie: Fuchsschwanzgewächse
+    gattung: Amaranthus
+    ordnung-lt: Caryophyllales
+    staude: false
+  - winterhart: true
+    ordnung: Nelkenartige
     jahr: ""
+    art: hortensis
+    familie-lt: Chenopodiaceae
+    sorte: ""
+    karlsgarten: true
+    name: Gartenmelde
+    preis: ""
+    familie: Gänsefußgewächse
     extraNamen:
       - Spanischer Salat
-  - name: Rossminze
+    gattung: Atriples
+    ordnung-lt: Caryophyllales
+    staude: false
+  - winterhart: false
     ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Mentha
+    jahr: ""
     art: longifolia
+    familie-lt: Lamiaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Mispel
+    name: Rossminze
+    preis: ""
+    familie: Lippenblütler
+    gattung: Mentha
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
     ordnung: Rosenartige
-    ordnung-lt: Rosales
-    familie: Rosengewächse
-    familie-lt: Rosaceae
-    gattung: Mespilus
+    jahr: ""
     art: germanica
+    familie-lt: Rosaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Schlafmohn
+    name: Mispel
+    preis: ""
+    familie: Rosengewächse
+    gattung: Mespilus
+    ordnung-lt: Rosales
+    staude: false
+  - winterhart: false
     ordnung: Mohnartige
-    ordnung-lt: Papaverales
-    familie: Mohngewächse
-    familie-lt: Papaveraceae
-    gattung: Papaver
+    jahr: ""
     art: somniferum
+    familie-lt: Papaveraceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Möhre
+    name: Schlafmohn
+    preis: ""
+    familie: Mohngewächse
+    gattung: Papaver
+    ordnung-lt: Papaverales
+    staude: false
+  - winterhart: false
     ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Daucus
-    art: carota
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
     jahr: ""
+    art: carota
+    familie-lt: Apiaceae
+    sorte: ""
+    karlsgarten: true
+    name: Möhre
+    preis: ""
+    familie: Doldengewächse
     extraNamen:
       - Karotte
-  - name: Mutterwurz
-    ordnung: Doldenblütlerartige
+    gattung: Daucus
     ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Ligusticum
+    staude: false
+  - winterhart: false
+    ordnung: Doldenblütlerartige
+    jahr: ""
     art: mutellina
+    familie-lt: Apiaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Ölrauke
-    Name3: Senfrauke
+    name: Mutterwurz
+    preis: ""
+    familie: Doldengewächse
+    gattung: Ligusticum
+    ordnung-lt: Apiales
+    staude: false
+  - winterhart: false
     ordnung: Kapernartige
-    ordnung-lt: Capparales
-    familie: Kreuzblütengewächse
-    familie-lt: Brassicaceae
-    gattung: Eruca
-    art: stiva
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
     jahr: ""
-    extraNamen:
-      - Rukola
+    art: stiva
+    familie-lt: Brassicaceae
+    sorte: ""
+    karlsgarten: true
+    Name3: Senfrauke
     synonyme:
       - Gartensenfrauke
       - Rucola
-  - name: Pastinak
-    Name3: Hammelsmöhre
-    ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Pastinaca
-    art: sativa
-    sorte: ""
-    winterhart: false
-    staude: false
+    name: Ölrauke
     preis: ""
-    karlsgarten: true
+    familie: Kreuzblütengewächse
+    extraNamen:
+      - Rukola
+    gattung: Eruca
+    ordnung-lt: Capparales
+    staude: false
+  - winterhart: false
+    ordnung: Doldenblütlerartige
     jahr: z
+    art: sativa
+    familie-lt: Apiaceae
+    sorte: ""
+    karlsgarten: true
+    Name3: Hammelsmöhre
+    name: Pastinak
+    preis: ""
+    familie: Doldengewächse
     extraNamen:
       - Echter Pastinak
-  - name: Pfirsich
+    gattung: Pastinaca
+    ordnung-lt: Apiales
+    staude: false
+  - winterhart: false
     ordnung: Rosenartige
-    ordnung-lt: Rosales
-    familie: Rosengewächse
-    familie-lt: Rosaceae
-    gattung: Prunus
-    art: persica
-    sorte: ""
+    jahr: ""
     Varietät: persica
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
-    jahr: ""
-  - name: Pflaume
-    ordnung: Rosenartige
-    ordnung-lt: Rosales
-    familie: Rosengewächse
+    art: persica
     familie-lt: Rosaceae
-    gattung: Prunus
-    art: domestica
     sorte: ""
-    Varietät: domestica
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
+    name: Pfirsich
+    preis: ""
+    familie: Rosengewächse
+    gattung: Prunus
+    ordnung-lt: Rosales
+    staude: false
+  - winterhart: false
+    ordnung: Rosenartige
     jahr: ""
+    Varietät: domestica
+    art: domestica
+    familie-lt: Rosaceae
+    sorte: ""
+    karlsgarten: true
+    name: Pflaume
+    preis: ""
+    familie: Rosengewächse
     extraNamen:
       - Zwetschge
-  - name: Pinie
-    ordnung: Kiefernartige
-    ordnung-lt: Pinales
-    familie: Kieferngewächse
-    familie-lt: Pinaceae
-    gattung: Pinus
-    art: pinea
-    sorte: ""
-    winterhart: true
+    gattung: Prunus
+    ordnung-lt: Rosales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: true
+    ordnung: Kiefernartige
     jahr: ""
+    art: pinea
+    familie-lt: Pinaceae
+    sorte: ""
+    karlsgarten: true
+    name: Pinie
+    preis: ""
+    familie: Kieferngewächse
     extraNamen:
       - Schirmkiefer
-  - name: Quitte
-    ordnung: Rosenartige
-    ordnung-lt: Rosales
-    familie: Rosengewächse
-    familie-lt: Rosaceae
-    gattung: Cydonia
-    art: oblonga
-    sorte: ""
-    winterhart: false
+    gattung: Pinus
+    ordnung-lt: Pinales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Rosenartige
     jahr: ""
+    art: oblonga
+    familie-lt: Rosaceae
+    sorte: ""
+    karlsgarten: true
+    name: Quitte
+    preis: ""
+    familie: Rosengewächse
     extraNamen:
       - Echte Quitte
-  - name: Rettich
-    Name3: Gartenrettich
-    ordnung: Kapernartige
-    ordnung-lt: Capparales
-    familie: Kreuzblütengewächse
-    familie-lt: Brassicaceae
-    gattung: Raphanus
-    art: sativus
-    sorte: ""
-    Varietät: niger
-    winterhart: false
+    gattung: Cydonia
+    ordnung-lt: Rosales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Kapernartige
     jahr: e
+    Varietät: niger
+    art: sativus
+    familie-lt: Brassicaceae
+    sorte: ""
+    karlsgarten: true
+    Name3: Gartenrettich
+    name: Rettich
+    preis: ""
+    familie: Kreuzblütengewächse
     extraNamen:
       - Radi
-  - name: Hundsrose
+    gattung: Raphanus
+    ordnung-lt: Capparales
+    staude: false
+  - winterhart: true
     ordnung: Rosenartige
-    ordnung-lt: Rosales
-    familie: Rosengewächse
-    familie-lt: Rosaceae
-    gattung: Rosa
+    jahr: ""
     art: canina
+    familie-lt: Rosaceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Sadebaum
-    Name3: Stinkwacholder
+    name: Hundsrose
+    preis: ""
+    familie: Rosengewächse
+    gattung: Rosa
+    ordnung-lt: Rosales
+    staude: false
+  - winterhart: true
     ordnung: Kiefernartige
-    ordnung-lt: Pinales
-    familie: Zypressengewächse
-    familie-lt: Cupressaceae
-    gattung: Juniperus
-    art: sabina
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: ""
-    karlsgarten: true
     jahr: ""
+    art: sabina
+    familie-lt: Cupressaceae
+    sorte: ""
+    karlsgarten: true
+    Name3: Stinkwacholder
+    name: Sadebaum
+    preis: ""
+    familie: Zypressengewächse
     extraNamen:
       - Wacholder
-  - name: Saubohne
-    ordnung: Schmetterlingsblütenartige
-    ordnung-lt: Fabales
-    familie: Hülsenfrüchtler
-    familie-lt: Fabaceae
-    gattung: Vicia
-    art: faba
-    sorte: ""
-    Varietät: faba
-    winterhart: false
+    gattung: Juniperus
+    ordnung-lt: Pinales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Schmetterlingsblütenartige
     jahr: e
+    Varietät: faba
+    art: faba
+    familie-lt: Fabaceae
+    sorte: ""
+    karlsgarten: true
+    name: Saubohne
+    preis: ""
+    familie: Hülsenfrüchtler
     extraNamen:
       - Puffbohne
-  - name: Schalotte
+    gattung: Vicia
+    ordnung-lt: Fabales
+    staude: false
+  - winterhart: true
     ordnung: Spargelartige
-    ordnung-lt: Asparagales
-    familie: Lauchgewächse
-    familie-lt: Alliaceae
-    gattung: Allium
-    art: cepa
-    sorte: ""
+    jahr: ""
     Varietät: Aggregatum Grp.
-    winterhart: true
-    staude: false
-    preis: ""
+    art: cepa
+    familie-lt: Alliaceae
+    sorte: ""
     karlsgarten: true
-    jahr: ""
-  - name: Schwarzkümmel
+    name: Schalotte
+    preis: ""
+    familie: Lauchgewächse
+    gattung: Allium
+    ordnung-lt: Asparagales
+    staude: false
+  - winterhart: false
     ordnung: Hahnenfußartige
-    ordnung-lt: Ranunculales
-    familie: Hahnenfußgewächse
-    familie-lt: Ranunculaceae
-    gattung: Nigella
-    art: sativa
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
     jahr: e
-  - name: Deutsche Schwertlilie
+    art: sativa
+    familie-lt: Ranunculaceae
+    sorte: ""
+    karlsgarten: true
+    name: Schwarzkümmel
+    preis: ""
+    familie: Hahnenfußgewächse
+    gattung: Nigella
+    ordnung-lt: Ranunculales
+    staude: false
+  - winterhart: true
     ordnung: Lilienartige
-    ordnung-lt: Liliales
-    familie: Schwertliliengewächse
-    familie-lt: Iridaceae
-    gattung: Iris
-    art: x germanica
-    sorte: ""
-    Varietät: germanica
-    winterhart: true
-    staude: false
-    preis: ""
-    karlsgarten: true
     jahr: ""
-  - name: Sellerie
-    Name3: Eppich
-    ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldengewächse
-    familie-lt: Apiaceae
-    gattung: Apium
-    art: graveolens
+    Varietät: germanica
+    art: x germanica
+    familie-lt: Iridaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
+    name: Deutsche Schwertlilie
+    preis: ""
+    familie: Schwertliliengewächse
+    gattung: Iris
+    ordnung-lt: Liliales
+    staude: false
+  - winterhart: false
+    ordnung: Doldenblütlerartige
     jahr: z
+    art: graveolens
+    familie-lt: Apiaceae
+    sorte: ""
+    karlsgarten: true
+    Name3: Eppich
+    name: Sellerie
+    preis: ""
+    familie: Doldengewächse
     extraNamen:
       - Zeller
-  - name: Senf
-    ordnung: Kapernartige
-    ordnung-lt: Capperales
-    familie: Kreuzblütengewächse
-    familie-lt: Brassicaceae
-    gattung: Sinapis
-    art: alba
-    sorte: ""
-    winterhart: false
+    gattung: Apium
+    ordnung-lt: Apiales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Kapernartige
     jahr: ""
+    art: alba
+    familie-lt: Brassicaceae
+    sorte: ""
+    karlsgarten: true
+    name: Senf
+    preis: ""
+    familie: Kreuzblütengewächse
     extraNamen:
       - Weißer Senf
-  - name: Siegwurz
-    ordnung: Lilienartige
-    ordnung-lt: Liliales
-    familie: Schwertliliengewächse
-    familie-lt: Iridaceae
-    gattung: Gladiolus
-    art: italicus
-    sorte: ""
-    winterhart: true
+    gattung: Sinapis
+    ordnung-lt: Capperales
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: true
+    ordnung: Lilienartige
     jahr: ""
+    art: italicus
+    familie-lt: Iridaceae
+    sorte: ""
+    karlsgarten: true
+    name: Siegwurz
+    preis: ""
+    familie: Schwertliliengewächse
     extraNamen:
       - Saat-Siegwurz
-  - name: Europäische Sonnenwende
+    gattung: Gladiolus
+    ordnung-lt: Liliales
+    staude: false
+  - winterhart: false
     ordnung: Nachtschattenartige
-    ordnung-lt: Solanales
-    familie: Rauhblattgewächse
-    familie-lt: Boraginaceae
-    gattung: Heliotropium
-    art: europaeum
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
     jahr: e
-  - name: Speierling
+    art: europaeum
+    familie-lt: Boraginaceae
+    sorte: ""
+    karlsgarten: true
+    name: Europäische Sonnenwende
+    preis: ""
+    familie: Rauhblattgewächse
+    gattung: Heliotropium
+    ordnung-lt: Solanales
+    staude: false
+  - winterhart: true
     ordnung: Rosenartige
-    ordnung-lt: Rosales
-    familie: Rosengewächse
-    familie-lt: Rosaceae
-    gattung: Sorbus
-    art: domestica
-    sorte: ""
-    winterhart: true
-    staude: false
-    preis: ""
-    karlsgarten: true
     jahr: ""
-  - name: Stoppelrübe
-    Name3: Wasserrübe
-    ordnung: Kapernartige
-    ordnung-lt: Capparales
-    familie: Kreuzblütengewächse
-    familie-lt: Brassicaceae
-    gattung: Brassica
-    art: rapa
+    art: domestica
+    familie-lt: Rosaceae
     sorte: ""
-    Varietät: rapa
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
+    name: Speierling
+    preis: ""
+    familie: Rosengewächse
+    gattung: Sorbus
+    ordnung-lt: Rosales
+    staude: false
+  - winterhart: false
+    ordnung: Kapernartige
     jahr: z
-    extraNamen:
-      - Herbstrübe
+    Varietät: rapa
+    art: rapa
+    familie-lt: Brassicaceae
+    sorte: ""
+    karlsgarten: true
+    Name3: Wasserrübe
     synonyme:
       - Weiße Rübe
-  - name: Walnuss
+    name: Stoppelrübe
+    preis: ""
+    familie: Kreuzblütengewächse
+    extraNamen:
+      - Herbstrübe
+    gattung: Brassica
+    ordnung-lt: Capparales
+    staude: false
+  - winterhart: true
     ordnung: Walnussartige
-    ordnung-lt: Juglandales
-    familie: Walnussgewächse
-    familie-lt: Juglandaceae
-    gattung: Juglans
+    jahr: ""
     art: regia
+    familie-lt: Juglandaceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Wegwarte
+    name: Walnuss
+    preis: ""
+    familie: Walnussgewächse
+    gattung: Juglans
+    ordnung-lt: Juglandales
+    staude: false
+  - winterhart: false
     ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Cichorium
+    jahr: ""
     art: intybus
+    familie-lt: Asteraceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
-    jahr: ""
-  - name: Kreuzblättrige Wolfsmilch
+    name: Wegwarte
+    preis: ""
+    familie: Korbblütler
+    gattung: Cichorium
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: false
     ordnung: Wolfsmilchartige
-    ordnung-lt: Euphorbiales
-    familie: Wolfsmilchgewächse
-    familie-lt: Euphorbiaceae
-    gattung: Euphorbia
-    art: lathyrus
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: true
     jahr: z
-  - name: Weiße Zaunrübe
-    ordnung: Veilchenartige
-    ordnung-lt: Violales
-    familie: Kürbisgewächse
-    familie-lt: Cucurbitaceae
-    gattung: Bryonia
-    art: alba
+    art: lathyrus
+    familie-lt: Euphorbiaceae
     sorte: ""
-    winterhart: true
-    staude: false
-    preis: ""
     karlsgarten: true
+    name: Kreuzblättrige Wolfsmilch
+    preis: ""
+    familie: Wolfsmilchgewächse
+    gattung: Euphorbia
+    ordnung-lt: Euphorbiales
+    staude: false
+  - winterhart: true
+    ordnung: Veilchenartige
     jahr: ""
+    art: alba
+    familie-lt: Cucurbitaceae
+    sorte: ""
+    karlsgarten: true
+    name: Weiße Zaunrübe
+    preis: ""
+    familie: Kürbisgewächse
     extraNamen:
       - Schwarzfrüchtige Zaunrübe
-  - name: Zuckermelone
-    ordnung: Veilchenartige
+    gattung: Bryonia
     ordnung-lt: Violales
-    familie: Kürbisgewächse
-    familie-lt: Cucurbitaceae
-    gattung: Cucumis
-    art: melo
-    sorte: ""
-    Varietät: Cantalupensis Grp.
-    winterhart: false
     staude: false
-    preis: ""
-    karlsgarten: true
+  - winterhart: false
+    ordnung: Veilchenartige
     jahr: e
-  - name: Zwiebel
-    Name3: Sommerzwiebel
-    ordnung: Spargelartige
-    ordnung-lt: Asparagales
-    familie: Lauchgewächse
-    familie-lt: Alliaceae
-    gattung: Allium
-    art: cepa
+    Varietät: Cantalupensis Grp.
+    art: melo
+    familie-lt: Cucurbitaceae
     sorte: ""
-    Varietät: Cepa Grp.
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: true
+    name: Zuckermelone
+    preis: ""
+    familie: Kürbisgewächse
+    gattung: Cucumis
+    ordnung-lt: Violales
+    staude: false
+  - winterhart: false
+    ordnung: Spargelartige
     jahr: ""
+    Varietät: Cepa Grp.
+    art: cepa
+    familie-lt: Alliaceae
+    sorte: ""
+    karlsgarten: true
+    Name3: Sommerzwiebel
+    name: Zwiebel
+    preis: ""
+    familie: Lauchgewächse
     extraNamen:
       - Küchenzwiebel
-  - name: Austernpflanze
+    gattung: Allium
+    ordnung-lt: Asparagales
+    staude: false
+  - winterhart: false
     ordnung: Raublattartige
-    ordnung-lt: Boraginales
-    familie: Raublattgewächse
-    familie-lt: Boraginaceae
-    gattung: Mertensia
+    jahr: ""
     art: maritima
+    familie-lt: Boraginaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
-    jahr: ""
-  - name: steirisches Strauchbasilikum
+    name: Austernpflanze
+    preis: ""
+    familie: Raublattgewächse
+    gattung: Mertensia
+    ordnung-lt: Boraginales
+    staude: false
+  - winterhart: false
     ordnung: ""
-    ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: ""
+    jahr: ""
     art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: weißes Basilikum
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: steirisches Strauchbasilikum
+    preis: ""
+    familie: ""
     gattung: ""
-    art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: schwarzes Bilsenkraut
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
     familie-lt: ""
-    gattung: Hyoscyamus
+    sorte: ""
+    karlsgarten: false
+    name: weißes Basilikum
+    preis: ""
+    familie: ""
+    gattung: ""
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: niger
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: weißes Bilsenkraut
-    Name3: helles Bilsenkraut
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: Hyoscyamus
-    art: albus
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
+    name: schwarzes Bilsenkraut
+    preis: ""
+    familie: ""
+    gattung: Hyoscyamus
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
     jahr: ""
+    art: albus
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    Name3: helles Bilsenkraut
+    name: weißes Bilsenkraut
+    preis: ""
+    familie: ""
     extraNamen:
       - gelbes Bilsenkraut
-  - name: Blutwurz
-    ordnung: ""
+    gattung: Hyoscyamus
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Potentilla
-    art: erecta
-    sorte: ""
-    winterhart: false
     staude: false
-    preis: ""
-    karlsgarten: false
+  - winterhart: false
+    ordnung: ""
     jahr: ""
+    art: erecta
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Blutwurz
+    preis: ""
+    familie: ""
     extraNamen:
       - Tormentill
-  - name: Boatzkräutl
-    ordnung: ""
+    gattung: Potentilla
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Satureja
-    art: hortensis
-    sorte: ""
-    Varietät: Boatzkräutl
-    winterhart: false
     staude: false
-    preis: ""
-    karlsgarten: false
+  - winterhart: false
+    ordnung: ""
     jahr: e
+    Varietät: Boatzkräutl
+    art: hortensis
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Boatzkräutl
+    preis: ""
+    familie: ""
     extraNamen:
       - Bohnenkraut
-  - name: Chili
-    ordnung: ""
+    gattung: Satureja
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: ""
-    art: ""
-    sorte: ""
-    winterhart: false
     staude: false
-    preis: ""
-    karlsgarten: false
+  - winterhart: false
+    ordnung: ""
     jahr: e
-  - name: Cistrose
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Cistus
-    art: incanus
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: "3"
-  - name: Speisechrysantheme
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: ""
     art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: schmalblättrige Damiana
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: Turnera
+    sorte: ""
+    karlsgarten: false
+    name: Chili
+    preis: ""
+    familie: ""
+    gattung: ""
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: "3"
+    art: incanus
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Cistrose
+    preis: ""
+    familie: ""
+    gattung: Cistus
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Speisechrysantheme
+    preis: ""
+    familie: ""
+    gattung: ""
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: diffusa
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: großblättrige Damiana
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: schmalblättrige Damiana
+    preis: ""
+    familie: ""
     gattung: Turnera
-    art: ulmifolia
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Eiskraut
-    Name3: Herzblättrige Mittagsblume
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Aptenia
-    art: cordifolia
-    sorte: ""
-    winterhart: false
     staude: false
-    preis: ""
-    karlsgarten: false
+  - winterhart: false
+    ordnung: ""
     jahr: ""
+    art: ulmifolia
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: großblättrige Damiana
+    preis: ""
+    familie: ""
+    gattung: Turnera
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: cordifolia
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    Name3: Herzblättrige Mittagsblume
+    name: Eiskraut
+    preis: ""
+    familie: ""
     extraNamen:
       - ausdauerndes Eiskraut
-  - name: Engelwurz
-    ordnung: ""
+    gattung: Aptenia
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Angelica
-    art: archangelika
-    sorte: ""
-    winterhart: false
     staude: false
-    preis: ""
-    karlsgarten: false
+  - winterhart: false
+    ordnung: ""
     jahr: ""
+    art: archangelika
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Engelwurz
+    preis: ""
+    familie: ""
     extraNamen:
       - Angelika
-  - name: Färberwaid
-    ordnung: ""
+    gattung: Angelica
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: ""
-    art: ""
-    sorte: ""
-    winterhart: false
     staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Färberwau
+  - winterhart: false
     ordnung: ""
-    ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: ""
+    jahr: ""
     art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: indischer Flohsame
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Färberwaid
+    preis: ""
+    familie: ""
     gattung: ""
-    art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: echtes Herzgespann
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
     familie-lt: ""
-    gattung: Leonurus
+    sorte: ""
+    karlsgarten: false
+    name: Färberwau
+    preis: ""
+    familie: ""
+    gattung: ""
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: indischer Flohsame
+    preis: ""
+    familie: ""
+    gattung: ""
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: cardiaca
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Hirschwurzel
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: ""
+    sorte: ""
+    karlsgarten: false
+    name: echtes Herzgespann
+    preis: ""
+    familie: ""
+    gattung: Leonurus
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: ""
+    familie-lt: ""
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
-    jahr: ""
-  - name: Weberkarde
+    name: Hirschwurzel
+    preis: ""
+    familie: ""
+    gattung: ""
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
     ordnung: Kardenartige
-    ordnung-lt: Dipsacales
-    familie: Kardengewächse
-    familie-lt: Dipsacaceae
-    gattung: Dipsacus
-    art: sativus
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
     jahr: ""
+    art: sativus
+    familie-lt: Dipsacaceae
+    sorte: ""
+    karlsgarten: false
+    name: Weberkarde
+    preis: ""
+    familie: Kardengewächse
     extraNamen:
       - Karde
-  - name: Kardone
-    ordnung: Asternartige
-    ordnung-lt: Asterales
-    familie: Korbblütler
-    familie-lt: Asteraceae
-    gattung: Cynara
-    art: cardunculus
-    sorte: ""
-    winterhart: false
+    gattung: Dipsacus
+    ordnung-lt: Dipsacales
     staude: false
-    preis: ""
-    karlsgarten: false
+  - winterhart: false
+    ordnung: Asternartige
     jahr: ""
+    art: cardunculus
+    familie-lt: Asteraceae
+    sorte: ""
+    karlsgarten: false
+    name: Kardone
+    preis: ""
+    familie: Korbblütler
     extraNamen:
       - Cardy
-  - name: Knoblauchgamander
+    gattung: Cynara
+    ordnung-lt: Asterales
+    staude: false
+  - winterhart: false
     ordnung: Lippenblütlerartige
-    ordnung-lt: Lamiales
-    familie: Lippenblütler
-    familie-lt: Lamiaceae
-    gattung: Teucrium
+    jahr: ""
     art: scordium
+    familie-lt: Lamiaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
-    jahr: ""
-  - name: Bockshornklee
+    name: Knoblauchgamander
+    preis: ""
+    familie: Lippenblütler
+    gattung: Teucrium
+    ordnung-lt: Lamiales
+    staude: false
+  - winterhart: false
     ordnung: ""
-    ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Trigonella
+    jahr: ""
     art: foenum-graecum
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Schabzigerklee
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: ""
+    sorte: ""
+    karlsgarten: false
+    name: Bockshornklee
+    preis: ""
+    familie: ""
+    gattung: Trigonella
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Kresse
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Schabzigerklee
+    preis: ""
+    familie: ""
     gattung: ""
-    art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Kroatzbeere
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
     familie-lt: ""
-    gattung: Rubus
+    sorte: ""
+    karlsgarten: false
+    name: Kresse
+    preis: ""
+    familie: ""
+    gattung: ""
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: caesius
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: französischer Lavendel
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: ""
+    sorte: ""
+    karlsgarten: false
+    name: Kroatzbeere
+    preis: ""
+    familie: ""
+    gattung: Rubus
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: ""
+    familie-lt: ""
     sorte: GROSSO
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
-    jahr: ""
-  - name: Lein
-    ordnung: ""
-    ordnung-lt: ""
+    name: französischer Lavendel
+    preis: ""
     familie: ""
+    gattung: ""
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Lein
+    preis: ""
+    familie: ""
     gattung: Linum
-    art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Löffelkraut
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: ""
-    art: ""
-    sorte: ""
-    winterhart: false
     staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: moldawische Melisse
+  - winterhart: false
     ordnung: ""
-    ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: ""
+    jahr: ""
     art: ""
+    familie-lt: ""
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
+    name: Löffelkraut
+    preis: ""
+    familie: ""
+    gattung: ""
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
     jahr: e
-  - name: Meisterwurz
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: ""
     art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: kleine Katzenminze
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: Nepeta
+    sorte: ""
+    karlsgarten: false
+    name: moldawische Melisse
+    preis: ""
+    familie: ""
+    gattung: ""
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Meisterwurz
+    preis: ""
+    familie: ""
+    gattung: ""
+    ordnung-lt: ""
+    staude: false
+  - winterhart: true
+    ordnung: ""
+    jahr: ""
     art: faassenii
-    sorte: ""
-    winterhart: true
-    staude: true
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: kriechende Poleiminze
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: ""
-    art: ""
     sorte: ""
-    winterhart: true
-    staude: true
-    preis: ""
     karlsgarten: false
+    name: kleine Katzenminze
+    preis: ""
+    familie: ""
+    gattung: Nepeta
+    ordnung-lt: ""
+    staude: true
+  - winterhart: true
+    ordnung: ""
     jahr: "3"
-  - name: Nelkenwurz
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
+    art: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: kriechende Poleiminze
+    preis: ""
+    familie: ""
+    gattung: ""
+    ordnung-lt: ""
+    staude: true
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Nelkenwurz
+    preis: ""
+    familie: ""
     gattung: Geum
-    art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Olivenkraut
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Olivenkraut
+    preis: ""
+    familie: ""
     gattung: Santolina
-    art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Passionsblume
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Passiflora
-    art: ""
-    sorte: ""
-    winterhart: false
     staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: heilende Passionsblume
+  - winterhart: false
     ordnung: ""
-    ordnung-lt: ""
-    familie: ""
+    jahr: ""
+    art: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Passionsblume
+    preis: ""
+    familie: ""
     gattung: Passiflora
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: incarnata
+    familie-lt: ""
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
-    jahr: ""
-  - name: Bibernelle
+    name: heilende Passionsblume
+    preis: ""
+    familie: ""
+    gattung: Passiflora
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
     ordnung: Doldenblütlerartige
-    ordnung-lt: Apiales
-    familie: Doldenblütler
-    familie-lt: Apiaceae
-    gattung: Pimpinella
-    art: saxifraga
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
     jahr: ""
+    art: saxifraga
+    familie-lt: Apiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Bibernelle
+    preis: ""
+    familie: Doldenblütler
     extraNamen:
       - kleine Bibernelle
-  - name: Pilzkraut
+    gattung: Pimpinella
+    ordnung-lt: Apiales
+    staude: false
+  - winterhart: false
     ordnung: ""
-    ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Rungia
+    jahr: ""
     art: klossii
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: wilder Portulak
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Pilzkraut
+    preis: ""
+    familie: ""
+    gattung: Rungia
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: wilder Portulak
+    preis: ""
+    familie: ""
     gattung: Portulaca
-    art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Queller
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Salicornia
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: europaea
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Rizinus
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: Ricinus
+    sorte: ""
+    karlsgarten: false
+    name: Queller
+    preis: ""
+    familie: ""
+    gattung: Salicornia
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: communis
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Rosmarin ARP
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: ""
+    sorte: ""
+    karlsgarten: false
+    name: Rizinus
+    preis: ""
+    familie: ""
+    gattung: Ricinus
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: ""
+    familie-lt: ""
     sorte: ARP
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
-    jahr: ""
-  - name: Rosmarin Veitshöchheim
-    ordnung: ""
-    ordnung-lt: ""
+    name: Rosmarin ARP
+    preis: ""
     familie: ""
-    familie-lt: ""
     gattung: ""
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: ""
+    familie-lt: ""
     sorte: Veitshöchheim
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
-    jahr: ""
-  - name: Honigmelonensalbei
-    ordnung: ""
-    ordnung-lt: ""
+    name: Rosmarin Veitshöchheim
+    preis: ""
     familie: ""
-    familie-lt: ""
     gattung: ""
-    art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Johannisbeersalbei
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Honigmelonensalbei
+    preis: ""
+    familie: ""
     gattung: ""
-    art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: mexikanischer Salbei
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
     familie-lt: ""
-    gattung: Lepichinia
+    sorte: ""
+    karlsgarten: false
+    name: Johannisbeersalbei
+    preis: ""
+    familie: ""
+    gattung: ""
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: hastata
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Pfeffersalbei
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: ""
+    sorte: ""
+    karlsgarten: false
+    name: mexikanischer Salbei
+    preis: ""
+    familie: ""
+    gattung: Lepichinia
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Präriesalbei
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Pfeffersalbei
+    preis: ""
+    familie: ""
     gattung: ""
-    art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Silberblattsalbei
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Präriesalbei
+    preis: ""
+    familie: ""
     gattung: ""
-    art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: kleiner Sauerampfer
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Silberblattsalbei
+    preis: ""
+    familie: ""
     gattung: ""
-    art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Süssdolde
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: kleiner Sauerampfer
+    preis: ""
+    familie: ""
     gattung: ""
-    art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Mattenthymian
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Süssdolde
+    preis: ""
+    familie: ""
     gattung: ""
-    art: ""
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Tollkirsche
-    Name3: schwarze Tollkirsche
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: ""
     familie-lt: ""
-    gattung: Atropa
+    sorte: ""
+    karlsgarten: false
+    name: Mattenthymian
+    preis: ""
+    familie: ""
+    gattung: ""
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: belladonna
+    familie-lt: ""
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
-    jahr: ""
+    Name3: schwarze Tollkirsche
+    name: Tollkirsche
+    preis: ""
+    familie: ""
     extraNamen:
       - schwarzfrüchtige Tollkirsche
-  - name: Tüpfelfarn
-    ordnung: Tüpfelfarnartige
-    ordnung-lt: Polypodiales
-    familie: Tüpfelfarngewächse
-    familie-lt: Polypodiaceae
-    gattung: Polypodium
-    art: vulgare
-    sorte: ""
-    winterhart: true
+    gattung: Atropa
+    ordnung-lt: ""
     staude: false
-    preis: ""
-    karlsgarten: false
+  - winterhart: true
+    ordnung: Tüpfelfarnartige
     jahr: "3"
+    art: vulgare
+    familie-lt: Polypodiaceae
+    sorte: ""
+    karlsgarten: false
+    name: Tüpfelfarn
+    preis: ""
+    familie: Tüpfelfarngewächse
     extraNamen:
       - Engelsüß
-  - name: Alraune
+    gattung: Polypodium
+    ordnung-lt: Polypodiales
+    staude: false
+  - winterhart: false
     ordnung: ""
-    ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Mandragora
+    jahr: ""
     art: officinarum
+    familie-lt: ""
     sorte: ""
-    winterhart: false
-    staude: false
+    karlsgarten: false
+    name: Alraune
     preis: E
-    karlsgarten: false
-    jahr: ""
-  - name: Frühlings-Adonis
-    Name3: Frühlings-Adonisröschen
-    ordnung: ""
-    ordnung-lt: ""
     familie: ""
-    familie-lt: ""
-    gattung: Adonis
+    gattung: Mandragora
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: vernalis
+    familie-lt: ""
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
-    jahr: ""
+    Name3: Frühlings-Adonisröschen
+    name: Frühlings-Adonis
+    preis: ""
+    familie: ""
     extraNamen:
       - Adonisröschen
-  - name: Sommer-Adonis
-    Name3: Sommer-Adonisröschen
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
     gattung: Adonis
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: aestivalis
+    familie-lt: ""
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
-    jahr: ""
+    Name3: Sommer-Adonisröschen
+    name: Sommer-Adonis
+    preis: ""
+    familie: ""
     extraNamen:
       - Adonisröschen
-  - name: Herbst-Adonis
-    Name3: Herbst-Adonisröschen
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
     gattung: Adonis
-    art: annua
-    sorte: ""
-    winterhart: false
+    ordnung-lt: ""
     staude: false
-    preis: ""
-    karlsgarten: false
+  - winterhart: false
+    ordnung: ""
     jahr: ""
+    art: annua
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    Name3: Herbst-Adonisröschen
+    name: Herbst-Adonis
+    preis: ""
+    familie: ""
     extraNamen:
       - Adonisröschen
-  - name: Amarant
-    ordnung: ""
+    gattung: Adonis
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Amaranthus
-    art: blitum
-    sorte: ""
-    winterhart: false
     staude: false
-    preis: ""
-    karlsgarten: false
+  - winterhart: false
+    ordnung: ""
     jahr: ""
+    art: blitum
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Amarant
+    preis: ""
+    familie: ""
     extraNamen:
       - Fuchsschwanz
-  - name: Canum Basilikum
-    ordnung: ""
+    gattung: Amaranthus
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Ocimum
-    art: canum
-    sorte: ""
-    winterhart: false
     staude: false
-    preis: ""
-    karlsgarten: false
+  - winterhart: false
+    ordnung: ""
     jahr: ""
+    art: canum
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Canum Basilikum
+    preis: ""
+    familie: ""
     extraNamen:
       - Tulsi canum
-  - name: Färberdistel
-    ordnung: ""
+    gattung: Ocimum
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Carthamus
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: tinctoris
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: europäische Goldrute
-    Name3: gemeine Goldrute
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: Solidago
-    art: virgaurea
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
+    name: Färberdistel
+    preis: ""
+    familie: ""
+    gattung: Carthamus
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
     jahr: ""
+    art: virgaurea
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    Name3: gemeine Goldrute
+    name: europäische Goldrute
+    preis: ""
+    familie: ""
     extraNamen:
       - echte Goldrute
-  - name: Steinklee
-    Name3: Gelber Steinklee
-    ordnung: ""
+    gattung: Solidago
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Meliotus
-    art: officinalis
-    sorte: ""
-    winterhart: false
     staude: false
-    preis: ""
-    karlsgarten: false
+  - winterhart: false
+    ordnung: ""
     jahr: ""
+    art: officinalis
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    Name3: Gelber Steinklee
+    name: Steinklee
+    preis: ""
+    familie: ""
     extraNamen:
       - Echter Steinklee
-  - name: Gartenkresse
-    ordnung: ""
+    gattung: Meliotus
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Lepidium
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: sativum
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Süßholz
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: Glycyrrhiza
+    sorte: ""
+    karlsgarten: false
+    name: Gartenkresse
+    preis: ""
+    familie: ""
+    gattung: Lepidium
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: glabra
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Schmalblättriger Sonnenhut
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: Echinacea
+    sorte: ""
+    karlsgarten: false
+    name: Süßholz
+    preis: ""
+    familie: ""
+    gattung: Glycyrrhiza
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: angustifolia
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Gelbe Tollkirsche
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: Atropa
-    art: belladonna
-    sorte: "`Lutea`"
-    winterhart: false
-    staude: false
-    preis: ""
+    sorte: ""
     karlsgarten: false
+    name: Schmalblättriger Sonnenhut
+    preis: ""
+    familie: ""
+    gattung: Echinacea
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
     jahr: ""
+    art: belladonna
+    familie-lt: ""
+    sorte: "`Lutea`"
+    karlsgarten: false
+    name: Gelbe Tollkirsche
+    preis: ""
+    familie: ""
     extraNamen:
       - Gelbfrüchtige Tollkirsche
-  - name: echter Haarstrang
-    ordnung: ""
+    gattung: Atropa
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Peucedanum
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: officinale
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Faserhanf
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: Cannabis
-    art: sativa
     sorte: ""
-    Varietät: sativa
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
+    name: echter Haarstrang
+    preis: ""
+    familie: ""
+    gattung: Peucedanum
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
     jahr: ""
+    Varietät: sativa
+    art: sativa
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Faserhanf
+    preis: ""
+    familie: ""
     extraNamen:
       - Nutzhanf
-  - name: Huflattich
-    ordnung: ""
+    gattung: Cannabis
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Tussilago
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: farfara
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Schabenkönigskerze
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: Verbascum
+    sorte: ""
+    karlsgarten: false
+    name: Huflattich
+    preis: ""
+    familie: ""
+    gattung: Tussilago
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: blattaria
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Salzmelde
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: Atriplex
+    sorte: ""
+    karlsgarten: false
+    name: Schabenkönigskerze
+    preis: ""
+    familie: ""
+    gattung: Verbascum
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: halimus
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Virginiatabak
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: Nicotiana
+    sorte: ""
+    karlsgarten: false
+    name: Salzmelde
+    preis: ""
+    familie: ""
+    gattung: Atriplex
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: tabacum
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Bauerntabak
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Virginiatabak
+    preis: ""
+    familie: ""
     gattung: Nicotiana
-    art: rustica
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Ehrenpreis
-    Name3: Ähriger Blauweiderich
-    ordnung: ""
     ordnung-lt: ""
-    familie: ""
-    familie-lt: ""
-    gattung: Veronica
-    art: spicata
-    sorte: ""
-    winterhart: false
     staude: false
-    preis: ""
-    karlsgarten: false
+  - winterhart: false
+    ordnung: ""
     jahr: ""
-    extraNamen:
-      - Ähriger Ehrenpreis
+    art: rustica
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Bauerntabak
+    preis: ""
+    familie: ""
+    gattung: Nicotiana
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
+    art: spicata
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    Name3: Ähriger Blauweiderich
     synonyme:
       - Ähren-Blauweiderich
-  - name: arabisches Bergkraut
-    ordnung: ""
-    ordnung-lt: ""
+    name: Ehrenpreis
+    preis: ""
     familie: ""
-    familie-lt: ""
-    gattung: Micromeria
+    extraNamen:
+      - Ähriger Ehrenpreis
+    gattung: Veronica
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
+    jahr: ""
     art: fruticosa
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
-    jahr: ""
-  - name: Schildampfer
-    ordnung: ""
-    ordnung-lt: ""
-    familie: ""
     familie-lt: ""
-    gattung: Rumex
-    art: scutatus
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
+    name: arabisches Bergkraut
+    preis: ""
+    familie: ""
+    gattung: Micromeria
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
+    ordnung: ""
     jahr: ""
+    art: scutatus
+    familie-lt: ""
+    sorte: ""
+    karlsgarten: false
+    name: Schildampfer
+    preis: ""
+    familie: ""
     extraNamen:
       - römischer Ampfer
-  - name: echte Aloe
+    gattung: Rumex
+    ordnung-lt: ""
+    staude: false
+  - winterhart: false
     ordnung: Spargelartige
-    ordnung-lt: Asparagales
-    familie: Grasbaumgewächse
-    familie-lt: Xanthorrhoeaceae
-    gattung: Aloe
-    art: vera
-    sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
-    karlsgarten: false
     jahr: "3"
-  - name: Eisenhut
-    Name3: Ziegentod
-    ordnung: Hahnenfußartig
-    ordnung-lt: Ranunculales
-    familie: Hahnenfußgewächse
-    familie-lt: Ranunlulaceae
-    gattung: Aconitum
-    art: napellus
+    art: vera
+    familie-lt: Xanthorrhoeaceae
     sorte: ""
-    winterhart: false
-    staude: false
-    preis: ""
     karlsgarten: false
+    name: echte Aloe
+    preis: ""
+    familie: Grasbaumgewächse
+    gattung: Aloe
+    ordnung-lt: Asparagales
+    staude: false
+  - winterhart: false
+    ordnung: Hahnenfußartig
     jahr: ""
-    extraNamen:
-      - Mönchshut
+    art: napellus
+    familie-lt: Ranunlulaceae
+    sorte: ""
+    karlsgarten: false
+    Name3: Ziegentod
     synonyme:
       - Würgling
       - Venuswagen
+    name: Eisenhut
+    preis: ""
+    familie: Hahnenfußgewächse
+    extraNamen:
+      - Mönchshut
+    gattung: Aconitum
+    ordnung-lt: Ranunculales
+    staude: false

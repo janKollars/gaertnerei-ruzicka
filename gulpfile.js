@@ -35,8 +35,12 @@ function copyKraeuter() {
       content += `---\n${kraut.body}`
       fs.writeFileSync(`site/content/kraeuter/${
         kraut.name.toLowerCase()
-        .replace(/[^\w ]+/g,'')
-        .replace(/ +/g,'-')
+        .replace(/ä/g, 'ae')
+        .replace(/ö/g, 'oe')
+        .replace(/ü/g, 'ue')
+        .replace(/ß/g, 'ss')
+        .replace(/[^\w ]+/g, '')
+        .replace(/ +/g, '-')
       }.md`, content)
     }
   }
