@@ -1,10 +1,9 @@
 ---
 title: Friedhofsgärtnerei
 ---
-
 Am 1. April 1985 übernahm Martin Ruzicka die Friedhofsgärtnerei in Langenzersdorf von Frau Elisabeth Kotvojs. Da aufgrund von Straßenbauvorhaben die bestehenden Gebäude und Glashäuser abgetragen werden mussten, wurde bereits 1985 der erste Folientunnel aufgestellt und mit dem Bau des neuen Betriebsgebäudes begonnen.  Ein geräumiger Arbeitsraum mit Lagermöglichkeiten, Kühlhaus, Heizraum, Büro und Sanitärräumen wurde auf dem Pachtgrundstück des Stiftes Klosterneuburg errichtet. Die Errichtung eines zweiten Folientunnels, die Befestigung der Wege, Wasserleitungen und die Einfriedung des Grundstückes wurden in den nächsten Jahren durchgeführt.
 
-{{< figure class="shadow" src="/img/gaertnerei_haus.jpg" alt="Gebäude Gärtnerei Ruzicka" >}}
+<img class="shadow" src="/img/gaertnerei_haus.jpg" alt="">
 
 Der Schwerpunkt der betrieblichen Tätigkeit liegt in der Betreuung der Gräber am Friedhof von Langenzersdorf. Die Neuanlage einer Bepflanzung nach einer Beisetzung gehört ebenso dazu wie die Schmückung der Grabstelle mit jahreszeitlich wechselnden Blumen, Gießen der Pflanzen, Mähen des Rasens, Unkrautbekämpfung und Säubern der Grabstelle. Zu persönlichen Gedenktagen kann je nach Kundenwunsch die Grabstelle mit einem Blumenstrauß geschmückt oder eine Kerze in der Laterne entzündet werden. All diese Leistungen werden auch einzeln angeboten. Für die längerfristige Betreuung eines Grabes werden Dauergrabpflegeverträge der Friedhofsgärtner Genossenschaft Österreichs (FGÖ) angeboten.
 
