@@ -3,6 +3,10 @@
     color: $brand-color-lighter;
   }
 
+html {
+  width: 100vw;
+}
+
 body {
   display: flex;
   flex-direction: column;
@@ -165,7 +169,7 @@ vertical-align: top;
   padding-left: $bg-offset;
   padding-right: $bg-offset;
   max-width: 618px;
-  width: 100%;
+  flex-grow: 1;
 
   &::before, &::after {
     display: block;
