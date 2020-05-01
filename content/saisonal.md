@@ -26,7 +26,7 @@ Bis auf die besonders empfindlichen und wärmeliebenden Kräuter wie Basilikum, 
 <!--
 ## Samen
 
-<a href="https://www.gaertnerei-ruzicka.at/img/saisonal_samen.jpg" target="_blank"_>
+<a href="https://www.gaertnerei-ruzicka.at/img/saisonal_samen.jpg" target="_blank">
   <img class="shadow" align="right" src="/img/saisonal_samen.jpg" alt="Samen" width="100">
 </a>
 
