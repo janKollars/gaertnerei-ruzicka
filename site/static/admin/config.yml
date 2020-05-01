@@ -51,17 +51,18 @@ collections:
           name: synonyme
           widget: list
           field: { label: Synonym, name: synonym, widget: string }
-        - { label: Ordnung, name: ordnung, widget: string }
-        - { label: Ordnung-lt, name: ordnung-lt, widget: string }
-        - { label: Familie, name: familie, widget: string }
-        - { label: Familie-lt, name: familie-lt, widget: string }
-        - { label: Gattung, name: gattung, widget: string }
-        - { label: Art, name: art, widget: string }
-        - { label: Sorte, name: sorte, widget: string }
+        - { label: Ordnung, name: ordnung, widget: string, required: false }
+        - { label: Ordnung-lt, name: ordnung-lt, widget: string, required: false }
+        - { label: Familie, name: familie, widget: string, required: false }
+        - { label: Familie-lt, name: familie-lt, widget: string, required: false }
+        - { label: Gattung, name: gattung, widget: string, required: false }
+        - { label: Art, name: art, widget: string, required: false }
+        - { label: Sorte, name: sorte, widget: string, required: false }
         - label: Preisklasse
           name: preis
           widget: select
           options: [A, B, C, D, E, F]
+          required: false
         - label: Jahr
           name: jahr
           widget: select
@@ -69,9 +70,10 @@ collections:
             - { label: einjährig, value: 1 }
             - { label: zweijährig, value: 2 }
             - { label: mehrjährig, value: m }
-        - { label: winterhart, name: winterhart, widget: boolean }
-        - { label: ist Staude, name: staude, widget: boolean }
-        - { label: Karlsgarten, name: karlsgarten, widget: boolean }
+          required: false
+        - { label: winterhart, name: winterhart, widget: boolean, required: false }
+        - { label: ist Staude, name: staude, widget: boolean, required: false }
+        - { label: Karlsgarten, name: karlsgarten, widget: boolean, required: false }
         - label: Lichtbedarf
           name: licht
           widget: select
@@ -80,6 +82,7 @@ collections:
             - { label: lichtschattig, value: 2 }
             - { label: halbschattig, value: 3 }
             - { label: vollschattig, value: 4 }
+          required: false
         - label: Wasserbedarf
           name: wasser
           widget: select
@@ -87,4 +90,5 @@ collections:
             - { label: viel, value: 1 }
             - { label: wenig, value: 2 }
             - { label: kein, value: 3 }
-        - { label: Beschreibung, name: body, widget: markdown }
+          required: false
+        - { label: Beschreibung, name: body, widget: markdown, required: false }
