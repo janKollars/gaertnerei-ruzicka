@@ -3,6 +3,7 @@ backend:
   branch: enable-netlifycms
 media_folder: site/static/img
 public_folder: /img
+locale: de
 collections:
   - name: page
     label: Seiten

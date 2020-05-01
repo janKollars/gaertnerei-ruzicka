@@ -13,7 +13,7 @@
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.10.45/dist/netlify-cms.js"></script>
   <script>
-    CMS.registerPreviewStyle("/main.css")
+    CMS.registerPreviewStyle("/{{ .Site.Data.webpack.main.css }}")
 
     const PagePreview = createClass({
       render() {

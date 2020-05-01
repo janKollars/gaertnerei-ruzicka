@@ -7,7 +7,7 @@ const fs = require('fs')
 const kraeuterDBpath = 'content/kraeuter/kraeuterDB.yml'
 
 function copyContent() {
-  del.sync(['site/content/*', '!site/content', '!site/content/kraeuter'])
+  del.sync(['site/content/*', '!site/content', '!site/content/kraeuter', '!site/content/admin'])
   return src('content/*')
     .pipe(dest('site/content'))
 }
@@ -24,7 +24,7 @@ function copyKraeuterIndex() {
 }
 
 function copyKraeuter() {
-  del.sync(['site/content/kraeuter/*', '!site/content/kraeuter', '!site/content/_index.html'])
+  del.sync(['site/content/kraeuter/*', '!site/content/kraeuter', '!site/content/_index.html', '!site/content/admin'])
   const kraeuter = YAML.parse(fs.readFileSync(kraeuterDBpath, 'utf-8')).kraeuter
   for (const kraut of kraeuter) {
     if (Object.hasOwnProperty.call(kraut, 'body')) {
