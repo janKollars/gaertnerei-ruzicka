@@ -5,6 +5,7 @@ title: Saisonale Angebote
 In der Zeit von Frühling bis Herbst verkaufen wir in der Friedhofsgärtnerei unsere eigenen Kräuter- und Gewürzpflanzen.
 
 Darüber hinaus haben wir wechselnde Angebote:
+
 <!--
 ## Winter
 Im Winter ist eine kleine Auswahl an Winterharten Kräutern und blühenden Pflanzen erhältlich.
@@ -24,6 +25,7 @@ Im Sommer verkaufen wir blühende Pflanzen wie <b>Begonien, Pelargonien, Wliener
 <br>
 
 Jetzt sind auch die wärmeliebenden Kräuter wie Basilikum, Dille, Koriander, Anis etc. verkaufsbereit. <b>Vietnamesischer Koriander, Currykraut, Minzen, Oregano, Mönchspfeffer</b> und viele andere warten auf ein gemütliches Plätzchen in Ihrem Garten.<br>
+
 <!--
 ## Frühling
 
