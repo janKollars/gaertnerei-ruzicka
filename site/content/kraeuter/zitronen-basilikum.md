@@ -1,7 +1,7 @@
 ---
 title: Zitronen-Basilikum
 gattung: Basilikum
-preis: A
+preis: B
 jahr: m
 winter: "n"
 licht: "1"
