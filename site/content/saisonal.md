@@ -41,7 +41,7 @@ Bis auf die besonders empfindlichen und wärmeliebenden Kräuter wie Basilikum, 
   <img class="shadow" align="right" src="/img/saisonal_samen.jpg" alt="Samen" width="100">
 </a>
 
-Aktuell haben wir Samen zur Aussaat von Blumen und Gemüsepflanzen von Austrosaat anzubieten.
+Aktuell haben wir Samen zur Aussaat von Blumen und Gemüsepflanzen von der Firma Austrosaat anzubieten.
 
 Die angebotenen Gemüsesorten umfassen zum Beispiel Salat und Zucchini, aber auch Karotten und Erbsen. Und auch Kräutersamen sind dabei.
 
