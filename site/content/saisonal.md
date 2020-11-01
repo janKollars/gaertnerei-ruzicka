@@ -18,9 +18,9 @@ Bitte beachten Sie, dass die Gärtnerei im Winter nicht ständig besetzt ist. Ei
 
 ## Herbst
 Für die Herbstbepflanzung im Garten und auf den Gräbern bieten wir jetzt Stiefmütterchen und Hornveilchen an, Erika, Heidekraut, Chrysanthemen, Herbstflor.
-<!--
- sowie diverse Reisig- und Moosgebinde.
--->
+
+Tannenreisig, Schmuckreisig sowie diverse Reisig- und Moosgebinde.
+Auch eine Auswahl an Wintergemüse habe ich vorrätig.
 
 Für Ihre empfindlichen Kübelpflanzen biete ich einen schönen Platz im temperierten Glashaus in meiner Gärtnerei an.
 
