@@ -6,16 +6,16 @@ In der Zeit von Frühling bis Herbst verkaufen wir in der Friedhofsgärtnerei un
 
 Darüber hinaus haben wir wechselnde Angebote:
 
-<!--
+
 ## Winter
 Im Winter ist eine kleine Auswahl an Winterharten Kräutern und blühenden Pflanzen erhältlich.
 
 Bestellungen für Trauerbinderei oder Grabpflege werden auch im Winter gerne entgegengenommen.
 
 Bitte beachten Sie, dass die Gärtnerei im Winter nicht ständig besetzt ist. Eine Terminvereinbarung ist aber jederzeit möglich 
--->
 
 
+<!--
 ## Herbst
 Für die Herbstbepflanzung im Garten und auf den Gräbern bieten wir jetzt Stiefmütterchen und Hornveilchen an, Erika, Heidekraut, Chrysanthemen, Herbstflor.
 
@@ -23,7 +23,7 @@ Tannenreisig, Schmuckreisig sowie diverse Reisig- und Moosgebinde.
 Auch eine Auswahl an Wintergemüse habe ich vorrätig.
 
 Für Ihre empfindlichen Kübelpflanzen biete ich einen schönen Platz im temperierten Glashaus in meiner Gärtnerei an.
-
+-->
 <!--
 ## Sommer
 
@@ -51,5 +51,5 @@ Aktuell haben wir Samen zur Aussaat von Blumen und Gemüsepflanzen von der Firma
 
 Die angebotenen Gemüsesorten umfassen zum Beispiel Salat und Zucchini, aber auch Karotten und Erbsen. Und auch Kräutersamen sind dabei.
 
-Die Sämereien sind in verschiedenen Größen erhältlich.
+Die Sämereien sind in verschiedenen Verpackungsgrößen erhältlich.
 -->
