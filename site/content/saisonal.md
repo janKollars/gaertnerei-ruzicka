@@ -8,6 +8,8 @@ Darüber hinaus haben wir wechselnde Angebote:
 
 
 ## Winter
+Am Samstag, den 13. Februar 2021 und am Valentinstag, Sonntag, 14. Februar 2021 habe ich für Sie geöffnet!
+
 Im Winter ist eine kleine Auswahl an Winterharten Kräutern und blühenden Pflanzen erhältlich.
 
 Bestellungen für Trauerbinderei oder Grabpflege werden auch im Winter gerne entgegengenommen.
