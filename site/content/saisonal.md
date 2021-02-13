@@ -8,7 +8,7 @@ Darüber hinaus haben wir wechselnde Angebote:
 
 
 ## Winter
-Am Samstag, den 13. Februar 2021 und am Valentinstag, Sonntag, 14. Februar 2021 habe ich für Sie geöffnet!
+Am Samstag, den 13. Februar 2021 und am Valentinstag, Sonntag, 14. Februar 2021 habe ich für Sie geöffnet! Eine wunderschöne Auswahl an Schnittblumen und Topfpflanzen habe ich für Sie vorbereitet.
 
 Im Winter ist eine kleine Auswahl an Winterharten Kräutern und blühenden Pflanzen erhältlich.
 
