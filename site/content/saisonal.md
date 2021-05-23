@@ -26,22 +26,22 @@ Auch eine Auswahl an Wintergemüse habe ich vorrätig.
 
 Für Ihre empfindlichen Kübelpflanzen biete ich einen schönen Platz im temperierten Glashaus in meiner Gärtnerei an.
 -->
-<!--
+
 ## Sommer
 
 Im Sommer verkaufen wir blühende Pflanzen wie <b>Begonien, Pelargonien, Wlienerinnen, Studentenblumen, Fuchsien, Alyssum, Lobelien</b> und auch Gemüsepflanzen wie <b>Salate, Schnittlauch, Kürbis, Rucola, Paradeiser, Paprika.</b>
 <br>
 
 Jetzt sind auch die wärmeliebenden Kräuter wie Basilikum, Dille, Koriander, Anis etc. verkaufsbereit. <b>Vietnamesischer Koriander, Currykraut, Minzen, Oregano, Mönchspfeffer</b> und viele andere warten auf ein gemütliches Plätzchen in Ihrem Garten.<br>
--->
 
+<!--
 ## Frühling
 
-Im Frühling verkaufen wir Frühlingsbotes wir <b>Primel, Ranunkeln, Hornveilchen, Duftveilchen, Stiefmütterchen, Roggerl</b> und die ersten Gemüsepflanzen wie <b>Salate, Schnittlauch, Spinat, Rucola.</b>
+Im Frühling verkaufen wir Frühlingsboten wie <b>Primel, Ranunkeln, Hornveilchen, Duftveilchen, Stiefmütterchen, Roggerl</b> und die ersten Gemüsepflanzen wie <b>Salate, Schnittlauch, Spinat, Rucola.</b>
 <br>
 
 Bis auf die besonders empfindlichen und wärmeliebenden Kräuter wie Basilikum, Dille, Koriander, Anis etc. sind auch schon viele Kräuter und Gewürzpflanzen verkaufsbereit. <b>Vietnamesischer Koriander, Currykraut, Minzen, Oregano, Mönchspfeffer</b> und viele andere warten auf ein gemütliches Plätzchen in Ihrem Garten.<br>
-
+-->
 
 ## Samen
 
